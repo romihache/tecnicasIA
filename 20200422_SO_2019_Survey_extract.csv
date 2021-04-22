@@ -1,0 +1,5001 @@
+CompTotal;Gender;Manager;YearsCode;Age1stCode;YearsCodePro;Education
+180000;Man;IC;25;17;20;Master's
+55000;Man;IC;5;18;3;Bachelor's
+77000;Man;IC;6;19;2;Bachelor's
+67017;Man;IC;4;20;1;Bachelor's
+90000;Man;IC;6;26;4;Less than bachelor's
+58000;Man;IC;16;14;4;Bachelor's
+180000;Man;Manager;40;12;38;Master's
+104000;Man;IC;19;13;12;Less than bachelor's
+86250;Man;IC;9;16;5;Bachelor's
+167000;Man;IC;11;19;8;Bachelor's
+155000;Man;Manager;7;16;6;Bachelor's
+45000;Man;IC;7;16;1;Bachelor's
+275000;Man;Manager;25;8;16;Bachelor's
+150000;Man;IC;2;33;2;Bachelor's
+180000;Man;IC;20;12;13;Bachelor's
+160000;Man;Manager;15;16;14;Bachelor's
+185000;Man;IC;15;18;11;Bachelor's
+135000;Man;IC;18;17;12;Bachelor's
+55000;Man;IC;15;9;12;Less than bachelor's
+115000;Man;IC;9;26;6;Master's
+192000;Man;IC;37;20;30;Bachelor's
+115000;Man;IC;20;12;20;Bachelor's
+140000;Woman;IC;15;15;9;Bachelor's
+150000;Man;IC;19;13;16;Bachelor's
+64500;Woman;IC;6;17;Less than 1 year;Bachelor's
+55000;Man;IC;6;12;1;Bachelor's
+115000;Man;IC;19;5;15;Less than bachelor's
+65000;Man;IC;7;15;3;Less than bachelor's
+100000;Woman;IC;4;15;4;Bachelor's
+110000;Man;IC;20;8;9;Less than bachelor's
+100000;Man;IC;15;10;10;Bachelor's
+80000;Man;IC;8;10;2;Master's
+52500;Man;IC;4;11;1;Bachelor's
+147000;Man;IC;6;18;2;Bachelor's
+72000;Man;IC;11;11;3;Bachelor's
+190000;Woman;IC;5;20;2;Bachelor's
+132000;Man;Manager;5;12;4;Bachelor's
+175000;Man;IC;2;12;Less than 1 year;Bachelor's
+180000;Man;IC;25;7;15;Less than bachelor's
+130000;Man;IC;12;14;7;Bachelor's
+67000;Man;IC;11;30;7;Bachelor's
+110000;Man;IC;21;22;20;Less than bachelor's
+180000;Man;IC;6;16;1;Bachelor's
+76000;Man;IC;16;12;7;Bachelor's
+125000;Man;IC;5;17;4;Bachelor's
+320000;Man;IC;20;10;8;Bachelor's
+200000;Man;IC;18;15;18;Master's
+95000;Man;IC;13;12;11;Bachelor's
+83200;Man;IC;14;14;6;Bachelor's
+90000;Man;IC;16;19;10;Bachelor's
+82000;Woman;IC;9;17;8;Bachelor's
+260000;Man;IC;26;13;21;Master's
+85000;Man;IC;4;25;Less than 1 year;Bachelor's
+120000;Man;IC;15;5;6;Less than bachelor's
+140000;Man;IC;4;25;2;Master's
+266000;Man;IC;14;10;12;Bachelor's
+73445;Man;IC;8;16;4;Bachelor's
+100000;Woman;IC;3;17;1;Bachelor's
+125000;Man;IC;14;17;6;Bachelor's
+89468;Man;IC;14;15;8;Bachelor's
+95000;Man;IC;11;26;7;Bachelor's
+115000;Woman;IC;21;8;13;Master's
+138000;Man;IC;19;8;15;Bachelor's
+70000;Man;IC;4;21;2;Bachelor's
+110000;Man;IC;12;15;6;Bachelor's
+144000;Man;Manager;11;16;9;Bachelor's
+95000;Man;IC;14;19;10;Bachelor's
+172500;Man;Manager;23;16;16;Bachelor's
+90000;Man;IC;10;18;6;Master's
+102000;Man;IC;18;12;11;Bachelor's
+82000;Man;IC;8;16;3;Bachelor's
+100000;Man;IC;10;14;5;Less than bachelor's
+130000;Man;IC;16;18;13;Master's
+150000;Man;Manager;28;12;20;Bachelor's
+99800;Woman;IC;18;22;16;Master's
+70000;Man;IC;10;21;5;Bachelor's
+93600;Man;IC;8;15;5;Bachelor's
+70000;Man;IC;5;18;Less than 1 year;Bachelor's
+97000;Man;IC;26;10;2;Less than bachelor's
+185000;Man;IC;30;7;19;Less than bachelor's
+168000;Man;IC;5;14;5;Bachelor's
+75000;Man;IC;4;14;2;Bachelor's
+80000;Woman;IC;20;9;5;Bachelor's
+130000;Man;IC;4;25;4;Bachelor's
+65000;Woman;IC;2;10;2;Master's
+100000;Man;IC;4;29;4;Master's
+84000;Man;IC;9;17;4;Less than bachelor's
+200000;Man;Manager;7;16;7;Bachelor's
+111000;Man;IC;15;10;10;Master's
+125000;Man;IC;28;12;23;Bachelor's
+100000;Man;IC;12;17;10;Master's
+185000;Man;Manager;33;7;25;Less than bachelor's
+132000;Man;IC;27;7;18;Bachelor's
+40000;Man;IC;1;44;Less than 1 year;Bachelor's
+68000;Man;IC;9;17;4;Bachelor's
+77000;Man;IC;6;13;Less than 1 year;Bachelor's
+115500;Woman;IC;10;13;6;Bachelor's
+69888;Man;IC;3;16;2;Less than bachelor's
+108000;Man;IC;16;16;10;Bachelor's
+105000;Man;IC;30;12;20;Less than bachelor's
+75000;Man;IC;15;16;5;PhD
+135000;Man;IC;18;21;15;Less than bachelor's
+130000;Man;IC;2;23;1;Bachelor's
+52800;Man;IC;8;18;3;Bachelor's
+121000;Woman;IC;13;10;Less than 1 year;Less than bachelor's
+160000;Man;Manager;25;11;20;Bachelor's
+170000;Man;IC;12;16;8;Bachelor's
+82000;Man;IC;16;11;12;Bachelor's
+110000;Man;IC;18;22;14;Less than bachelor's
+132000;Man;IC;8;15;3;Bachelor's
+132000;Man;Manager;20;15;12;Bachelor's
+137000;Man;Manager;11;20;9;Bachelor's
+92000;Man;IC;6;18;3;Master's
+58000;Man;IC;6;19;4;Bachelor's
+138000;Man;Manager;38;13;31;Bachelor's
+84000;Woman;IC;10;10;3;Less than bachelor's
+80000;Man;IC;23;18;15;Bachelor's
+139000;Man;IC;12;14;8;Master's
+125000;Man;Manager;17;10;14;Less than bachelor's
+205000;Man;Manager;32;10;21;Bachelor's
+62000;Man;IC;5;17;2;Bachelor's
+169000;Man;IC;22;12;11;Bachelor's
+125000;Man;Manager;25;20;20;Master's
+148000;Woman;IC;9;15;4;Bachelor's
+15500;Man;IC;32;10;20;Master's
+110000;Man;Manager;10;14;5;Master's
+140000;Woman;IC;9;34;8;Bachelor's
+110000;Man;IC;7;19;3;Bachelor's
+60000;Man;IC;4;19;1;Bachelor's
+125000;Man;Manager;20;10;13;Bachelor's
+168000;Man;Manager;48;8;34;PhD
+210000;Man;IC;11;13;9;PhD
+95000;Man;IC;16;13;2;Bachelor's
+60000;Man;IC;37;14;35;Bachelor's
+115000;Man;IC;18;14;8;Bachelor's
+117000;Woman;IC;18;18;17;Master's
+170000;Man;IC;25;7;10;Bachelor's
+132000;Man;IC;30;15;15;Master's
+110000;Man;IC;12;5;5;Master's
+52000;Man;IC;10;8;7;Bachelor's
+35000;Man;Manager;8;13;5;Less than bachelor's
+101000;Man;IC;13;19;10;Bachelor's
+120000;Man;IC;4;19;3;Less than bachelor's
+310000;Man;Manager;18;16;12;Bachelor's
+125000;Man;IC;23;14;19;Bachelor's
+210000;Man;IC;6;20;4;Bachelor's
+80000;Man;IC;7;13;2;Bachelor's
+100000;Man;IC;10;14;4;Bachelor's
+100000;Man;IC;20;12;20;Bachelor's
+120000;Man;IC;10;15;Less than 1 year;Bachelor's
+900000;Man;IC;1;19;1;Less than bachelor's
+85000;Man;IC;23;9;13;Master's
+113000;Man;IC;21;14;15;Less than bachelor's
+70000;Man;IC;12;14;4;Bachelor's
+125000;Man;IC;11;15;6;Bachelor's
+170000;Woman;IC;12;18;7;Bachelor's
+110000;Man;IC;2;18;2;Bachelor's
+82000;Man;IC;7;14;2;Bachelor's
+112000;Man;IC;11;17;6;Bachelor's
+116000;Man;IC;18;16;13;Bachelor's
+220000;Man;IC;14;17;8;Bachelor's
+85000;Man;IC;8;17;8;Bachelor's
+150000;Man;IC;18;12;7;Bachelor's
+81995;Man;IC;7;15;5;Less than bachelor's
+50000;Man;IC;9;13;3;Less than bachelor's
+140000;Man;IC;7;20;4;Bachelor's
+51500;Man;IC;3;14;1;Bachelor's
+180000;Man;IC;30;16;30;Bachelor's
+52000;Man;IC;9;19;4;Less than bachelor's
+40000;Man;IC;2;25;Less than 1 year;Bachelor's
+350000;Man;Manager;34;11;27;Less than bachelor's
+250000;Man;IC;13;10;10;Less than bachelor's
+90000;Man;IC;7;15;4;Bachelor's
+140000;Man;IC;5;18;4;Bachelor's
+165000;Man;Manager;35;17;30;Master's
+123000;Woman;IC;20;7;20;Bachelor's
+100000;Man;IC;30;20;11;Less than bachelor's
+150000;Man;IC;20;12;15;Bachelor's
+200000;Man;IC;6;21;3;Less than bachelor's
+62000;Man;IC;25;15;10;Bachelor's
+82650;Man;IC;12;12;7;Master's
+130000;Man;IC;15;11;4;Bachelor's
+22000;Man;IC;10;12;7;Master's
+100000;Man;IC;22;13;19;Bachelor's
+150000;Man;IC;17;13;11;Bachelor's
+108000;Man;IC;40;15;34;Less than bachelor's
+155000;Man;IC;21;20;17;Bachelor's
+160000;Man;IC;14;12;8;Bachelor's
+92000;Man;IC;4;21;3;Bachelor's
+1000000;Man;Manager;6;26;6;Bachelor's
+67000;Man;IC;7;15;3;Bachelor's
+67000;Man;IC;7;17;3;Bachelor's
+87000;Man;IC;6;17;4;Bachelor's
+74000;Man;IC;6;14;2;Bachelor's
+110000;Man;Manager;18;9;14;Less than bachelor's
+170000;Man;IC;6;16;Less than 1 year;Bachelor's
+110000;Man;IC;11;16;5;Master's
+135000;Man;IC;7;14;2;Bachelor's
+80000;Man;IC;13;14;5;Bachelor's
+225000;Man;IC;15;11;6;Less than bachelor's
+90000;Man;IC;6;24;4;Bachelor's
+64138;Man;IC;14;12;10;Bachelor's
+68000;Woman;IC;6;18;2;Bachelor's
+88000;Man;IC;8;18;3;Bachelor's
+65000;Man;Manager;13;18;8;Bachelor's
+58000;Man;IC;20;14;12;Bachelor's
+99000;Man;IC;10;18;10;Master's
+140000;Man;Manager;18;8;5;Master's
+115000;Man;IC;3;30;2;Less than bachelor's
+95000;Man;IC;9;16;3;Bachelor's
+75000;Man;IC;5;23;2;Bachelor's
+70000;Man;IC;7;16;3;Bachelor's
+190000;Man;IC;12;17;8;Master's
+58000;Man;IC;5;22;2;Bachelor's
+87000;Man;IC;11;15;8;Bachelor's
+117000;Man;IC;7;14;1;Bachelor's
+101250;Man;IC;6;16;2;Bachelor's
+235000;Man;Manager;12;17;12;Bachelor's
+76000;Man;Manager;10;10;7;Master's
+90000;Woman;IC;18;11;7;Bachelor's
+115000;Man;IC;18;12;17;Bachelor's
+72000;Man;IC;10;11;6;Bachelor's
+65000;Man;IC;20;17;10;Master's
+280000;Man;IC;10;13;8;Bachelor's
+200000;Man;Manager;45;13;40;Master's
+65000;Man;IC;5;18;2;Bachelor's
+36000;Man;IC;7;12;3;Less than bachelor's
+101500;Man;IC;3;25;2;Bachelor's
+95000;Man;Manager;9;10;5;Bachelor's
+78000;Man;Manager;40;12;4;Less than bachelor's
+180000;Man;IC;19;16;14;Bachelor's
+116000;Man;IC;35;15;25;Bachelor's
+90000;Woman;IC;3;36;2;Bachelor's
+144000;Man;IC;22;11;14;Bachelor's
+180000;Man;IC;40;17;30;Less than bachelor's
+140000;Man;IC;18;16;14;PhD
+60000;Man;IC;13;13;4;Bachelor's
+76000;Woman;IC;6;11;4;Bachelor's
+60000;Man;IC;10;13;5;Master's
+200000;Man;IC;13;19;11;Bachelor's
+107000;Man;Manager;20;17;16;Less than bachelor's
+102000;Woman;IC;29;13;24;Bachelor's
+100000;Man;IC;15;16;8;Master's
+400000;Man;IC;20;16;15;PhD
+75000;Man;IC;7;18;3;Bachelor's
+72500;Man;IC;Less than 1 year;30;Less than 1 year;Less than bachelor's
+85000;Man;IC;6;8;4;Less than bachelor's
+80000;Man;IC;7;15;Less than 1 year;Bachelor's
+150000;Man;IC;27;15;21;Bachelor's
+35000;Man;Manager;6;30;Less than 1 year;Bachelor's
+95000;Man;IC;6;23;6;Bachelor's
+117000;Man;IC;15;15;3;Bachelor's
+52500;Man;IC;10;15;3;Less than bachelor's
+144250;Man;IC;14;29;14;Less than bachelor's
+97000;Man;IC;6;18;3;Bachelor's
+100000;Man;IC;7;20;5;Master's
+105000;Man;IC;16;18;11;Master's
+100000;Man;IC;8;6;4;Bachelor's
+130000;Man;IC;12;16;12;Less than bachelor's
+210000;Man;IC;9;16;5;Bachelor's
+84000;Man;IC;16;20;13;Master's
+130000;Man;IC;7;16;2;Master's
+65000;Man;IC;1;41;1;PhD
+90640;Man;IC;10;21;6;Bachelor's
+150000;Woman;IC;7;12;6;Less than bachelor's
+147000;Woman;IC;9;10;5;Bachelor's
+80000;Man;IC;9;20;6;Less than bachelor's
+105000;Man;IC;12;12;2;Bachelor's
+123000;Man;IC;7;23;4;Bachelor's
+130000;Man;IC;NA;17;6;Master's
+160000;Man;IC;6;NA;5;Master's
+190000;Man;IC;5;16;4;Bachelor's
+425000;Man;IC;12;14;8;Bachelor's
+57000;Woman;IC;7;8;4;Less than bachelor's
+276000;Man;IC;7;10;5;PhD
+63000;Man;IC;13;18;4;Master's
+70000;Man;IC;1;16;Less than 1 year;Bachelor's
+67000;Woman;IC;6;15;4;Bachelor's
+130000;Man;IC;12;16;8;Master's
+112100;Man;IC;13;16;12;Master's
+90000;Man;IC;12;16;6;Bachelor's
+148000;Man;IC;42;15;38;Bachelor's
+85000;Man;Manager;13;16;5;Bachelor's
+300000;Man;Manager;10;21;8;Less than bachelor's
+150000;Man;IC;8;16;Less than 1 year;Master's
+85000;Man;IC;10;12;1;Bachelor's
+100000;Man;IC;6;19;4;Bachelor's
+106000;Man;IC;7;22;6;Less than bachelor's
+65000;Man;IC;14;13;8;Master's
+113000;Man;IC;16;18;9;Bachelor's
+70000;Man;IC;12;18;7;Bachelor's
+120000;Man;IC;28;9;21;Less than bachelor's
+72000;Man;IC;10;14;5;Master's
+180000;Man;IC;40;14;27;Bachelor's
+75000;Man;IC;7;17;4;Bachelor's
+145000;Man;IC;3;25;2;Bachelor's
+90000;Man;Manager;9;21;5;Master's
+180000;Man;IC;27;18;23;Master's
+115000;Man;IC;8;10;3;Bachelor's
+86000;Man;IC;18;17;10;Bachelor's
+90000;Man;IC;40;19;40;Less than bachelor's
+120000;Man;IC;28;11;23;Bachelor's
+92000;Man;IC;21;8;6;Bachelor's
+55000;Man;IC;2;20;2;Master's
+125000;Man;IC;4;10;2;Bachelor's
+76000;Man;IC;11;12;5;Bachelor's
+135000;Man;IC;15;12;11;Bachelor's
+175000;Man;IC;42;17;36;Master's
+65000;Man;IC;10;17;10;Bachelor's
+190000;Man;IC;8;15;2;Bachelor's
+120000;Man;IC;9;14;8;Bachelor's
+105000;Man;IC;32;7;23;PhD
+64000;Man;IC;3;22;Less than 1 year;Bachelor's
+105000;Woman;IC;7;27;5;Bachelor's
+60000;Man;IC;15;10;7;Less than bachelor's
+80000;Man;IC;14;12;6;Bachelor's
+92000;Woman;IC;10;11;4;Bachelor's
+150000;Man;IC;10;14;6;Bachelor's
+85000;Man;IC;7;17;3;Bachelor's
+115000;Man;IC;7;26;3;Bachelor's
+85000;Man;IC;14;13;5;Bachelor's
+152000;Man;IC;12;18;8;Master's
+200000;Woman;IC;15;14;5;PhD
+131000;Man;IC;20;9;9;Bachelor's
+100000;Man;IC;8;24;6;Master's
+95000;Man;IC;9;32;9;Bachelor's
+112000;Man;IC;10;8;10;Less than bachelor's
+100000;Man;IC;9;18;5;Bachelor's
+115000;Man;IC;9;15;2;Bachelor's
+118000;Man;IC;20;15;11;Bachelor's
+20000;Man;IC;14;12;5;Master's
+75000;Man;IC;5;18;2;Bachelor's
+80000;Woman;Manager;4;20;2;Master's
+180000;Man;IC;16;12;11;Bachelor's
+90000;Man;IC;7;16;3;Bachelor's
+165000;Man;IC;9;16;6;Bachelor's
+102700;Man;IC;10;19;8;Less than bachelor's
+120000;Man;IC;11;11;7;Less than bachelor's
+135000;Man;Manager;41;22;41;Bachelor's
+150000;Man;IC;43;17;35;Bachelor's
+110000;Man;IC;34;Younger than 5 years;5;Professional
+190000;Man;Manager;30;13;25;Less than bachelor's
+120000;Man;IC;32;19;32;Bachelor's
+45000;Man;IC;1;21;1;Less than bachelor's
+180000;Man;IC;5;25;5;Master's
+125000;Man;IC;13;17;13;PhD
+115000;Woman;IC;4;29;3;Master's
+95000;Man;IC;14;10;14;Bachelor's
+160000;Man;IC;3;32;3;Bachelor's
+175000;Man;Manager;30;12;20;Master's
+170000;Man;Manager;35;19;30;Master's
+78000;Man;IC;10;18;5;Bachelor's
+120000;Man;Manager;18;18;15;Bachelor's
+200000;Man;IC;9;16;4;Bachelor's
+130000;Man;IC;24;10;13;Less than bachelor's
+90000;Man;IC;8;10;5;Bachelor's
+58000;Man;IC;7;13;6;Bachelor's
+158000;Man;IC;10;24;7;Bachelor's
+160000;Man;IC;4;12;2;Less than bachelor's
+60500;Man;IC;2;15;1;Less than bachelor's
+80000;Man;IC;4;25;3;Bachelor's
+155000;Man;IC;18;16;11;Bachelor's
+91500;Man;IC;4;17;4;Master's
+120000;Man;IC;19;12;15;Master's
+125000;Woman;IC;6;10;2;Bachelor's
+132500;Man;IC;30;7;14;Master's
+148000;Man;IC;18;10;4;Master's
+195000;Man;IC;20;12;16;Master's
+180000;Man;IC;25;7;16;Bachelor's
+150000;Man;Manager;10;19;9;Bachelor's
+100000;Man;IC;36;14;23;Master's
+140000;Man;IC;40;24;36;Bachelor's
+96250;Man;Manager;7;17;3;Bachelor's
+75000;Man;Manager;4;22;4;Less than bachelor's
+90000;Man;IC;10;20;7;Bachelor's
+165000;Man;IC;20;19;16;Bachelor's
+130000;Woman;IC;11;20;10;Bachelor's
+110000;Man;IC;6;19;4;Master's
+238000;Man;IC;10;14;5;Master's
+60000;Man;IC;9;17;5;Bachelor's
+135000;Man;IC;18;12;8;Bachelor's
+80000;Woman;IC;14;21;14;Bachelor's
+93500;Man;IC;7;17;3;Bachelor's
+77000;Man;IC;9;14;1;Bachelor's
+63000;Man;IC;9;14;5;Bachelor's
+266000;Man;IC;9;7;9;Bachelor's
+1000000;Man;IC;20;15;8;Less than bachelor's
+72000;Man;IC;32;13;Less than 1 year;Bachelor's
+155000;Man;IC;25;9;15;Bachelor's
+80000;Man;IC;10;15;4;Bachelor's
+280000;Man;Manager;15;10;11;Bachelor's
+150000;Man;IC;23;18;20;Master's
+90000;Man;IC;9;18;5;Bachelor's
+80000;Man;IC;5;18;Less than 1 year;Bachelor's
+156000;Man;IC;12;13;5;Bachelor's
+105000;Man;IC;43;11;37;Master's
+89000;Man;IC;14;16;13;Bachelor's
+127000;Man;IC;10;13;5;Bachelor's
+54248;Man;IC;14;12;7;Less than bachelor's
+128000;Man;IC;13;16;8;Master's
+102000;Man;IC;13;18;9;Master's
+88000;Man;IC;7;17;2;Bachelor's
+125000;Man;IC;5;17;2;Bachelor's
+140000;Man;IC;10;13;5;Bachelor's
+112500;Man;IC;8;14;6;PhD
+92500;Man;IC;5;23;4;Bachelor's
+125000;Man;IC;5;17;3;Master's
+120000;Woman;IC;5;17;4;Bachelor's
+62000;Woman;IC;4;24;2;Bachelor's
+100000;Man;IC;20;16;10;Bachelor's
+73000;Man;IC;10;16;6;Bachelor's
+84000;Man;IC;6;14;3;Bachelor's
+85000;Man;IC;4;25;3;NA
+124000;Man;IC;20;16;20;Bachelor's
+45000;Man;IC;3;29;1;Bachelor's
+150000;Man;IC;25;35;20;Master's
+120000;Woman;IC;4;16;1;Master's
+125000;Man;IC;6;36;6;Less than bachelor's
+242000;Man;IC;12;15;7;Bachelor's
+117000;Man;IC;26;9;6;Bachelor's
+126500;Man;IC;9;11;6;Bachelor's
+140000;Man;IC;5;18;Less than 1 year;Bachelor's
+139000;Woman;IC;20;16;18;Master's
+172500;Man;IC;17;14;15;PhD
+137000;Man;IC;26;8;12;Bachelor's
+190000;Man;IC;22;19;14;Master's
+82000;Man;IC;20;12;10;Bachelor's
+95000;Man;IC;44;15;41;Bachelor's
+60000;Man;IC;4;18;Less than 1 year;Bachelor's
+100000;Man;IC;20;14;16;Bachelor's
+150000;Man;IC;6;17;8;Master's
+180000;Man;Manager;24;15;20;Bachelor's
+250000;Man;Manager;34;12;30;Bachelor's
+66000;Man;IC;12;13;4;Less than bachelor's
+102000;Man;IC;27;8;8;Bachelor's
+70000;Man;IC;5;18;3;Master's
+130000;Woman;IC;8;19;4;Bachelor's
+160000;Man;IC;22;10;16;Bachelor's
+105000;Man;IC;7;20;5;Bachelor's
+105000;Man;IC;19;17;16;Bachelor's
+112800;Man;IC;9;19;9;Bachelor's
+125000;Man;IC;30;8;20;Bachelor's
+50000;Man;IC;6;6;4;Less than bachelor's
+64000;Woman;IC;5;22;3;Bachelor's
+100000;Man;IC;30;16;25;Bachelor's
+160000;Man;IC;20;15;15;Less than bachelor's
+95000;Man;IC;10;16;6;Master's
+82000;Man;IC;15;14;6;Less than bachelor's
+110000;Woman;IC;8;18;5;Bachelor's
+130000;Man;IC;10;15;4;Master's
+82500;Man;IC;14;13;6;Bachelor's
+100000;Man;IC;8;11;6;Master's
+70000;Man;IC;8;14;3;Bachelor's
+183000;Man;Manager;35;12;25;Bachelor's
+36000;Man;IC;8;15;3;Bachelor's
+111000;Man;IC;3;13;2;Bachelor's
+137000;Man;IC;22;15;17;Master's
+174000;Man;IC;12;11;3;Bachelor's
+120000;Man;IC;15;23;NA;Bachelor's
+86000;Man;IC;5;12;4;Less than bachelor's
+45000;Man;IC;5;13;1;Less than bachelor's
+85000;Man;IC;18;15;7;Bachelor's
+85000;Man;IC;7;13;3;Bachelor's
+200000;Man;IC;35;13;30;Master's
+85000;Man;IC;18;12;12;Bachelor's
+160000;Man;IC;30;30;30;Bachelor's
+140000;Man;Manager;14;7;7;Bachelor's
+150000;Man;IC;11;12;5;Bachelor's
+210000;Man;IC;7;14;7;Master's
+192000;Man;IC;16;16;9;Bachelor's
+175000;Man;IC;25;18;20;Bachelor's
+100000;Man;IC;22;NA;14;Bachelor's
+150000;Man;IC;5;13;3;Less than bachelor's
+88500;Man;IC;40;10;30;Bachelor's
+60000;Man;IC;8;16;4;Bachelor's
+102000;Man;IC;10;26;4;Master's
+247084;Man;IC;13;17;10;Bachelor's
+150000;Man;IC;19;14;13;Bachelor's
+100000;Man;IC;17;16;13;Bachelor's
+101426;Man;IC;7;16;3;Bachelor's
+100000;Man;IC;20;15;10;Less than bachelor's
+170000;Man;IC;23;14;13;NA
+110000;Man;IC;5;16;1;Bachelor's
+96000;Man;Manager;16;14;11;Less than bachelor's
+145000;Woman;IC;10;14;3;Bachelor's
+200000;Man;IC;10;20;2;PhD
+150000;Man;IC;36;14;30;Bachelor's
+108000;Woman;Manager;15;20;15;Master's
+82500;Man;IC;1;25;1;Master's
+75000;Man;IC;15;14;8;Bachelor's
+182000;Man;Manager;15;20;15;Bachelor's
+130000;Man;IC;20;23;18;NA
+130000;Man;IC;25;14;25;Master's
+121900;Man;IC;19;10;11;Less than bachelor's
+130000;Man;IC;32;9;23;Bachelor's
+136200;Man;Manager;19;16;12;Bachelor's
+52000;Man;IC;3;25;Less than 1 year;Bachelor's
+125000;Man;Manager;7;12;7;Bachelor's
+125000;Man;IC;15;12;10;Master's
+81000;Man;IC;15;10;9;Master's
+69300;Man;IC;12;16;6;Less than bachelor's
+72000;Man;Manager;11;12;5;Less than bachelor's
+85000;Man;IC;11;14;4;Bachelor's
+65500;Man;IC;8;12;7;Bachelor's
+100000;Woman;IC;20;12;9;Bachelor's
+80000;Man;IC;3;22;2;Bachelor's
+60000;Man;IC;6;19;2;NA
+100000;Man;IC;14;13;10;Less than bachelor's
+120000;Woman;IC;20;15;20;Bachelor's
+60000;Man;IC;8;13;Less than 1 year;Bachelor's
+42000;Man;IC;2;30;Less than 1 year;Less than bachelor's
+100000;Man;IC;5;13;2;Master's
+101010;Man;IC;8;20;5;Bachelor's
+155000;Man;IC;11;14;8;Bachelor's
+85000;Woman;IC;6;13;1;Bachelor's
+77000;Man;IC;15;14;15;Bachelor's
+110000;Man;IC;11;13;3;Bachelor's
+80000;Woman;IC;3;36;3;Master's
+92000;Man;IC;43;25;43;Bachelor's
+400000;Man;IC;28;7;13;Master's
+46000;Man;IC;3;17;1;Less than bachelor's
+145000;Man;IC;10;12;Less than 1 year;Bachelor's
+68000;Woman;IC;1;15;Less than 1 year;Bachelor's
+240000;Man;IC;9;12;7;Bachelor's
+176000;Man;IC;26;11;19;Bachelor's
+120000;Man;IC;15;14;10;Bachelor's
+150000;Man;IC;11;14;8;Bachelor's
+103000;Man;IC;35;12;18;Less than bachelor's
+180000;Man;IC;12;11;4;Less than bachelor's
+84000;Man;IC;20;19;15;Bachelor's
+220000;Man;IC;25;8;20;Less than bachelor's
+36000;Man;IC;1;17;1;Less than bachelor's
+51024;Woman;IC;6;9;3;Bachelor's
+75000;Man;IC;20;12;8;Bachelor's
+135000;Man;IC;18;13;12;Less than bachelor's
+105000;Man;IC;10;12;8;Bachelor's
+120000;Man;IC;24;13;22;Bachelor's
+220000;Man;IC;20;12;13;Bachelor's
+77000;Man;IC;8;14;8;Bachelor's
+140000;Man;IC;9;20;7;Master's
+120000;Man;Manager;13;18;7;Bachelor's
+110000;Man;IC;22;14;11;Bachelor's
+149000;Man;IC;27;10;22;Bachelor's
+100000;Man;IC;6;31;3;Master's
+140000;Woman;IC;9;10;6;Bachelor's
+97000;Man;IC;3;11;2;Less than bachelor's
+65000;Woman;IC;7;18;2;Bachelor's
+130000;Woman;IC;23;20;23;Bachelor's
+83734;Man;IC;30;12;22;Bachelor's
+88000;Man;IC;12;15;10;Less than bachelor's
+180000;Man;Manager;20;14;17;Bachelor's
+81588;Man;IC;9;20;5;Bachelor's
+140000;Man;IC;10;14;7;Less than bachelor's
+56000;Man;IC;11;13;9;Less than bachelor's
+360000;Man;IC;24;15;22;Master's
+82000;Man;IC;12;12;7;Bachelor's
+80000;Woman;IC;22;18;18;Bachelor's
+150000;Man;IC;12;13;4;Master's
+37000;Woman;IC;6;20;5;Bachelor's
+110000;Man;IC;18;10;14;Bachelor's
+76000;Man;IC;5;16;3;Bachelor's
+100000;Man;IC;12;14;12;Bachelor's
+56000;Man;IC;20;14;12;Less than bachelor's
+90000;Man;IC;8;17;5;Bachelor's
+88000;Man;IC;15;10;4;Less than bachelor's
+135000;Man;IC;28;5;10;PhD
+60000;Man;IC;15;14;5;Bachelor's
+130000;Man;IC;8;19;4;Bachelor's
+100000;Man;IC;15;12;7;Bachelor's
+152000;Man;IC;23;13;8;Master's
+60000;Man;IC;6;8;3;Bachelor's
+92400;Man;IC;10;16;10;Bachelor's
+95000;Man;IC;12;14;3;Bachelor's
+92000;Man;IC;10;15;7;Bachelor's
+115000;Man;IC;50;18;50;Master's
+45000;Woman;IC;6;9;4;Master's
+155000;Man;Manager;32;8;22;Bachelor's
+226000;Man;Manager;27;11;18;Master's
+80000;Man;IC;7;18;3;Bachelor's
+125000;Man;IC;35;15;30;Master's
+105000;Man;IC;10;10;8;Bachelor's
+125000;Man;Manager;5;10;3;Bachelor's
+140000;Man;IC;10;14;10;Bachelor's
+84000;Man;IC;8;16;Less than 1 year;Bachelor's
+100000;Man;IC;3;19;2;Bachelor's
+120000;Man;Manager;34;6;21;Master's
+155000;Man;IC;31;11;25;Bachelor's
+130000;Man;Manager;11;12;11;PhD
+130000;Man;IC;20;18;6;PhD
+190000;Man;IC;20;17;16;Bachelor's
+225000;Man;Manager;18;18;14;Bachelor's
+105000;Man;IC;17;11;12;Less than bachelor's
+105000;Man;IC;8;23;8;Less than bachelor's
+165000;Man;IC;35;5;14;Less than bachelor's
+110000;Man;IC;12;15;6;Master's
+176874;Woman;IC;4;16;2;Less than bachelor's
+165000;Man;IC;30;Younger than 5 years;7;Bachelor's
+111000;Man;IC;6;12;2;Bachelor's
+100000;Man;Manager;9;18;5;Bachelor's
+95000;Man;IC;13;11;4;Master's
+92500;Man;IC;14;15;2;Bachelor's
+80000;Man;IC;12;32;4;Bachelor's
+110000;Man;IC;13;18;8;Bachelor's
+78000;Woman;IC;2;25;2;Bachelor's
+73000;Man;IC;34;8;10;Master's
+74000;Woman;IC;5;18;2;Bachelor's
+74000;Man;IC;3;22;2;Master's
+130000;Man;Manager;17;18;15;Master's
+105000;Man;IC;23;13;16;Less than bachelor's
+60000;Man;IC;20;12;13;Bachelor's
+160000;Man;IC;9;11;4;Master's
+105000;Woman;IC;3;9;3;Less than bachelor's
+88400;Woman;IC;6;18;4;Bachelor's
+95000;Man;IC;9;24;7;Bachelor's
+51700;Woman;IC;3;13;2;Master's
+84000;Woman;IC;1;18;Less than 1 year;Master's
+120000;Man;IC;25;10;13;Master's
+97000;Man;IC;10;17;10;Bachelor's
+161000;Man;IC;27;8;22;Bachelor's
+72000;Man;IC;3;27;Less than 1 year;Bachelor's
+150000;Man;Manager;20;9;20;Bachelor's
+180000;Man;Manager;29;11;24;PhD
+95000;Woman;IC;8;23;5;Master's
+95000;Man;IC;4;14;3;Less than bachelor's
+150000;Man;Manager;24;10;22;Less than bachelor's
+100000;Man;IC;20;15;20;Bachelor's
+75000;Man;IC;6;16;2;Bachelor's
+120000;Man;IC;7;14;7;Less than bachelor's
+85300;Man;IC;20;17;8;Less than bachelor's
+135000;Man;IC;18;19;12;Master's
+185000;Man;IC;12;16;7;Bachelor's
+100500;Man;IC;14;15;12;Less than bachelor's
+110000;Man;IC;25;14;20;Master's
+75000;Man;IC;19;16;15;Bachelor's
+70000;Man;IC;5;14;1;Bachelor's
+75000;Man;IC;13;10;2;Less than bachelor's
+142000;Woman;IC;9;16;3;Bachelor's
+80000;Man;IC;9;15;5;Bachelor's
+90000;Man;IC;9;15;5;Bachelor's
+85000;Woman;IC;20;15;14;Master's
+220000;Man;IC;18;7;12;Master's
+140000;Man;IC;8;13;6;Less than bachelor's
+140000;Man;Manager;18;14;13;Less than bachelor's
+80738;Man;IC;14;13;4;Less than bachelor's
+32000;Man;IC;2;31;Less than 1 year;Less than bachelor's
+175000;Man;IC;15;8;10;Master's
+200000;Man;IC;30;12;19;Bachelor's
+85000;Man;IC;6;18;4;Bachelor's
+85000;Man;IC;7;18;6;Bachelor's
+200000;Man;Manager;30;8;20;Bachelor's
+125000;Man;IC;8;19;5;Bachelor's
+128000;Man;IC;23;16;15;Bachelor's
+103000;Man;IC;6;16;4;Less than bachelor's
+93000;Man;IC;12;21;8;Master's
+160000;Woman;IC;26;17;24;Bachelor's
+165000;Man;IC;15;12;9;Bachelor's
+75000;Man;IC;7;20;4;Bachelor's
+185000;Man;Manager;12;9;10;Master's
+65000;Woman;IC;31;7;21;Less than bachelor's
+94000;Man;IC;4;14;2;Less than bachelor's
+75000;Man;IC;5;19;Less than 1 year;Bachelor's
+120000;Man;IC;20;14;8;Master's
+113000;Woman;IC;9;23;6;PhD
+105000;Man;IC;30;11;15;Master's
+105000;Woman;IC;12;16;6;Bachelor's
+94000;Woman;IC;16;9;9;Bachelor's
+85000;Woman;IC;20;17;13;Master's
+155000;Man;IC;8;16;5;Professional
+67000;Man;IC;7;19;1;Bachelor's
+153000;Man;IC;20;10;12;Master's
+95000;Man;IC;35;10;30;Bachelor's
+60000;Man;IC;3;25;3;Less than bachelor's
+168000;Man;IC;20;12;20;Bachelor's
+145000;Man;IC;9;15;7;Less than bachelor's
+59000;Woman;Manager;4;18;3;Bachelor's
+141000;Man;IC;6;13;1;Bachelor's
+162500;Man;IC;16;12;11;Bachelor's
+58000;Man;IC;10;12;2;Bachelor's
+114000;Man;IC;17;15;13;Less than bachelor's
+140000;Man;Manager;22;12;20;Bachelor's
+35000;Man;IC;25;14;20;Less than bachelor's
+80000;Woman;IC;3;9;1;Master's
+70000;Woman;IC;15;13;7;PhD
+84000;Man;IC;8;16;2;Bachelor's
+180000;Man;IC;8;15;6;Master's
+53000;Woman;IC;5;13;1;Bachelor's
+140000;Man;IC;25;16;19;Bachelor's
+135000;Man;IC;27;8;17;Bachelor's
+67000;Woman;IC;4;13;2;Bachelor's
+172000;Man;IC;28;10;24;Less than bachelor's
+101000;Man;IC;13;12;3;Bachelor's
+120000;Man;Manager;6;16;10;Bachelor's
+230000;Man;Manager;21;12;8;Master's
+75000;Man;IC;37;17;37;Less than bachelor's
+50000;Man;IC;5;19;3;Bachelor's
+135000;Man;IC;12;16;10;Bachelor's
+130000;Man;IC;15;15;12;Bachelor's
+110000;Man;IC;9;16;2;Bachelor's
+95000;Man;IC;5;24;1;Bachelor's
+110000;Man;IC;8;15;7;Bachelor's
+123000;Man;IC;2;22;Less than 1 year;Bachelor's
+165000;Man;IC;13;15;6;Less than bachelor's
+100000;Man;IC;37;12;20;Master's
+60000;Man;IC;6;16;4;Bachelor's
+70000;Man;IC;5;17;5;Bachelor's
+185000;Woman;IC;7;21;6;PhD
+100000;Man;IC;3;12;3;Less than bachelor's
+165000;Man;Manager;18;13;17;Master's
+230000;Man;IC;35;8;10;Less than bachelor's
+65000;Man;IC;4;16;2;Bachelor's
+130000;Man;IC;25;11;3;Master's
+75000;Man;IC;6;16;4;Bachelor's
+170000;Man;IC;30;8;17;Bachelor's
+50000;Man;IC;33;27;25;Master's
+46000;Man;IC;11;13;6;Bachelor's
+95000;Man;IC;25;8;20;Less than bachelor's
+120000;Man;IC;12;8;8;Bachelor's
+144200;Man;IC;12;18;8;Bachelor's
+150000;Man;IC;1;19;Less than 1 year;Bachelor's
+115000;Man;IC;6;11;2;Less than bachelor's
+93000;Man;IC;10;17;5;Less than bachelor's
+93000;Man;IC;8;19;5;Master's
+440000;Man;IC;17;11;7;Bachelor's
+110000;Man;IC;23;9;13;Bachelor's
+58000;Man;IC;3;20;3;Bachelor's
+95000;Man;Manager;15;12;11;Bachelor's
+157500;Man;IC;5;24;5;Bachelor's
+130000;Man;IC;30;10;25;Master's
+92000;Man;IC;13;11;9;PhD
+77000;Man;IC;5;16;1;Bachelor's
+72000;Man;IC;1;17;Less than 1 year;Master's
+140000;Man;IC;6;18;6;Less than bachelor's
+115000;Woman;IC;9;20;4;Bachelor's
+65000;Man;IC;12;10;8;Less than bachelor's
+147500;Man;IC;13;14;11;Bachelor's
+75000;Man;IC;9;21;9;Professional
+95000;Man;IC;10;17;8;Less than bachelor's
+70000;Man;IC;3;12;3;Master's
+149000;Man;IC;16;15;11;Bachelor's
+125000;Woman;IC;21;9;12;Bachelor's
+96000;Man;IC;12;18;10;Bachelor's
+215000;Man;Manager;16;17;14;Bachelor's
+120000;Man;IC;14;15;10;Bachelor's
+138000;Man;IC;20;14;14;Master's
+121000;Man;IC;14;19;4;PhD
+133000;Man;Manager;27;7;22;Bachelor's
+84000;Man;IC;8;15;4;Bachelor's
+106000;Man;IC;10;19;8;Master's
+45000;Man;IC;25;14;16;Bachelor's
+24000;Man;IC;5;19;3;Bachelor's
+73000;Man;Manager;20;13;6;Bachelor's
+65000;Man;IC;2;11;1;Bachelor's
+110000;Man;IC;16;10;10;Bachelor's
+50000;Man;IC;7;20;6;Less than bachelor's
+85000;Man;IC;6;14;3;Bachelor's
+200000;Man;Manager;5;26;5;Bachelor's
+93000;Woman;IC;12;18;8;Bachelor's
+200000;Man;Manager;11;14;7;Less than bachelor's
+100000;Man;IC;9;21;3;Bachelor's
+110000;Man;IC;12;16;5;Less than bachelor's
+93000;Woman;IC;7;45;7;Master's
+94000;Man;IC;8;14;2;Bachelor's
+160000;Man;IC;11;13;8;Bachelor's
+260000;Man;IC;20;8;18;Less than bachelor's
+89000;Man;IC;8;13;6;Bachelor's
+140000;Man;IC;36;16;35;Less than bachelor's
+172000;Man;Manager;30;10;21;Bachelor's
+70000;Man;Manager;25;7;12;Bachelor's
+200000;Man;IC;8;18;4;Bachelor's
+125000;Man;IC;6;15;4;Bachelor's
+70000;Man;IC;28;12;25;Bachelor's
+70452;Man;IC;7;10;1;Bachelor's
+104000;Man;IC;20;11;13;Bachelor's
+155000;Man;IC;10;14;6;Master's
+140000;Man;IC;20;13;14;Bachelor's
+85000;Man;IC;6;28;5;Bachelor's
+150000;Man;IC;37;17;33;Bachelor's
+1013001;Man;IC;10;17;7;Bachelor's
+91000;Man;IC;7;18;3;Master's
+102000;Man;IC;43;12;32;Less than bachelor's
+64000;Man;IC;3;28;2;Bachelor's
+58000;Man;IC;3;22;2;Bachelor's
+96000;Man;IC;4;13;4;Bachelor's
+84000;Man;IC;3;22;3;Bachelor's
+400000;Man;Manager;10;17;3;Less than bachelor's
+100000;Man;IC;7;19;5;Master's
+65000;Man;IC;13;10;4;Less than bachelor's
+130000;Man;IC;9;16;3;Bachelor's
+130000;Man;IC;16;18;13;Bachelor's
+75000;Man;Manager;32;10;15;PhD
+105000;Man;IC;8;15;7;Master's
+145000;Man;IC;13;9;5;Bachelor's
+130000;Man;Manager;24;11;14;Bachelor's
+154000;Man;IC;32;12;28;Bachelor's
+71500;Man;IC;4;20;3;Bachelor's
+84208;Man;IC;20;19;5;Bachelor's
+80000;Man;IC;20;5;4;Less than bachelor's
+100000;Man;IC;8;9;5;Less than bachelor's
+165000;Man;IC;20;11;15;Bachelor's
+67000;Man;IC;11;13;2;Bachelor's
+80000;Man;IC;7;14;2;Bachelor's
+110000;Man;Manager;More than 50 years;17;43;Master's
+150000;Man;IC;10;16;6;Bachelor's
+130000;Man;IC;38;9;32;Bachelor's
+155000;Man;IC;16;14;8;Bachelor's
+212500;Man;Manager;25;5;9;Master's
+100000;Man;IC;16;11;9;Bachelor's
+115000;Man;IC;9;18;5;Bachelor's
+81000;Man;IC;35;18;7;Bachelor's
+40000;Man;IC;12;14;3;Less than bachelor's
+140000;Man;IC;20;11;13;Master's
+200000;Man;IC;14;13;6;Master's
+160000;Man;Manager;20;15;16;Less than bachelor's
+180000;Man;Manager;10;17;8;Bachelor's
+116580;Man;IC;13;13;13;Less than bachelor's
+144000;Man;IC;25;14;20;Bachelor's
+351850;Man;Manager;16;12;12;Bachelor's
+117000;Man;Manager;30;10;25;Master's
+100000;Man;IC;5;8;2;Bachelor's
+110000;Man;IC;17;13;13;Bachelor's
+65000;Man;IC;3;18;Less than 1 year;Bachelor's
+115000;Man;IC;19;13;14;Bachelor's
+110000;Man;IC;15;17;15;Bachelor's
+105000;Man;IC;12;14;6;Master's
+150000;Man;Manager;10;13;7;Less than bachelor's
+148000;Man;IC;15;12;12;Bachelor's
+52200;Man;IC;6;Younger than 5 years;3;Less than bachelor's
+115000;Man;IC;15;12;8;Master's
+132000;Man;IC;8;25;6;Bachelor's
+180000;Man;Manager;25;12;15;Less than bachelor's
+114000;Man;IC;15;12;13;Less than bachelor's
+70000;Man;IC;5;17;1;Bachelor's
+270000;Man;IC;20;12;15;Bachelor's
+70000;Man;IC;12;12;6;Master's
+70000;Man;IC;5;13;3;Less than bachelor's
+42000;Man;IC;12;11;3;Bachelor's
+240000;Man;IC;10;14;6;Master's
+84000;Woman;IC;4;26;3;Bachelor's
+109000;Woman;IC;4;38;3;Bachelor's
+70000;Man;IC;10;11;4;Bachelor's
+90000;Man;IC;7;23;5;Bachelor's
+136000;Woman;IC;5;30;4;Bachelor's
+200000;Man;IC;13;20;8;Bachelor's
+100000;Man;IC;9;20;9;Master's
+130000;Man;IC;4;27;3;Bachelor's
+66000;Man;IC;15;8;1;Bachelor's
+125000;Man;Manager;25;10;20;Master's
+80000;Woman;IC;16;12;10;Bachelor's
+222000;Man;IC;37;13;28;Bachelor's
+140000;Man;IC;32;12;24;Bachelor's
+95000;Man;IC;8;10;5;Bachelor's
+200000;Man;IC;9;19;5;Master's
+190000;Man;IC;19;16;16;Master's
+220000;Man;IC;19;22;15;Master's
+220000;Man;IC;49;17;47;Bachelor's
+158000;Man;Manager;27;11;16;Bachelor's
+70000;Man;IC;12;16;9;Bachelor's
+78000;Man;IC;17;14;14;Bachelor's
+160000;Man;IC;39;10;28;Less than bachelor's
+56000;Man;IC;6;12;2;Bachelor's
+99000;Man;IC;25;10;19;Less than bachelor's
+60000;Woman;IC;2;12;1;Bachelor's
+21000;Man;IC;10;13;Less than 1 year;Bachelor's
+114000;Man;Manager;9;12;7;Bachelor's
+140000;Man;IC;15;16;6;Bachelor's
+67000;Man;IC;15;17;5;Less than bachelor's
+140000;Man;IC;7;18;3;Bachelor's
+168000;Man;IC;15;13;11;Bachelor's
+75000;Man;IC;10;15;5;Less than bachelor's
+35000;Woman;IC;5;12;4;Master's
+68000;Man;IC;6;15;Less than 1 year;Bachelor's
+60000;Man;IC;3;30;2;Less than bachelor's
+66175;Man;IC;5;19;2;Bachelor's
+80000;Woman;IC;30;11;16;Master's
+145000;Man;IC;7;13;6;Bachelor's
+40000;Man;IC;5;6;5;Bachelor's
+85000;Woman;IC;4;18;Less than 1 year;Bachelor's
+160000;Man;Manager;23;10;14;Bachelor's
+85000;Woman;IC;4;13;3;Bachelor's
+156000;Man;IC;15;10;7;Less than bachelor's
+52000;Man;IC;6;21;Less than 1 year;Bachelor's
+180000;Man;IC;8;22;5;Bachelor's
+185000;Man;Manager;18;20;16;Master's
+90000;Man;IC;42;12;37;Less than bachelor's
+185000;Man;IC;16;14;10;Less than bachelor's
+120000;Man;IC;28;15;25;Master's
+130000;Man;IC;14;14;6;Bachelor's
+57000;Man;IC;9;20;5;Master's
+60000;Man;IC;13;12;4;Bachelor's
+104000;Man;IC;22;7;10;Master's
+186000;Man;Manager;30;8;24;Master's
+64000;Man;IC;11;15;3;Bachelor's
+50000;Man;IC;4;18;1;Bachelor's
+65000;Woman;IC;2;34;2;PhD
+50000;Man;IC;12;8;8;Bachelor's
+85000;Man;IC;10;14;2;Master's
+60000;Man;IC;26;10;1;Bachelor's
+99000;Man;IC;28;11;12;Bachelor's
+100000;Man;Manager;37;10;17;Less than bachelor's
+120000;Man;IC;8;16;8;Bachelor's
+99000;Man;IC;6;12;7;Master's
+108000;Woman;IC;35;25;32;Less than bachelor's
+47000;Man;IC;3;22;1;Bachelor's
+80000;Man;IC;8;13;6;Bachelor's
+70000;Man;IC;5;13;3;Less than bachelor's
+132000;Man;IC;5;16;1;Bachelor's
+140000;Man;IC;26;10;20;Less than bachelor's
+107000;Man;IC;22;11;19;Bachelor's
+39312;Man;IC;2;15;Less than 1 year;Less than bachelor's
+107000;Man;IC;2;33;2;Bachelor's
+104030;Man;IC;17;13;10;Master's
+105000;Man;IC;2;30;1;Less than bachelor's
+68500;Man;IC;4;20;Less than 1 year;Bachelor's
+120000;Man;IC;23;10;13;Master's
+114000;Man;IC;19;15;12;Bachelor's
+64500;Man;IC;3;21;2;Bachelor's
+70000;Man;IC;8;12;17;Less than bachelor's
+101000;Woman;Manager;6;24;5;Bachelor's
+165000;Man;Manager;15;10;6;Bachelor's
+108000;Man;Manager;5;19;3;Master's
+107000;Man;IC;22;13;12;Bachelor's
+140000;Man;IC;6;15;2;Bachelor's
+50000;Man;IC;5;18;1;Bachelor's
+51000;Man;IC;4;11;Less than 1 year;Bachelor's
+136000;Man;IC;40;12;34;Bachelor's
+105000;Man;IC;15;16;10;PhD
+150000;Man;IC;5;19;5;PhD
+70500;Man;IC;13;17;5;Master's
+120000;Man;IC;20;11;11;Bachelor's
+150000;Man;IC;2;7;2;Master's
+90000;Man;IC;15;16;13;Bachelor's
+80000;Man;IC;5;26;2;Master's
+74000;Man;IC;7;20;5;Bachelor's
+105000;Man;IC;11;13;4;PhD
+450000;Man;IC;20;12;16;Less than bachelor's
+85000;Man;IC;7;17;3;Bachelor's
+86000;Man;IC;8;14;5;Bachelor's
+100000;Woman;IC;8;16;4;Bachelor's
+105000;Man;IC;20;15;14;Less than bachelor's
+100000;Man;IC;12;10;Less than 1 year;Bachelor's
+280000;Man;IC;32;12;22;Less than bachelor's
+82000;Man;IC;16;18;10;Master's
+140000;Man;IC;11;19;8;Bachelor's
+90000;Man;IC;13;12;2;Bachelor's
+67000;Man;IC;35;35;30;Less than bachelor's
+115000;Man;IC;16;10;12;Bachelor's
+130000;Man;Manager;7;27;3;Bachelor's
+80000;Man;IC;16;13;5;Master's
+85000;Man;IC;13;12;6;Bachelor's
+200000;Man;Manager;12;13;3;Master's
+121000;Woman;IC;17;26;17;Bachelor's
+79000;Man;IC;13;13;4;Bachelor's
+100000;Man;IC;17;16;13;Bachelor's
+84000;Man;IC;21;11;14;Master's
+164000;Man;Manager;34;15;29;Bachelor's
+93000;Man;IC;15;15;8;Bachelor's
+203000;Man;IC;7;25;3;PhD
+150000;Man;Manager;35;15;29;Less than bachelor's
+104000;Man;IC;10;14;6;Master's
+62500;Woman;IC;26;12;16;Master's
+270000;Man;IC;10;10;7;Bachelor's
+75000;Man;IC;4;19;3;Bachelor's
+100000;Man;Manager;15;13;11;Master's
+135000;Man;Manager;25;16;15;Bachelor's
+80000;Man;IC;5;16;3;Master's
+175000;Man;IC;26;12;10;Master's
+100000;Man;IC;12;15;10;Bachelor's
+199000;Man;IC;23;11;20;Bachelor's
+225000;Man;IC;6;26;5;Bachelor's
+102000;Man;IC;5;19;4;Less than bachelor's
+50000;Woman;IC;3;18;Less than 1 year;Bachelor's
+80000;Man;Manager;16;9;11;Bachelor's
+51500;Man;IC;3;12;2;Master's
+142000;Man;IC;35;15;20;PhD
+115000;Man;IC;44;18;40;Bachelor's
+132000;Man;Manager;34;8;27;Bachelor's
+95000;Man;IC;5;19;5;Bachelor's
+50000;Man;IC;19;18;Less than 1 year;Bachelor's
+160000;Man;IC;39;10;20;PhD
+115000;Man;IC;40;13;34;Master's
+183000;Man;IC;28;10;25;Less than bachelor's
+100000;Man;IC;14;15;10;Bachelor's
+93000;Man;IC;9;19;7;Master's
+78000;Man;IC;18;11;13;Bachelor's
+84000;Man;IC;8;16;5;Bachelor's
+150000;Man;IC;15;15;10;Bachelor's
+63850;Man;IC;4;35;2;Less than bachelor's
+83000;Man;IC;3;20;1;Bachelor's
+320000;Man;Manager;28;12;24;Professional
+144000;Man;IC;14;15;8;Bachelor's
+160000;Man;IC;40;13;32;Less than bachelor's
+70000;Man;IC;20;15;4;Less than bachelor's
+98000;Man;IC;9;17;5;Bachelor's
+90000;Man;IC;9;11;5;Bachelor's
+134000;Man;IC;22;14;15;Less than bachelor's
+150000;Man;IC;22;17;15;Master's
+120000;Man;IC;15;18;11;Bachelor's
+115000;Man;IC;8;10;4;Bachelor's
+154500;Man;IC;31;5;7;Less than bachelor's
+65000;Man;IC;8;15;1;Bachelor's
+77000;Man;IC;9;17;6;Bachelor's
+160000;Man;IC;14;17;13;Master's
+110000;Man;IC;30;17;30;Less than bachelor's
+100000;Woman;IC;2;29;1;Bachelor's
+238500;Man;IC;24;14;20;Master's
+119000;Man;IC;10;19;6;Bachelor's
+220000;Man;IC;18;12;12;Bachelor's
+101000;Woman;IC;20;15;9;Bachelor's
+168000;Man;IC;19;13;9;Bachelor's
+90000;Man;IC;15;14;7;Bachelor's
+120000;Man;IC;8;13;2;Bachelor's
+47000;Man;IC;6;15;3;Bachelor's
+70000;Man;IC;2;24;1;Bachelor's
+174000;Man;Manager;25;12;22;Less than bachelor's
+103000;Man;IC;8;19;5;PhD
+85000;Man;IC;3;24;1;Bachelor's
+175000;Man;Manager;41;12;35;Bachelor's
+65000;Man;IC;9;8;3;Less than bachelor's
+93000;Man;IC;5;20;2;Bachelor's
+85000;Man;IC;5;20;2;Bachelor's
+205000;Man;IC;13;16;8;Bachelor's
+98000;Man;IC;12;13;9;Less than bachelor's
+136000;Man;IC;22;18;19;Master's
+67000;Woman;IC;5;14;3;Master's
+83000;Man;IC;8;15;3;Bachelor's
+170000;Man;Manager;25;10;20;Bachelor's
+400000;Man;IC;20;13;11;PhD
+75000;Man;IC;5;7;2;Less than bachelor's
+65000;Man;IC;5;21;3;Bachelor's
+55000;Man;IC;35;23;2;Less than bachelor's
+160000;Woman;IC;10;16;6;Professional
+100000;Man;IC;5;19;3;Bachelor's
+110000;Man;IC;11;24;11;Bachelor's
+108000;Man;IC;15;14;12;Less than bachelor's
+180000;Man;IC;20;16;13;Master's
+70000;Man;IC;13;11;4;Bachelor's
+115000;Man;IC;4;19;4;Bachelor's
+111550;Man;IC;14;16;7;Bachelor's
+90000;Man;IC;9;33;8;Bachelor's
+130000;Man;IC;4;20;4;Bachelor's
+120000;Man;IC;23;10;10;PhD
+300000;Man;IC;9;14;7;Bachelor's
+47500;Man;Manager;5;22;Less than 1 year;Bachelor's
+250000;Man;IC;16;17;16;Master's
+77500;Man;IC;10;13;5;Bachelor's
+104000;Man;IC;24;12;5;Bachelor's
+198550;Man;IC;17;16;15;Bachelor's
+50000;Man;IC;3;35;1;Bachelor's
+89000;Man;IC;19;17;19;Less than bachelor's
+125000;Man;IC;10;8;10;Bachelor's
+160000;Man;IC;11;10;7;Bachelor's
+97000;Man;IC;12;32;10;Bachelor's
+75000;Man;IC;6;11;Less than 1 year;Less than bachelor's
+65500;Man;IC;4;20;4;Bachelor's
+84500;Man;IC;7;15;5;Less than bachelor's
+159000;Man;Manager;25;10;13;Bachelor's
+90000;Woman;IC;12;16;5;Master's
+70000;Man;IC;NA;NA;3;Bachelor's
+70000;Man;IC;5;18;2;Bachelor's
+92000;Man;IC;3;14;3;Bachelor's
+109000;Man;IC;20;8;18;Less than bachelor's
+65000;Man;IC;4;24;3;Less than bachelor's
+124000;Man;IC;24;18;16;Master's
+132000;Man;IC;22;9;22;Bachelor's
+70000;Man;IC;3;15;Less than 1 year;Bachelor's
+96000;Man;IC;9;19;5;Less than bachelor's
+165000;Man;IC;34;10;26;Bachelor's
+105000;Man;IC;13;13;9;Less than bachelor's
+100000;Man;IC;5;18;3;Bachelor's
+96000;Woman;IC;6;12;3;Master's
+180250;Woman;IC;18;12;14;Bachelor's
+107000;Man;IC;10;15;4;Bachelor's
+250000;Man;Manager;8;22;7;Bachelor's
+150000;Man;IC;22;7;10;Less than bachelor's
+150000;Woman;Manager;18;12;13;Master's
+160000;Man;IC;20;14;16;Bachelor's
+198000;Man;Manager;15;11;10;Bachelor's
+118000;Woman;IC;5;22;3;Bachelor's
+77250;Man;IC;15;14;12;Bachelor's
+95000;Man;IC;2;5;2;Master's
+103000;Man;IC;25;23;20;PhD
+154500;Man;Manager;27;13;16;Master's
+90228;Man;IC;10;18;5;Master's
+70000;Man;IC;15;15;5;Bachelor's
+83000;Man;IC;3;14;2;Bachelor's
+104000;Man;IC;18;12;9;Bachelor's
+70000;Man;IC;12;7;3;Master's
+62500;Man;IC;5;13;2;Bachelor's
+150000;Man;IC;20;16;17;Bachelor's
+128000;Man;IC;24;10;20;Bachelor's
+73000;Man;IC;5;13;1;Bachelor's
+105200;Man;IC;12;16;10;Bachelor's
+91500;Man;IC;14;11;6;Less than bachelor's
+105000;Man;IC;15;15;12;Bachelor's
+85000;Man;IC;8;19;5;Bachelor's
+132000;Man;Manager;13;19;10;Bachelor's
+190000;Man;Manager;22;7;20;Less than bachelor's
+164000;Man;IC;3;12;2;Less than bachelor's
+90000;Man;IC;18;7;7;Less than bachelor's
+135000;Man;IC;12;16;10;Bachelor's
+150000;Man;IC;5;10;4;Bachelor's
+95000;Man;Manager;40;10;25;Less than bachelor's
+140000;Man;IC;13;14;5;Less than bachelor's
+240000;Man;IC;11;14;7;Bachelor's
+54889;Man;IC;16;14;10;Master's
+132000;Man;IC;16;6;12;Less than bachelor's
+115000;Man;IC;5;18;1;Bachelor's
+128000;Man;IC;26;12;24;Master's
+45000;Man;IC;7;10;4;Less than bachelor's
+100000;Man;IC;8;15;2;Bachelor's
+125000;Man;IC;17;18;13;Bachelor's
+130000;Man;IC;30;8;25;Less than bachelor's
+140000;Man;IC;43;19;38;Bachelor's
+170000;Man;IC;13;18;11;Bachelor's
+203000;Man;IC;15;11;7;Less than bachelor's
+85000;Man;IC;7;18;3;Bachelor's
+60000;Man;IC;6;17;2;Bachelor's
+80000;Man;IC;7;26;4;Master's
+250000;Man;IC;16;14;12;Master's
+115000;Man;IC;12;17;5;Bachelor's
+180000;Woman;Manager;15;21;10;Master's
+135000;Woman;IC;12;18;9;Master's
+115000;Man;IC;19;11;5;Bachelor's
+132000;Man;Manager;15;16;12;Bachelor's
+125000;Man;IC;23;8;8;Bachelor's
+38000;Man;IC;7;13;4;Less than bachelor's
+160000;Man;IC;11;18;7;Bachelor's
+143000;Man;IC;33;19;31;Bachelor's
+58400;Man;IC;15;15;7;Bachelor's
+65000;Man;IC;4;28;2;Master's
+50000;Man;IC;4;19;4;Bachelor's
+73000;Man;IC;16;14;8;Bachelor's
+63500;Woman;IC;3;19;Less than 1 year;Bachelor's
+73000;Man;IC;1;14;Less than 1 year;Bachelor's
+120000;Man;IC;11;13;10;Bachelor's
+125000;Man;IC;10;22;Less than 1 year;Bachelor's
+102000;Man;IC;30;14;20;Bachelor's
+158000;Man;Manager;12;9;9;Master's
+69000;Man;IC;12;9;5;Bachelor's
+175000;Man;IC;12;12;9;Bachelor's
+162000;Man;IC;19;9;14;Bachelor's
+120000;Man;IC;30;7;20;Bachelor's
+70000;Man;IC;2;14;1;Bachelor's
+103000;Man;IC;15;11;4;Bachelor's
+65000;Man;IC;25;12;25;Master's
+85000;Man;IC;2;34;1;Bachelor's
+200000;Man;IC;13;13;4;Bachelor's
+98000;Woman;IC;20;22;20;Master's
+362000;Man;IC;20;13;17;Bachelor's
+130000;Man;IC;16;11;4;Bachelor's
+60000;Man;IC;4;8;1;Bachelor's
+80000;Man;IC;14;11;7;Bachelor's
+200000;Man;IC;15;9;7;Bachelor's
+180000;Man;IC;28;12;18;Less than bachelor's
+89000;Man;IC;NA;13;17;Bachelor's
+145000;Man;Manager;18;11;13;Bachelor's
+81500;Man;IC;6;26;3;Bachelor's
+105000;Man;IC;10;17;8;Bachelor's
+130000;Man;IC;14;18;10;Bachelor's
+100000;Man;IC;6;11;2;Bachelor's
+57000;Man;IC;3;8;1;Bachelor's
+76500;Man;IC;3;16;2;Bachelor's
+155000;Man;Manager;7;18;3;Bachelor's
+75000;Man;IC;7;16;4;Bachelor's
+52000;Man;IC;4;16;1;Bachelor's
+101000;Man;IC;19;18;14;Master's
+50000;Man;IC;5;18;3;Bachelor's
+56000;Woman;IC;Less than 1 year;19;Less than 1 year;PhD
+65000;Woman;IC;4;17;3;Bachelor's
+105000;Man;IC;8;12;3;Bachelor's
+125000;Man;IC;10;21;5;Bachelor's
+200000;Man;IC;14;16;9;Master's
+112000;Man;IC;11;7;8;Bachelor's
+80000;Man;IC;14;11;8;Bachelor's
+106000;Woman;IC;3;29;1;Master's
+60000;Woman;IC;1;28;Less than 1 year;Bachelor's
+106000;Man;IC;20;9;20;Less than bachelor's
+170000;Man;Manager;19;12;11;Less than bachelor's
+200000;Man;IC;17;11;7;Master's
+58000;Man;IC;10;14;5;Bachelor's
+171000;Man;IC;9;15;2;Master's
+144000;Man;IC;13;13;12;Bachelor's
+140000;Man;Manager;23;7;11;Bachelor's
+85000;Man;IC;20;10;20;Bachelor's
+125000;Man;IC;20;12;8;Less than bachelor's
+63000;Man;IC;11;12;Less than 1 year;Bachelor's
+145000;Man;Manager;10;16;7;Less than bachelor's
+98500;Man;IC;9;16;3;Master's
+73000;Man;IC;7;11;4;Bachelor's
+400000;Man;Manager;17;12;8;Bachelor's
+80000;Man;IC;9;19;5;Bachelor's
+112000;Man;IC;8;15;3;Bachelor's
+89000;Man;IC;44;10;42;Less than bachelor's
+120000;Man;IC;23;7;20;Bachelor's
+110000;Man;Manager;14;15;12;Less than bachelor's
+110000;Man;Manager;15;14;8;Bachelor's
+83000;Man;IC;5;22;5;Bachelor's
+160000;Man;Manager;30;10;20;Bachelor's
+326000;Woman;Manager;7;11;4;Master's
+120000;Man;IC;18;14;10;Bachelor's
+78000;Woman;IC;2;29;2;Less than bachelor's
+70000;Man;IC;2;34;1;Master's
+230000;Man;IC;6;17;3;Bachelor's
+300000;Man;IC;20;10;12;Master's
+62000;Woman;IC;1;19;Less than 1 year;Bachelor's
+86216;Man;IC;8;16;2;Bachelor's
+127000;Man;IC;7;26;6;Bachelor's
+80000;Man;IC;3;14;2;Bachelor's
+160000;Man;IC;15;15;11;Less than bachelor's
+85000;Man;IC;15;13;5;Bachelor's
+130000;Man;IC;25;11;10;Bachelor's
+115000;Man;IC;10;10;7;Master's
+100000;Man;IC;16;16;6;Master's
+130000;Man;IC;10;14;3;Bachelor's
+150000;Man;IC;7;20;5;Master's
+115000;Man;IC;12;9;5;Master's
+49000;Man;IC;10;12;10;Bachelor's
+150000;Man;Manager;34;8;19;Bachelor's
+115000;Man;IC;24;18;22;Less than bachelor's
+125000;Man;Manager;18;14;12;Less than bachelor's
+156000;Man;IC;6;18;6;Master's
+125000;Man;IC;14;18;9;Bachelor's
+111000;Man;IC;13;14;12;Master's
+130000;Man;IC;16;12;8;Bachelor's
+70000;Woman;IC;6;8;2;Bachelor's
+77500;Man;IC;9;16;4;Bachelor's
+95000;Man;IC;7;12;3;Master's
+70000;Man;IC;6;18;2;Bachelor's
+68000;Man;IC;3;16;3;Bachelor's
+55000;Man;IC;Less than 1 year;26;Less than 1 year;Bachelor's
+170000;Man;IC;20;14;20;Less than bachelor's
+200000;Man;IC;38;12;35;Bachelor's
+63000;Man;IC;5;17;3;Bachelor's
+140000;Man;IC;26;16;19;Bachelor's
+96000;Man;IC;15;13;6;Less than bachelor's
+112000;Man;IC;9;12;3;Bachelor's
+230000;Man;IC;20;16;15;Master's
+125000;Man;IC;6;14;3;Bachelor's
+110000;Man;IC;5;14;3;Bachelor's
+135000;Man;IC;12;11;10;Master's
+60000;Woman;IC;1;14;Less than 1 year;Master's
+60000;Man;IC;3;16;3;Bachelor's
+126000;Man;IC;18;15;14;Bachelor's
+80000;Man;IC;14;15;9;Bachelor's
+140000;Man;IC;18;16;12;Bachelor's
+175000;Man;Manager;11;8;7;Bachelor's
+126000;Man;IC;20;18;20;Bachelor's
+82000;Man;IC;13;14;5;Master's
+140000;Man;IC;7;13;4;Bachelor's
+145000;Man;IC;37;12;24;Bachelor's
+125000;Man;IC;7;25;3;Bachelor's
+230000;Man;Manager;40;16;35;Master's
+250000;Man;IC;15;16;7;Master's
+88000;Man;IC;7;18;3;Bachelor's
+135000;Man;IC;20;6;12;Master's
+75000;Man;IC;10;10;4;Less than bachelor's
+80000;Man;IC;8;18;2;Bachelor's
+110000;Man;Manager;26;9;10;Master's
+132000;Man;IC;30;Younger than 5 years;6;Bachelor's
+450000;Man;IC;25;10;21;Less than bachelor's
+150000;Man;IC;13;22;9;Master's
+32000;Man;IC;12;12;5;Less than bachelor's
+167436;Man;Manager;21;15;15;Bachelor's
+140000;Man;IC;10;27;7;PhD
+140000;Man;IC;9;19;5;Bachelor's
+135000;Man;IC;9;16;4;Bachelor's
+125000;Man;IC;10;19;4;Master's
+74550;Man;IC;5;16;3;Bachelor's
+232000;Man;IC;14;13;7;Bachelor's
+185000;Man;IC;23;14;16;Master's
+111000;Man;IC;37;18;33;Bachelor's
+200000;Man;Manager;19;8;9;Less than bachelor's
+128500;Man;IC;25;12;20;Less than bachelor's
+80000;Man;IC;4;22;2;Master's
+88148;Man;IC;29;9;17;Less than bachelor's
+120000;Man;IC;20;10;9;Less than bachelor's
+93000;Man;IC;10;14;5;Bachelor's
+140000;Man;IC;30;10;16;Bachelor's
+84000;Man;IC;2;27;2;Bachelor's
+75000;Man;IC;6;9;3;Bachelor's
+80000;Man;IC;10;16;5;Master's
+97000;Man;IC;17;9;13;PhD
+130000;Woman;IC;4;23;4;Bachelor's
+80000;Woman;IC;10;34;10;Master's
+67500;Woman;IC;15;10;6;Bachelor's
+130000;Man;IC;8;15;4;Less than bachelor's
+100000;Man;Manager;3;25;3;Bachelor's
+150000;Man;Manager;14;10;7;Bachelor's
+125000;Man;IC;19;17;15;Bachelor's
+56250;Man;IC;16;11;5;Less than bachelor's
+100000;Man;IC;8;15;5;Master's
+66000;Man;IC;7;18;2;Bachelor's
+73500;Man;IC;20;16;10;Less than bachelor's
+65000;Man;IC;11;17;7;Bachelor's
+130000;Man;IC;13;13;8;Bachelor's
+98500;Man;Manager;19;13;14;Bachelor's
+60000;Man;IC;5;13;Less than 1 year;Less than bachelor's
+53000;Man;IC;13;17;6;Bachelor's
+106000;Man;IC;30;15;19;NA
+109000;Man;IC;5;20;2;Bachelor's
+260000;Man;IC;10;10;6;Less than bachelor's
+97000;Man;IC;22;13;18;Less than bachelor's
+94000;Man;IC;7;15;7;Less than bachelor's
+77000;Man;IC;2;40;1;NA
+101000;Woman;IC;7;30;7;Bachelor's
+250000;Man;IC;9;15;3;Bachelor's
+120000;Man;IC;5;10;4;Master's
+75000;Man;IC;3;23;1;Less than bachelor's
+138000;Man;IC;27;30;19;Bachelor's
+92000;Woman;IC;6;19;5;Bachelor's
+90000;Man;IC;14;13;10;Bachelor's
+89000;Man;IC;17;16;12;Less than bachelor's
+75000;Man;IC;6;17;2;Bachelor's
+60000;Man;IC;6;9;2;Less than bachelor's
+170000;Man;IC;21;15;20;Master's
+34284;Man;IC;11;10;5;Master's
+210000;Man;IC;10;12;6;Bachelor's
+80000;Man;IC;4;18;2;Bachelor's
+120000;Man;IC;20;7;10;Less than bachelor's
+85000;Man;IC;10;15;2;Bachelor's
+96000;Man;IC;30;8;15;Master's
+100000;Man;IC;8;19;4;Bachelor's
+70000;Man;IC;7;12;4;Bachelor's
+90000;Man;IC;3;20;Less than 1 year;Less than bachelor's
+200000;Man;IC;30;12;23;Master's
+190000;Man;IC;38;15;32;Bachelor's
+95000;Man;IC;35;15;20;Less than bachelor's
+146000;Man;IC;12;16;10;Less than bachelor's
+157500;Man;IC;16;15;12;Bachelor's
+54000;Man;IC;4;15;1;Less than bachelor's
+155000;Man;IC;7;18;4;Bachelor's
+135000;Man;IC;27;7;9;Bachelor's
+92000;Man;IC;10;14;10;Bachelor's
+94000;Man;IC;10;13;5;Master's
+85000;Man;IC;25;5;8;Bachelor's
+80000;Woman;IC;4;21;2;Master's
+250000;Man;Manager;18;16;11;Master's
+160000;Woman;IC;12;18;5;Master's
+135000;Man;IC;20;16;16;Bachelor's
+55000;Man;IC;6;19;2;Bachelor's
+84000;Man;IC;14;17;9;Bachelor's
+95000;Man;IC;25;13;8;Master's
+135000;Man;IC;5;8;2;Master's
+80000;Man;IC;10;20;8;Bachelor's
+90000;Man;IC;8;18;6;Less than bachelor's
+110000;Woman;IC;8;28;3;Master's
+60000;Man;IC;7;12;Less than 1 year;Bachelor's
+70000;Man;IC;10;12;6;Bachelor's
+90000;Man;IC;10;14;7;Bachelor's
+127000;Man;IC;4;18;2;Master's
+117000;Man;IC;23;8;21;Bachelor's
+85000;Man;IC;20;9;5;Bachelor's
+79000;Woman;IC;25;24;21;Less than bachelor's
+105000;Man;IC;3;18;2;Less than bachelor's
+60000;Woman;IC;3;10;2;Bachelor's
+55000;Woman;IC;5;15;1;Bachelor's
+118000;Man;IC;8;18;4;Bachelor's
+95000;Man;Manager;14;17;9;Bachelor's
+125000;Man;IC;10;20;6;Bachelor's
+100000;Man;IC;13;12;9;Bachelor's
+93000;Man;IC;11;20;8;Bachelor's
+83000;Man;IC;10;13;4;Bachelor's
+95000;Man;IC;30;7;18;Bachelor's
+115000;Man;IC;10;8;7;Bachelor's
+130000;Man;IC;23;12;3;Bachelor's
+70000;Man;IC;7;16;4;Bachelor's
+110000;Man;IC;13;16;5;Bachelor's
+82000;Man;IC;23;11;10;Less than bachelor's
+90000;Man;IC;18;21;18;Bachelor's
+110000;Man;IC;5;12;3;Bachelor's
+105000;Woman;IC;18;11;13;Bachelor's
+180000;Man;IC;20;6;16;Bachelor's
+75000;Man;IC;6;14;1;Bachelor's
+160000;Man;IC;10;14;3;Bachelor's
+130000;Man;IC;6;23;5;Bachelor's
+80000;Man;IC;10;15;7;Bachelor's
+195000;Man;Manager;30;17;25;Master's
+56100;Man;IC;2;16;2;Bachelor's
+95000;Man;IC;12;10;5;Bachelor's
+95000;Man;IC;26;10;21;Less than bachelor's
+92000;Man;IC;10;13;3;Bachelor's
+74000;Woman;IC;20;13;10;Bachelor's
+100000;Woman;IC;4;22;2;Bachelor's
+70000;Man;IC;8;14;6;Bachelor's
+48000;Man;IC;8;17;4;Bachelor's
+85000;Man;IC;9;14;4;Bachelor's
+80000;Man;IC;12;16;10;Master's
+63000;Man;IC;5;14;3;Bachelor's
+64000;Man;IC;7;16;2;Bachelor's
+70000;Man;IC;15;12;2;Less than bachelor's
+90000;Woman;IC;2;25;1;Bachelor's
+52000;Man;IC;25;25;2;Professional
+500000;Man;IC;30;8;21;Bachelor's
+123000;Man;IC;13;17;10;Bachelor's
+115000;Woman;IC;4;23;3;Bachelor's
+75000;Man;IC;4;15;1;Bachelor's
+82000;Woman;IC;15;8;5;Master's
+160000;Man;IC;10;12;10;Less than bachelor's
+60000;Man;IC;15;10;10;Bachelor's
+163500;Man;IC;40;14;31;Master's
+51750;Man;IC;6;14;2;Less than bachelor's
+80500;Woman;IC;9;13;6;Bachelor's
+96000;Man;Manager;19;13;11;Bachelor's
+52000;Man;IC;2;20;1;Bachelor's
+250000;Man;IC;24;8;23;Master's
+172000;Man;IC;30;11;22;Master's
+200000;Man;Manager;20;18;18;Master's
+115000;Man;IC;13;17;8;Less than bachelor's
+152500;Man;IC;6;17;4;Master's
+51000;Woman;IC;21;35;21;Bachelor's
+105000;Man;IC;4;17;2;Master's
+80000;Man;Manager;8;22;6;Master's
+126000;Man;IC;22;16;22;Bachelor's
+100000;Man;IC;20;20;18;Less than bachelor's
+77250;Man;IC;5;18;2;Bachelor's
+55000;Man;IC;5;19;1;Less than bachelor's
+104000;Man;IC;10;18;3;Master's
+84000;Woman;IC;7;19;3;Bachelor's
+58000;Man;IC;10;15;3;Bachelor's
+130000;Man;IC;8;12;7;Less than bachelor's
+60000;Man;IC;5;16;Less than 1 year;Bachelor's
+144000;Man;IC;20;14;17;Bachelor's
+84000;Man;IC;40;10;20;Bachelor's
+107000;Man;IC;8;20;5;Bachelor's
+90000;Man;IC;14;15;9;Bachelor's
+75000;Man;IC;9;10;3;Bachelor's
+85000;Man;IC;6;15;3;Bachelor's
+105000;Man;IC;7;16;2;Bachelor's
+67000;Man;IC;12;16;5;Bachelor's
+56800;Woman;IC;2;26;1;Master's
+215000;Man;Manager;25;10;12;Less than bachelor's
+115000;Man;IC;16;16;8;Less than bachelor's
+130000;Man;IC;25;10;19;Master's
+75000;Man;IC;13;12;6;Bachelor's
+71085;Man;IC;30;10;5;Bachelor's
+147500;Man;IC;20;13;15;Bachelor's
+35000;Man;Manager;37;18;33;Bachelor's
+125000;Woman;IC;15;14;7;Master's
+110000;Man;Manager;20;12;10;Bachelor's
+80000;Man;IC;13;10;Less than 1 year;Bachelor's
+75000;Man;IC;35;15;33;Master's
+159500;Man;IC;19;14;17;Less than bachelor's
+74000;Man;IC;8;18;4;Bachelor's
+75000;Man;IC;11;19;8;Bachelor's
+58000;Man;IC;7;15;5;Bachelor's
+110000;Man;Manager;10;15;8;Bachelor's
+82500;Man;IC;6;12;5;Bachelor's
+85000;Man;IC;25;10;23;Master's
+149000;Man;IC;38;11;28;Bachelor's
+64000;Man;IC;4;20;2;Bachelor's
+52000;Man;IC;7;16;2;Bachelor's
+180000;Man;IC;25;8;22;Bachelor's
+75000;Man;IC;10;35;5;PhD
+190000;Man;Manager;34;15;32;Less than bachelor's
+150000;Man;IC;25;13;19;Master's
+80000;Man;IC;8;14;3;Less than bachelor's
+70000;Man;IC;8;19;2;Master's
+101000;Man;IC;6;15;3;Bachelor's
+155000;Man;Manager;35;5;10;Master's
+90000;Man;IC;25;8;18;Bachelor's
+143000;Man;Manager;18;14;20;Less than bachelor's
+115000;Woman;IC;4;19;3;Bachelor's
+66000;Man;IC;15;10;8;Less than bachelor's
+85000;Man;IC;5;20;4;Bachelor's
+62000;Man;IC;18;12;1;Master's
+41000;Man;IC;14;25;10;Less than bachelor's
+100000;Man;IC;5;17;2;Bachelor's
+50000;Man;IC;5;11;2;Less than bachelor's
+75000;Woman;Manager;6;16;3;Master's
+93000;Man;IC;7;23;6;Bachelor's
+110000;Man;IC;38;29;38;Bachelor's
+105000;Man;IC;5;20;2;Bachelor's
+115000;Man;IC;26;13;26;Less than bachelor's
+90000;Man;IC;5;27;3;Bachelor's
+40000;Man;IC;6;17;2;Bachelor's
+70000;Man;IC;10;16;1;Master's
+130000;Woman;IC;2;21;2;Bachelor's
+70000;Man;IC;8;17;1;Master's
+110000;Man;IC;7;9;7;Master's
+70000;Man;IC;8;15;3;NA
+120000;Woman;IC;10;18;6;Bachelor's
+68000;Man;IC;20;15;12;Less than bachelor's
+80000;Man;IC;14;19;7;PhD
+87000;Man;IC;14;10;5;Bachelor's
+85000;Man;IC;11;13;2;Bachelor's
+125091;Man;IC;22;9;14;Master's
+74000;Man;IC;10;10;10;Less than bachelor's
+68500;Man;IC;3;12;2;Master's
+90000;Man;IC;23;23;21;Less than bachelor's
+72000;Man;IC;11;12;1;Bachelor's
+87000;Woman;IC;6;18;Less than 1 year;Master's
+146000;Woman;IC;5;25;4;Bachelor's
+40000;Man;IC;2;26;Less than 1 year;Less than bachelor's
+94000;Man;IC;22;12;15;Master's
+44000;Man;IC;7;13;4;Bachelor's
+80000;Man;IC;45;13;35;Less than bachelor's
+85000;Man;IC;7;20;5;Bachelor's
+130000;Man;IC;7;15;2;Bachelor's
+145000;Man;IC;6;18;6;Bachelor's
+84000;Man;IC;38;13;26;Bachelor's
+112500;Man;IC;16;7;12;Master's
+157080;Man;IC;15;8;9;Bachelor's
+90000;Man;IC;8;21;1;Bachelor's
+105000;Man;IC;35;17;25;NA
+160000;Woman;IC;4;13;Less than 1 year;Less than bachelor's
+115000;Man;IC;15;5;12;Master's
+64680;Man;IC;8;15;Less than 1 year;Bachelor's
+90000;Man;IC;18;16;18;Bachelor's
+175000;Man;Manager;20;11;15;Bachelor's
+54000;Man;Manager;12;13;10;PhD
+85000;Man;IC;31;13;19;Less than bachelor's
+160000;Man;IC;41;12;31;PhD
+133500;Man;IC;12;13;4;Bachelor's
+40000;Woman;IC;8;18;6;PhD
+82000;Man;IC;8;14;4;Bachelor's
+160000;Man;IC;6;8;6;Bachelor's
+150000;Man;IC;30;14;25;Bachelor's
+69000;Man;IC;6;12;3;Bachelor's
+40000;Man;IC;4;10;3;Less than bachelor's
+115000;Woman;IC;12;13;12;Bachelor's
+70000;Man;IC;2;26;1;Bachelor's
+130000;Man;Manager;13;11;7;Bachelor's
+132000;Man;IC;23;11;19;Master's
+70000;Man;IC;10;19;3;Bachelor's
+66600;Man;IC;4;11;2;Master's
+40000;Man;IC;8;16;8;Bachelor's
+110000;Man;IC;15;8;12;Less than bachelor's
+55000;Woman;IC;4;22;2;Less than bachelor's
+350000;Man;IC;18;12;12;Bachelor's
+81500;Man;IC;8;11;7;Master's
+156000;Man;IC;8;18;4;Bachelor's
+175000;Man;IC;19;12;11;Less than bachelor's
+133000;Man;IC;30;6;14;Bachelor's
+96000;Man;IC;5;19;2;Bachelor's
+83000;Man;IC;5;20;2;Master's
+120000;Man;IC;20;14;11;Less than bachelor's
+95000;Man;IC;10;19;6;Bachelor's
+140000;Man;IC;23;10;12;Bachelor's
+71500;Man;IC;11;10;3;Bachelor's
+128000;Man;IC;14;11;3;Bachelor's
+70000;Man;IC;9;19;6;Bachelor's
+114000;Man;Manager;18;18;18;Bachelor's
+260000;Man;IC;27;14;21;PhD
+117000;Man;IC;18;13;12;Bachelor's
+140000;Man;IC;22;13;11;Less than bachelor's
+138000;Man;IC;8;17;3;Bachelor's
+150000;Man;IC;18;20;13;Bachelor's
+140000;Man;IC;25;12;13;Bachelor's
+100000;Man;IC;40;16;32;Bachelor's
+57000;Man;IC;4;18;Less than 1 year;Bachelor's
+170000;Man;Manager;15;10;10;Bachelor's
+67000;Man;IC;5;15;4;Less than bachelor's
+280000;Man;IC;18;14;9;Master's
+92000;Man;IC;20;11;8;Bachelor's
+88000;Man;Manager;14;11;9;Less than bachelor's
+110000;Man;IC;25;14;20;Less than bachelor's
+126000;Man;IC;22;15;18;Bachelor's
+150000;Man;IC;12;14;8;Bachelor's
+70000;Man;IC;11;13;4;Bachelor's
+120000;Man;IC;29;14;19;Bachelor's
+83000;Man;IC;17;10;12;Bachelor's
+75000;Man;IC;8;18;4;Bachelor's
+95000;Man;IC;2;10;2;Bachelor's
+95000;Man;Manager;20;8;15;Bachelor's
+150000;Man;IC;4;13;2;Bachelor's
+130000;Man;IC;30;8;25;Less than bachelor's
+135470;Man;IC;25;12;14;Master's
+70000;Man;IC;35;12;20;PhD
+130000;Man;IC;19;11;13;Master's
+138000;Man;IC;21;13;13;Bachelor's
+108470;Man;IC;4;14;2;Bachelor's
+102000;Man;IC;11;16;5;Bachelor's
+105000;Man;Manager;10;17;7;Less than bachelor's
+140000;Man;IC;21;14;12;Less than bachelor's
+130000;Man;IC;Less than 1 year;19;5;Bachelor's
+100000;Man;Manager;6;16;2;Bachelor's
+70000;Man;IC;5;13;3;Bachelor's
+250000;Man;IC;30;19;18;Master's
+69500;Man;IC;7;14;4;Bachelor's
+70000;Man;IC;6;22;4;Master's
+120000;Man;IC;33;15;29;Master's
+135000;Man;IC;35;11;13;Master's
+143500;Man;IC;13;12;6;Bachelor's
+105000;Man;IC;14;15;7;Bachelor's
+91500;Man;IC;12;15;5;Bachelor's
+109000;Man;Manager;30;10;20;Bachelor's
+72500;Man;IC;4;13;2;Bachelor's
+85000;Man;IC;6;16;Less than 1 year;Bachelor's
+140000;Man;IC;30;8;25;Less than bachelor's
+176230;Man;IC;20;10;15;Less than bachelor's
+180000;Man;Manager;27;11;17;Bachelor's
+100000;Man;Manager;16;15;11;Less than bachelor's
+100000;Woman;IC;5;20;3;Bachelor's
+124000;Man;IC;19;14;19;Master's
+60000;Man;IC;10;15;1;Bachelor's
+156000;Man;IC;26;11;17;PhD
+50000;Woman;IC;16;16;10;Bachelor's
+80000;Man;IC;2;13;Less than 1 year;Bachelor's
+337000;Man;Manager;49;15;48;Less than bachelor's
+135000;Man;IC;21;10;10;Less than bachelor's
+130000;Man;IC;18;16;13;Bachelor's
+135000;Woman;IC;5;14;2;Bachelor's
+200000;Man;Manager;16;11;10;Master's
+90000;Man;IC;7;21;1;Bachelor's
+240000;Man;IC;14;14;3;Master's
+85000;Man;Manager;25;10;3;Bachelor's
+153500;Man;IC;9;18;4;Bachelor's
+91000;Man;IC;25;12;22;Bachelor's
+84000;Man;IC;4;23;2;Master's
+65000;Man;IC;7;16;2;Bachelor's
+70000;Man;IC;4;15;Less than 1 year;Master's
+123000;Man;IC;6;14;4;Bachelor's
+161000;Man;IC;9;12;3;Master's
+90000;Woman;IC;10;10;4;Master's
+100000;Man;IC;13;16;6;Master's
+110000;Man;IC;20;17;18;Bachelor's
+68000;Man;IC;9;14;2;Bachelor's
+80000;Man;Manager;44;19;44;Bachelor's
+126000;Man;IC;20;23;15;Master's
+110000;Woman;IC;12;14;9;Bachelor's
+75000;Man;IC;8;12;5;Less than bachelor's
+58000;Man;IC;8;18;1;Bachelor's
+100000;Man;Manager;NA;10;25;Bachelor's
+99000;Man;IC;5;18;2;Bachelor's
+120000;Man;IC;30;10;20;Master's
+240000;Man;Manager;36;14;14;Less than bachelor's
+95000;Woman;IC;7;19;3;Master's
+70000;Man;IC;7;20;5;Bachelor's
+155000;Man;Manager;21;16;20;Less than bachelor's
+250000;Man;IC;32;Younger than 5 years;19;PhD
+175000;Man;IC;20;20;10;Master's
+95000;Man;IC;11;18;6;Bachelor's
+68000;Man;IC;4;23;4;Bachelor's
+113000;Man;IC;4;21;4;Less than bachelor's
+160000;Man;IC;10;11;8;Bachelor's
+57000;Man;IC;8;10;3;Less than bachelor's
+37000;Man;IC;2;11;Less than 1 year;Less than bachelor's
+170000;Man;IC;25;12;19;PhD
+85000;Man;IC;5;19;3;Bachelor's
+180000;Man;IC;9;20;7;Less than bachelor's
+108000;Woman;IC;6;14;2;Bachelor's
+40000;Man;IC;5;16;3;Less than bachelor's
+50000;Man;IC;3;19;Less than 1 year;Bachelor's
+130000;Man;IC;9;17;3;Master's
+173000;Man;IC;40;12;35;Master's
+128000;Man;Manager;17;18;13;Bachelor's
+76450;Man;Manager;30;12;25;Bachelor's
+140000;Woman;Manager;2;13;5;Master's
+125000;Man;IC;19;16;16;Bachelor's
+105000;Man;IC;2;14;Less than 1 year;Professional
+220000;Man;Manager;23;12;20;Bachelor's
+140000;Man;IC;21;12;11;Bachelor's
+67000;Man;IC;8;14;6;Less than bachelor's
+157000;Man;Manager;15;15;12;Bachelor's
+100000;Man;IC;12;14;3;Less than bachelor's
+155000;Man;Manager;3;18;8;Master's
+140000;Man;IC;8;15;8;Less than bachelor's
+145000;Man;IC;5;12;4;Bachelor's
+75000;Man;IC;4;35;3;Bachelor's
+90000;Woman;IC;8;12;6;Bachelor's
+70000;Man;IC;9;14;Less than 1 year;Bachelor's
+100000;Man;IC;18;13;14;Master's
+55000;Man;IC;12;11;1;Bachelor's
+69300;Man;IC;15;17;4;Bachelor's
+112000;Woman;IC;11;12;3;Bachelor's
+115000;Woman;IC;18;21;14;Bachelor's
+100000;Woman;IC;17;18;8;Master's
+105000;Man;Manager;8;15;4;Bachelor's
+115000;Man;IC;12;16;9;Bachelor's
+115000;Man;IC;8;15;4;Bachelor's
+139150;Man;IC;12;12;6;Less than bachelor's
+420000;Man;IC;13;13;6;Less than bachelor's
+120000;Man;IC;15;13;6;Bachelor's
+100000;Man;IC;12;10;Less than 1 year;Less than bachelor's
+80000;Man;IC;7;18;3;Bachelor's
+106500;Man;IC;10;18;5;Bachelor's
+66300;Man;IC;6;15;4;Bachelor's
+63000;Man;IC;5;10;3;Bachelor's
+60000;Woman;IC;14;15;3;Bachelor's
+55000;Man;IC;5;11;2;Bachelor's
+132000;Man;IC;23;8;11;Master's
+185000;Man;IC;10;19;7;PhD
+98000;Woman;IC;6;24;3;PhD
+140000;Man;IC;4;13;4;Master's
+150000;Man;Manager;25;7;16;Bachelor's
+120000;Man;IC;6;18;5;Bachelor's
+430000;Man;IC;15;15;6;Bachelor's
+110000;Man;IC;20;23;15;Less than bachelor's
+129000;Woman;IC;7;15;Less than 1 year;Master's
+125000;Man;IC;12;14;8;Bachelor's
+130000;Man;IC;8;14;4;Bachelor's
+89000;Man;IC;8;13;3;Bachelor's
+240000;Man;IC;26;14;23;Less than bachelor's
+87000;Man;IC;15;15;8;Bachelor's
+60000;Man;IC;3;29;3;Bachelor's
+85000;Man;IC;7;14;3;Bachelor's
+126000;Woman;IC;1;20;Less than 1 year;Master's
+91000;Man;IC;8;20;5;Bachelor's
+151000;Man;IC;15;15;10;Bachelor's
+150552;Woman;IC;7;17;5;PhD
+190000;Man;Manager;36;12;27;Master's
+135000;Man;IC;13;15;8;Bachelor's
+103000;Woman;IC;8;15;3;Bachelor's
+85000;Man;IC;17;17;11;Master's
+75000;Man;IC;7;17;2;Master's
+55000;Man;IC;4;22;2;Less than bachelor's
+50000;Woman;IC;10;8;6;Bachelor's
+40000;Man;IC;19;11;9;Master's
+150000;Man;Manager;14;9;12;Bachelor's
+100000;Man;IC;32;10;11;PhD
+137000;Man;IC;11;14;6;Bachelor's
+129000;Man;IC;13;30;4;Master's
+76000;Man;IC;5;10;4;Bachelor's
+60000;Man;IC;12;12;5;Less than bachelor's
+182000;Man;Manager;14;15;10;Bachelor's
+160000;Man;Manager;20;18;18;Bachelor's
+120000;Man;IC;40;12;28;Less than bachelor's
+125000;Man;IC;29;15;23;Bachelor's
+125000;Man;IC;40;10;32;Bachelor's
+125000;Man;Manager;12;17;7;Bachelor's
+400000;Man;IC;12;12;5;PhD
+100000;Man;IC;6;18;1;Bachelor's
+104000;Man;IC;9;16;7;Less than bachelor's
+50000;Woman;IC;20;21;20;Less than bachelor's
+72600;Woman;IC;20;10;15;Bachelor's
+63000;Man;IC;12;10;2;Bachelor's
+99000;Man;IC;13;12;8;Bachelor's
+200000;Man;IC;14;9;10;Bachelor's
+185000;Man;Manager;33;7;22;Master's
+130000;Man;IC;27;14;23;Bachelor's
+142000;Man;IC;25;13;23;Less than bachelor's
+89400;Man;IC;37;19;20;Bachelor's
+135000;Man;IC;20;14;12;Bachelor's
+160000;Man;IC;10;16;5;Less than bachelor's
+67000;Man;IC;5;19;3;Bachelor's
+123000;Man;IC;12;28;10;Less than bachelor's
+97075;Man;IC;10;13;5;Bachelor's
+225000;Man;IC;9;16;8;Bachelor's
+100000;Man;IC;8;17;4;Bachelor's
+110000;Man;Manager;10;22;8;Master's
+78000;Man;IC;12;16;6;Bachelor's
+100000;Man;IC;10;10;7;Bachelor's
+170000;Man;IC;12;14;7;Bachelor's
+80000;Man;IC;6;18;3;Bachelor's
+110000;Man;IC;7;10;5;Master's
+66000;Man;IC;3;20;Less than 1 year;Less than bachelor's
+165000;Man;IC;12;29;14;Master's
+121500;Man;IC;20;25;20;Less than bachelor's
+110000;Man;Manager;20;14;15;Bachelor's
+100000;Man;IC;8;16;2;Bachelor's
+100000;Man;IC;5;23;3;Bachelor's
+50000;Man;IC;5;19;1;Bachelor's
+70000;Man;IC;10;14;8;Less than bachelor's
+115000;Man;IC;21;14;11;Bachelor's
+110000;Man;IC;22;11;12;Less than bachelor's
+65000;Woman;IC;5;25;3;Bachelor's
+75000;Woman;IC;2;16;1;Bachelor's
+110000;Man;IC;2;19;2;Bachelor's
+106000;Man;Manager;20;13;8;Bachelor's
+70000;Man;IC;10;13;7;Less than bachelor's
+63000;Man;Manager;3;12;2;Master's
+83750;Man;IC;3;14;2;Bachelor's
+67250;Woman;IC;3;23;2;Bachelor's
+130000;Man;Manager;18;13;NA;PhD
+130000;Man;Manager;20;14;14;Master's
+166600;Man;IC;6;16;1;Bachelor's
+105000;Man;IC;4;14;4;Bachelor's
+80750;Woman;IC;3;19;3;Master's
+100000;Man;IC;20;17;17;Bachelor's
+179000;Man;IC;22;16;15;Master's
+117000;Man;IC;22;9;10;Bachelor's
+100000;Man;IC;15;24;14;Bachelor's
+112600;Man;IC;5;25;4;Bachelor's
+115000;Man;IC;14;14;10;Less than bachelor's
+49188;Woman;IC;14;10;10;PhD
+100000;Man;IC;35;10;27;Bachelor's
+60000;Man;IC;7;19;2;Bachelor's
+150000;Man;IC;15;20;10;Bachelor's
+135000;Man;IC;18;13;9;Bachelor's
+120000;Man;IC;17;12;14;Master's
+137000;Man;IC;14;19;12;Bachelor's
+150000;Woman;IC;5;14;4;Bachelor's
+77000;Man;IC;4;22;4;Master's
+115000;Man;IC;11;12;9;Master's
+115000;Woman;IC;6;18;2;Bachelor's
+160000;Man;IC;25;10;13;Bachelor's
+90000;Man;IC;5;20;Less than 1 year;Master's
+76500;Man;IC;10;16;5;Bachelor's
+95000;Man;Manager;7;25;7;Bachelor's
+85000;Man;IC;15;14;5;Master's
+120000;Man;IC;16;9;9;Less than bachelor's
+117500;Man;IC;16;10;14;Bachelor's
+70000;Man;IC;13;31;7;Less than bachelor's
+40000;Man;IC;3;30;Less than 1 year;Bachelor's
+73102;Man;IC;8;18;4;Bachelor's
+98000;Man;IC;5;12;3;Master's
+300000;Man;IC;19;15;10;Master's
+170000;Man;IC;33;12;21;Bachelor's
+150000;Man;IC;20;12;10;Bachelor's
+75000;Man;IC;11;13;9;Bachelor's
+101500;Man;IC;6;19;2;Master's
+70000;Man;IC;10;15;2;Less than bachelor's
+103000;Woman;IC;22;35;21;Bachelor's
+215000;Man;IC;20;13;11;Less than bachelor's
+270000;Man;Manager;32;12;27;Bachelor's
+36000;Man;IC;18;18;18;Master's
+82000;Man;IC;2;27;2;Master's
+260000;Man;Manager;37;12;25;Master's
+97000;Man;IC;12;12;10;Master's
+75000;Man;IC;3;24;Less than 1 year;Bachelor's
+104000;Man;IC;12;15;8;Bachelor's
+187000;Man;IC;41;21;41;Master's
+100000;Man;IC;12;16;7;Bachelor's
+135000;Man;IC;23;12;15;Bachelor's
+93000;Man;IC;16;20;1;PhD
+64000;Man;Manager;15;15;12;Master's
+130000;Man;IC;17;13;9;Less than bachelor's
+130000;Man;IC;19;15;10;Bachelor's
+65000;Woman;IC;10;16;10;Bachelor's
+125000;Man;IC;2;21;2;Bachelor's
+165600;Man;IC;4;17;4;Bachelor's
+200000;Man;IC;26;7;20;Bachelor's
+68000;Man;IC;10;15;2;Bachelor's
+90000;Man;IC;7;27;7;Bachelor's
+86100;Man;IC;22;8;4;Less than bachelor's
+95000;Man;Manager;18;11;10;Bachelor's
+110000;Woman;IC;10;27;8;Less than bachelor's
+250000;Man;IC;12;14;11;Master's
+110000;Man;IC;5;24;2;Master's
+120000;Man;IC;11;15;5;Bachelor's
+150000;Man;Manager;22;10;18;Bachelor's
+150000;Woman;IC;17;14;5;Master's
+250000;Man;IC;10;13;5;Bachelor's
+70000;Man;IC;20;10;10;Bachelor's
+120000;Man;IC;8;12;1;Bachelor's
+105000;Man;IC;18;12;10;Less than bachelor's
+80000;Man;IC;7;17;Less than 1 year;Master's
+150000;Man;Manager;15;15;7;Bachelor's
+104750;Man;IC;21;18;21;Bachelor's
+125000;Man;IC;22;12;15;Bachelor's
+85000;Man;IC;6;13;5;Bachelor's
+103000;Man;IC;27;12;25;Bachelor's
+45700;Man;IC;16;13;5;Bachelor's
+34000;Woman;IC;8;14;6;Bachelor's
+75000;Man;IC;8;14;2;Bachelor's
+125000;Man;IC;18;14;13;Bachelor's
+51000;Man;IC;16;13;11;Less than bachelor's
+140000;Man;IC;10;18;6;Bachelor's
+80000;Man;IC;30;10;25;Less than bachelor's
+200000;Man;IC;12;10;5;Bachelor's
+47000;Man;IC;6;13;4;Less than bachelor's
+85000;Man;IC;11;16;6;Bachelor's
+120000;Man;IC;20;6;20;Bachelor's
+155000;Man;IC;25;10;25;Less than bachelor's
+90000;Man;IC;21;16;15;Bachelor's
+140000;Man;Manager;28;7;14;Less than bachelor's
+60000;Man;IC;7;13;3;Bachelor's
+73000;Man;IC;8;18;4;Bachelor's
+148400;Woman;IC;20;14;12;Bachelor's
+76000;Man;IC;11;14;7;Less than bachelor's
+97000;Man;IC;6;19;3;Master's
+120000;Woman;IC;18;13;6;Bachelor's
+120000;Man;IC;18;14;13;Less than bachelor's
+115000;Man;IC;5;26;3;Bachelor's
+140000;Man;IC;10;22;5;Master's
+110000;Man;IC;12;17;7;Bachelor's
+225000;Man;IC;30;11;22;Less than bachelor's
+65000;Woman;IC;10;11;7;Bachelor's
+150000;Man;Manager;8;18;4;Master's
+130000;Man;Manager;30;17;30;PhD
+69000;Man;IC;5;13;2;Bachelor's
+125000;Man;IC;37;16;30;Bachelor's
+155000;Woman;IC;12;17;7;Bachelor's
+110000;Man;IC;7;15;1;Bachelor's
+145000;Man;IC;6;17;1;Bachelor's
+134000;Man;IC;10;12;5;PhD
+165000;Man;IC;16;12;13;Bachelor's
+81500;Woman;IC;4;6;2;Less than bachelor's
+105000;Man;IC;19;9;15;Bachelor's
+95000;Man;IC;7;20;5;Master's
+185000;Man;IC;4;12;2;Bachelor's
+60000;Man;IC;7;14;4;Bachelor's
+90000;Man;IC;3;17;2;Bachelor's
+126000;Man;Manager;30;7;14;Bachelor's
+87300;Man;IC;20;10;12;Bachelor's
+95000;Man;IC;7;18;7;Bachelor's
+126126;Woman;IC;6;11;5;Less than bachelor's
+131000;Man;IC;18;9;16;Bachelor's
+160000;Woman;IC;25;10;20;Bachelor's
+82000;Man;IC;24;25;16;Bachelor's
+100000;Man;IC;7;11;Less than 1 year;Bachelor's
+65000;Man;IC;5;21;5;Master's
+55000;Woman;IC;2;30;Less than 1 year;Master's
+120000;Man;IC;17;18;14;Master's
+72500;Man;IC;11;14;6;Bachelor's
+180000;Man;IC;12;16;8;Master's
+225000;Man;Manager;45;12;37;Master's
+120000;Man;IC;20;14;10;Master's
+70000;Man;IC;4;19;1;Bachelor's
+95000;Man;IC;22;11;15;Bachelor's
+135000;Woman;IC;10;17;7;Bachelor's
+150000;Man;IC;22;14;18;Bachelor's
+165000;Man;IC;14;13;10;Bachelor's
+120000;Man;IC;20;10;18;Bachelor's
+180000;Man;IC;8;14;6;Bachelor's
+90000;Man;IC;3;21;3;Master's
+60000;Man;IC;10;11;5;Bachelor's
+90000;Man;IC;10;17;7;Bachelor's
+65000;Man;IC;8;22;7;Master's
+82500;Man;IC;6;22;2;Master's
+130000;Man;IC;13;18;10;Bachelor's
+84000;Man;IC;8;13;5;Master's
+100000;Woman;IC;5;19;1;Master's
+95000;Man;IC;12;14;4;Master's
+93000;Man;IC;6;14;4;Bachelor's
+159000;Man;IC;21;15;22;Less than bachelor's
+103000;Man;IC;7;15;6;Bachelor's
+130000;Woman;IC;8;13;2;Less than bachelor's
+113000;Man;IC;5;14;4;Master's
+135000;Man;IC;10;14;9;Less than bachelor's
+200000;Man;Manager;8;16;3;Bachelor's
+187000;Man;IC;6;26;6;Bachelor's
+85000;Woman;IC;6;15;6;Bachelor's
+146000;Man;IC;20;8;19;Less than bachelor's
+110000;Woman;IC;15;15;10;Bachelor's
+90000;Man;IC;6;12;6;Bachelor's
+110000;Woman;IC;10;12;4;Bachelor's
+80000;Man;IC;19;14;8;Bachelor's
+200000;Man;Manager;14;16;11;Bachelor's
+350000;Man;IC;26;6;14;Master's
+130000;Man;IC;9;19;7;Bachelor's
+76000;Woman;IC;3;28;2;Master's
+130000;Man;IC;19;14;13;Bachelor's
+120000;Man;IC;20;12;10;Master's
+80000;Man;IC;5;18;4;Master's
+70000;Man;IC;6;18;4;Bachelor's
+125000;Man;IC;8;16;5;Bachelor's
+60000;Man;Manager;9;22;6;Bachelor's
+70000;Woman;IC;2;20;1;Bachelor's
+140000;Man;IC;30;12;23;Bachelor's
+65000;Man;IC;11;20;11;Less than bachelor's
+60000;Man;IC;2;21;1;Bachelor's
+180000;Man;IC;5;12;2;Bachelor's
+146000;Man;Manager;14;18;9;Master's
+300000;Man;Manager;27;16;24;Master's
+74500;Man;IC;24;16;24;Less than bachelor's
+175000;Man;Manager;15;10;15;Bachelor's
+140000;Man;IC;45;18;40;Master's
+60000;Man;IC;7;14;Less than 1 year;Bachelor's
+118000;Man;IC;36;13;25;Bachelor's
+270000;Man;Manager;37;5;34;Less than bachelor's
+90000;Man;IC;5;16;1;Bachelor's
+137500;Man;IC;15;17;8;Bachelor's
+50000;Man;IC;6;16;5;Less than bachelor's
+170000;Man;IC;25;14;22;Less than bachelor's
+148000;Man;IC;29;12;22;Bachelor's
+165500;Man;IC;20;13;10;Bachelor's
+159000;Woman;IC;6;29;5;Bachelor's
+85000;Man;IC;10;11;Less than 1 year;Less than bachelor's
+110000;Man;IC;23;12;21;PhD
+125000;Man;IC;4;27;3;Bachelor's
+81543;Man;IC;3;13;3;Bachelor's
+50000;Man;IC;1;18;Less than 1 year;Bachelor's
+75000;Man;IC;7;16;3;Less than bachelor's
+125000;Man;IC;3;23;3;Bachelor's
+375000;Man;IC;12;13;6;Master's
+120000;Woman;IC;20;12;8;Less than bachelor's
+97000;Man;IC;6;10;1;Bachelor's
+110000;Man;IC;20;10;11;Bachelor's
+220000;Man;IC;20;7;10;PhD
+85000;Man;Manager;15;17;7;Bachelor's
+95000;Man;IC;5;12;5;Less than bachelor's
+92000;Man;IC;8;12;3;Bachelor's
+156000;Man;IC;8;20;8;Less than bachelor's
+255000;Man;IC;12;7;5;Bachelor's
+130000;Man;Manager;2;7;1;Bachelor's
+145000;Man;IC;19;12;8;Bachelor's
+92000;Man;IC;5;20;4;Bachelor's
+1025000;Man;IC;13;13;4;Less than bachelor's
+121000;Man;IC;8;12;6;Bachelor's
+52000;Man;IC;6;16;5;Bachelor's
+190000;Man;IC;11;16;5;Master's
+138000;Man;IC;10;14;4;PhD
+120000;Man;IC;17;15;14;Bachelor's
+130000;Woman;IC;5;16;4;Master's
+200000;Man;IC;22;15;20;Less than bachelor's
+135000;Man;Manager;22;15;18;Bachelor's
+150000;Man;IC;35;13;24;Bachelor's
+50000;Woman;Manager;4;31;4;Bachelor's
+100000;Man;IC;12;16;7;Less than bachelor's
+140000;Man;IC;20;13;15;Bachelor's
+110000;Man;IC;16;15;12;Bachelor's
+85000;Man;IC;7;14;3;Bachelor's
+125000;Man;IC;17;18;12;Bachelor's
+86000;Man;IC;18;18;13;Bachelor's
+140000;Man;IC;6;13;1;Bachelor's
+120000;Man;IC;9;15;3;Bachelor's
+93000;Man;IC;5;13;4;Less than bachelor's
+105000;Man;IC;9;15;2;Bachelor's
+195249;Man;Manager;10;15;4;Bachelor's
+445000;Man;IC;30;8;18;Bachelor's
+95000;Man;IC;40;11;15;Less than bachelor's
+118000;Man;IC;13;11;9;Bachelor's
+60000;Man;IC;5;20;2;Bachelor's
+110000;Man;IC;4;31;2;Master's
+78000;Man;IC;14;15;3;Master's
+58000;Man;IC;15;9;6;Bachelor's
+92230;Man;IC;12;12;9;Less than bachelor's
+93600;Man;IC;30;10;15;Bachelor's
+180000;Man;IC;10;17;5;Bachelor's
+160000;Man;IC;20;12;10;Bachelor's
+130000;Man;IC;6;13;4;Bachelor's
+75000;Man;IC;6;11;4;Less than bachelor's
+89000;Man;IC;14;19;10;Less than bachelor's
+65000;Man;IC;12;10;8;Bachelor's
+105000;Man;IC;12;12;10;Less than bachelor's
+110000;Man;IC;8;12;6;Less than bachelor's
+115000;Man;IC;11;15;5;Bachelor's
+160000;Man;IC;15;6;10;Bachelor's
+150000;Man;IC;20;15;15;Bachelor's
+65000;Man;IC;3;27;1;Bachelor's
+139000;Man;IC;37;17;12;Less than bachelor's
+150000;Man;IC;10;15;1;Master's
+91000;Man;IC;9;18;7;Bachelor's
+132000;Man;IC;14;14;9;Bachelor's
+60000;Man;IC;5;15;3;Bachelor's
+250000;Man;IC;11;12;4;Bachelor's
+33000;Man;IC;12;18;6;Master's
+116000;Woman;IC;23;20;20;Bachelor's
+215000;Man;IC;15;18;12;Less than bachelor's
+56160;Man;IC;15;5;7;Less than bachelor's
+70000;Man;IC;4;18;1;Less than bachelor's
+171000;Man;IC;20;20;20;Master's
+135000;Woman;Manager;18;13;14;Bachelor's
+72000;Man;IC;27;14;8;Bachelor's
+90000;Man;Manager;23;8;11;Less than bachelor's
+175000;Man;IC;30;7;15;Master's
+130000;Man;IC;30;11;25;PhD
+200000;Man;IC;28;12;18;Bachelor's
+155000;Man;IC;15;10;15;PhD
+80000;Man;Manager;20;16;15;Master's
+60000;Man;IC;2;20;2;Bachelor's
+129000;Man;IC;31;10;19;Bachelor's
+106000;Man;Manager;6;18;3;Bachelor's
+105000;Woman;IC;10;18;7;Bachelor's
+100000;Man;IC;16;15;10;Master's
+350000;Man;IC;20;14;12;Master's
+160000;Man;IC;14;20;14;Master's
+110000;Man;IC;39;13;26;Less than bachelor's
+180000;Woman;Manager;9;11;2;Bachelor's
+55000;Man;IC;8;16;2;Bachelor's
+65000;Woman;IC;4;23;3;Bachelor's
+106500;Man;IC;20;14;17;Master's
+104000;Man;IC;13;17;7;Bachelor's
+88000;Man;IC;5;20;1;Bachelor's
+450000;Man;IC;22;12;11;Bachelor's
+60000;Man;IC;13;12;7;Bachelor's
+210000;Man;IC;25;9;14;Bachelor's
+155000;Woman;Manager;7;16;2;Bachelor's
+88000;Man;IC;5;17;2;Bachelor's
+192000;Man;IC;12;12;7;Less than bachelor's
+75000;Woman;IC;1;21;Less than 1 year;Bachelor's
+95000;Man;IC;11;9;5;Master's
+75000;Man;IC;5;18;1;Bachelor's
+90000;Man;IC;17;18;12;Bachelor's
+50000;Man;IC;3;10;2;Bachelor's
+200000;Man;IC;22;10;12;PhD
+109453;Man;IC;21;17;20;Bachelor's
+63000;Man;IC;10;6;5;Bachelor's
+135000;Woman;IC;5;23;4;Master's
+129000;Man;IC;21;13;17;Less than bachelor's
+90000;Man;IC;8;17;3;Bachelor's
+60000;Man;IC;40;8;25;Master's
+130000;Man;IC;20;14;12;Less than bachelor's
+120000;Man;IC;16;18;13;Less than bachelor's
+137000;Woman;IC;4;21;3;Bachelor's
+75000;Man;IC;9;13;6;Bachelor's
+82000;Woman;IC;6;21;4;Master's
+105000;Man;IC;18;11;15;Master's
+126000;Man;IC;10;14;8;Bachelor's
+132000;Man;IC;10;22;10;Bachelor's
+91107;Man;IC;20;18;17;Bachelor's
+210000;Man;IC;6;17;5;Bachelor's
+66000;Man;IC;6;16;2;Bachelor's
+81000;Man;IC;13;11;5;Bachelor's
+62000;Man;IC;10;15;7;Less than bachelor's
+126000;Man;IC;24;15;15;Bachelor's
+125000;Man;IC;12;17;7;Bachelor's
+115000;Man;IC;18;9;16;Less than bachelor's
+167000;Man;IC;40;16;34;Master's
+52127;Man;IC;9;25;4;Bachelor's
+130000;Man;IC;25;12;24;Bachelor's
+85000;Man;IC;6;18;6;Bachelor's
+80000;Woman;IC;16;14;7;Less than bachelor's
+150000;Man;Manager;30;15;25;Bachelor's
+140000;Man;IC;23;16;18;Bachelor's
+80000;Man;IC;7;13;4;Less than bachelor's
+105000;Man;IC;9;18;5;Bachelor's
+82000;Man;IC;10;15;6;Bachelor's
+140000;Man;IC;10;16;10;Master's
+150000;Man;IC;14;12;6;Bachelor's
+50000;Man;IC;6;16;2;NA
+75000;Man;IC;35;13;15;Less than bachelor's
+230000;Man;IC;18;13;12;Master's
+170000;Man;IC;30;11;22;Bachelor's
+157000;Man;IC;15;10;10;Master's
+96000;Man;IC;11;19;10;Bachelor's
+175000;Man;IC;21;19;20;Bachelor's
+60000;Woman;IC;10;10;4;Less than bachelor's
+63700;Man;IC;8;14;4;Bachelor's
+40150;Woman;IC;7;32;3;Bachelor's
+70000;Man;IC;3;20;1;Bachelor's
+70000;Man;IC;6;14;2;Bachelor's
+150000;Man;IC;13;14;9;Bachelor's
+133500;Woman;Manager;7;12;7;Less than bachelor's
+316000;Woman;IC;38;19;35;Master's
+55000;Man;IC;5;16;1;Bachelor's
+145000;Man;IC;4;18;3;PhD
+175000;Man;IC;15;16;10;Master's
+105000;Man;IC;7;12;5;Bachelor's
+92000;Man;IC;27;10;16;PhD
+131500;Man;Manager;9;14;7;Less than bachelor's
+45000;Man;IC;15;15;10;Less than bachelor's
+167000;Man;IC;15;16;9;Bachelor's
+144000;Man;IC;5;27;3;Bachelor's
+135000;Woman;IC;7;19;5;Bachelor's
+62000;Man;Manager;10;8;6;Less than bachelor's
+60000;Man;IC;6;17;2;Bachelor's
+51200;Man;IC;7;15;2;Bachelor's
+65000;Man;IC;1;27;Less than 1 year;Less than bachelor's
+55000;Man;IC;30;16;20;Bachelor's
+160000;Man;IC;19;22;3;Less than bachelor's
+111000;Man;IC;12;10;9;Bachelor's
+135000;Man;Manager;18;15;11;PhD
+103000;Man;IC;15;30;11;Bachelor's
+150000;Man;IC;19;13;14;Bachelor's
+190000;Woman;IC;8;10;3;Bachelor's
+90000;Man;Manager;20;11;13;Less than bachelor's
+147500;Man;IC;20;10;11;Bachelor's
+140000;Man;IC;13;13;5;Bachelor's
+110000;Man;Manager;23;6;7;Bachelor's
+50720;Man;IC;7;18;3;Bachelor's
+62500;Man;IC;5;18;Less than 1 year;Bachelor's
+115000;Man;Manager;35;9;20;Master's
+170000;Man;IC;23;19;20;Master's
+130000;Man;IC;15;21;15;Bachelor's
+75000;Man;IC;8;34;4;Bachelor's
+130000;Man;IC;5;10;4;Bachelor's
+65036;Man;IC;15;13;9;Bachelor's
+100000;Man;IC;35;10;25;Less than bachelor's
+150000;Man;IC;20;8;18;Bachelor's
+155000;Man;IC;13;18;8;Bachelor's
+55000;Man;IC;Less than 1 year;12;Less than 1 year;Bachelor's
+114000;Man;IC;19;12;12;Less than bachelor's
+130000;Man;IC;30;27;30;Bachelor's
+60000;Man;IC;15;13;2;Bachelor's
+135000;Man;IC;7;12;2;Bachelor's
+160000;Man;IC;20;6;10;Bachelor's
+120000;Man;IC;10;10;10;Less than bachelor's
+63000;Man;IC;20;10;3;Bachelor's
+175000;Man;IC;35;12;30;Less than bachelor's
+75000;Man;IC;9;14;1;Bachelor's
+65000;Man;IC;8;15;1;Bachelor's
+133400;Man;IC;43;20;41;Bachelor's
+153000;Man;IC;14;12;10;Bachelor's
+80000;Man;IC;10;13;8;Bachelor's
+120000;Man;IC;30;16;30;Less than bachelor's
+98000;Man;IC;26;8;23;Bachelor's
+110000;Man;Manager;8;15;5;Bachelor's
+175000;Man;Manager;6;14;6;Master's
+95000;Man;Manager;10;15;6;Master's
+110000;Man;Manager;9;12;5;Bachelor's
+130000;Man;Manager;20;12;15;Master's
+182500;Man;IC;12;12;10;Master's
+60000;Woman;IC;8;26;Less than 1 year;Master's
+140000;Man;IC;50;14;48;Bachelor's
+63000;Man;IC;6;13;4;Bachelor's
+130000;Man;IC;7;18;4;Bachelor's
+102000;Man;Manager;20;14;14;Bachelor's
+115000;Man;IC;15;12;5;Bachelor's
+142000;Man;IC;16;11;10;Bachelor's
+65000;Man;IC;6;15;4;Master's
+115000;Man;IC;3;12;3;Bachelor's
+95000;Man;IC;10;16;7;Less than bachelor's
+100000;Woman;IC;14;17;10;Bachelor's
+96000;Man;IC;8;17;5;Bachelor's
+110650;Man;IC;5;28;4;Less than bachelor's
+94600;Woman;IC;7;16;3;Bachelor's
+72500;Woman;IC;2;23;2;Bachelor's
+78000;Man;IC;14;15;5;Bachelor's
+120000;Man;IC;15;15;10;Less than bachelor's
+97850;Man;IC;8;16;5;Bachelor's
+106000;Man;IC;35;12;22;Master's
+45000;Man;IC;6;16;1;Bachelor's
+130000;Man;IC;13;16;13;Less than bachelor's
+151800;Man;IC;22;14;20;Less than bachelor's
+230000;Man;Manager;30;17;25;Bachelor's
+53500;Woman;IC;8;12;Less than 1 year;Bachelor's
+100000;Woman;IC;3;21;3;Bachelor's
+70000;Man;IC;5;19;4;Bachelor's
+58000;Woman;IC;14;12;4;Bachelor's
+77500;Man;IC;8;16;2;Bachelor's
+100000;Man;IC;4;14;3;Bachelor's
+48000;Man;IC;3;11;2;Professional
+135000;Man;IC;28;13;20;Master's
+490600;Man;IC;20;5;10;Less than bachelor's
+57000;Man;IC;6;20;4;Less than bachelor's
+83000;Woman;IC;10;20;9;Bachelor's
+80500;Man;IC;9;21;6;Bachelor's
+120000;Man;IC;17;14;15;Less than bachelor's
+52000;Man;IC;2;15;Less than 1 year;Bachelor's
+104000;Man;IC;7;21;7;Bachelor's
+210000;Man;Manager;5;21;5;Bachelor's
+85000;Man;IC;13;16;6;Less than bachelor's
+225000;Man;IC;21;15;20;Less than bachelor's
+90000;Man;IC;7;20;4;Master's
+105000;Woman;IC;25;6;20;Less than bachelor's
+200000;Man;Manager;24;11;18;PhD
+78000;Man;IC;6;24;5;Bachelor's
+65000;Woman;IC;12;15;6;Bachelor's
+125000;Man;IC;16;17;10;Bachelor's
+140000;Man;Manager;40;15;30;Bachelor's
+137000;Man;IC;10;16;3;Bachelor's
+103000;Man;IC;11;12;8;Less than bachelor's
+143000;Man;IC;27;10;21;Less than bachelor's
+115000;Man;IC;28;13;24;Master's
+155000;Man;Manager;35;20;35;Master's
+125000;Man;IC;40;16;34;Bachelor's
+84000;Man;IC;4;9;1;Bachelor's
+100000;Man;IC;15;17;11;Bachelor's
+70000;Man;IC;5;18;2;Bachelor's
+94000;Man;IC;15;10;11;Bachelor's
+150000;Man;IC;8;12;5;Master's
+140000;Man;IC;14;10;14;Bachelor's
+154000;Man;IC;16;14;8;Master's
+81000;Man;IC;10;12;8;Bachelor's
+99000;Man;IC;30;23;30;Bachelor's
+60000;Man;IC;12;12;Less than 1 year;Bachelor's
+55000;Man;IC;4;19;1;Bachelor's
+75000;Woman;IC;10;16;4;Bachelor's
+135000;Man;IC;20;15;15;Bachelor's
+125000;Man;IC;11;10;8;Less than bachelor's
+116000;Man;IC;4;31;3;Less than bachelor's
+103000;Man;IC;12;16;7;Less than bachelor's
+115000;Man;IC;40;12;30;Bachelor's
+120000;Man;IC;11;16;7;PhD
+90000;Man;IC;13;12;6;Bachelor's
+45000;Man;IC;5;18;2;Less than bachelor's
+150000;Man;Manager;40;12;27;Bachelor's
+239000;Man;IC;7;16;2;Bachelor's
+100000;Man;IC;4;20;2;Bachelor's
+950000;Man;IC;32;12;21;Bachelor's
+120000;Man;IC;22;19;21;Bachelor's
+124000;Man;IC;37;10;22;Master's
+79000;Man;IC;8;9;5;Bachelor's
+115000;Man;IC;5;17;2;Bachelor's
+106000;Man;IC;4;18;3;Bachelor's
+132000;Man;IC;17;12;10;Master's
+160000;Man;IC;20;8;6;Less than bachelor's
+107000;Man;IC;20;17;10;Less than bachelor's
+90000;Man;IC;6;26;4;Master's
+90000;Man;IC;7;14;2;Master's
+135000;Man;IC;10;20;8;Bachelor's
+46000;Man;IC;3;16;Less than 1 year;Bachelor's
+320000;Man;IC;20;8;13;Bachelor's
+168000;Man;IC;18;7;18;Bachelor's
+84000;Woman;IC;7;20;5;Bachelor's
+93000;Man;IC;27;10;20;Master's
+91000;Man;IC;9;18;3;Bachelor's
+188000;Man;IC;12;10;2;Bachelor's
+74000;Man;IC;6;18;2;Bachelor's
+128784;Man;IC;30;13;20;Less than bachelor's
+177000;Man;IC;19;8;7;Master's
+150000;Man;IC;10;16;4;Master's
+115000;Man;IC;14;17;10;Bachelor's
+81000;Man;IC;13;11;3;Bachelor's
+105000;Man;IC;2;21;2;Less than bachelor's
+110000;Man;IC;25;7;22;Less than bachelor's
+175000;Man;Manager;11;13;9;Less than bachelor's
+72800;Man;IC;7;15;Less than 1 year;Bachelor's
+200000;Man;IC;20;15;13;Bachelor's
+135000;Man;IC;30;8;19;Master's
+104000;Man;IC;20;11;10;Bachelor's
+61000;Man;IC;3;28;2;Bachelor's
+85000;Man;IC;12;11;2;Bachelor's
+100000;Man;IC;25;8;10;Master's
+120000;Man;IC;23;15;20;Bachelor's
+65000;Man;IC;6;20;3;Bachelor's
+80000;Man;IC;8;15;4;Bachelor's
+120000;Man;IC;15;15;10;Master's
+200000;Man;IC;8;18;4;Bachelor's
+100000;Man;Manager;8;13;5;Less than bachelor's
+52000;Man;Manager;12;8;2;Bachelor's
+75000;Man;IC;8;21;5;Master's
+150000;Woman;IC;12;11;2;Less than bachelor's
+80000;Man;IC;20;14;13;Less than bachelor's
+77000;Man;IC;10;31;8;Less than bachelor's
+79000;Man;IC;2;21;2;Master's
+78000;Man;IC;5;20;5;Bachelor's
+100000;Man;IC;20;18;16;Less than bachelor's
+32000;Man;IC;3;16;1;Less than bachelor's
+50000;Man;IC;2;16;Less than 1 year;Bachelor's
+210000;Man;Manager;32;6;22;Bachelor's
+136000;Man;IC;6;17;Less than 1 year;Bachelor's
+150000;Man;IC;14;24;10;Bachelor's
+69000;Man;IC;2;15;1;Bachelor's
+130000;Man;IC;16;18;11;Less than bachelor's
+75400;Man;IC;5;16;1;Less than bachelor's
+120000;Man;IC;42;19;39;Less than bachelor's
+135000;Woman;IC;6;18;3;Bachelor's
+115000;Man;IC;8;18;4;Bachelor's
+85000;Man;IC;11;15;7;Master's
+130000;Man;Manager;22;12;10;Bachelor's
+102500;Man;IC;4;27;4;Bachelor's
+96750;Man;IC;17;13;10;Bachelor's
+90000;Man;IC;11;17;6;Bachelor's
+78814;Man;IC;7;27;6;Bachelor's
+131500;Man;IC;30;10;21;Bachelor's
+71000;Man;IC;9;10;9;Bachelor's
+140000;Woman;IC;23;17;22;Bachelor's
+108000;Man;IC;3;22;3;Master's
+165000;Man;IC;9;15;7;Bachelor's
+85000;Man;IC;7;12;2;Bachelor's
+210000;Man;Manager;28;11;24;Less than bachelor's
+96000;Man;IC;13;17;9;Bachelor's
+55595;Man;IC;3;16;2;Bachelor's
+225000;Man;IC;10;12;3;Bachelor's
+105000;Man;Manager;15;16;12;Bachelor's
+107500;Man;IC;17;13;13;Master's
+700000;Man;Manager;45;14;40;PhD
+100000;Man;Manager;10;14;10;Less than bachelor's
+78000;Woman;IC;7;25;2;Master's
+58000;Man;IC;8;18;3;Bachelor's
+66000;Man;IC;6;30;5;Master's
+77000;Man;IC;6;18;3;Bachelor's
+105000;Man;IC;5;18;3;Bachelor's
+170000;Man;Manager;11;21;7;Master's
+62000;Man;IC;6;16;2;Bachelor's
+14750;Man;IC;20;10;17;Bachelor's
+86200;Man;Manager;11;11;9;Master's
+115000;Man;IC;12;10;10;Bachelor's
+128500;Man;IC;46;11;23;Bachelor's
+165000;Man;IC;10;13;4;Bachelor's
+110000;Man;IC;18;13;17;Less than bachelor's
+134000;Man;IC;6;16;4;Less than bachelor's
+76000;Man;IC;10;13;5;Bachelor's
+95000;Man;IC;15;13;15;Less than bachelor's
+102000;Man;IC;11;13;8;Master's
+70000;Man;IC;15;21;11;Master's
+124000;Man;Manager;25;8;14;Master's
+125000;Man;IC;20;12;15;Bachelor's
+220000;Woman;IC;10;12;7;PhD
+85000;Man;IC;10;14;4;Less than bachelor's
+130000;Man;IC;12;15;6;Bachelor's
+105000;Man;Manager;40;14;31;Bachelor's
+117000;Man;IC;7;23;6;PhD
+150000;Man;IC;10;19;6;Bachelor's
+275000;Man;Manager;25;8;15;Master's
+66000;Man;IC;10;16;6;Bachelor's
+80000;Man;IC;12;18;8;Bachelor's
+57000;Man;IC;7;16;Less than 1 year;Bachelor's
+89500;Woman;IC;7;13;3;Bachelor's
+81000;Man;IC;11;18;3;Master's
+190000;Man;IC;35;12;23;Bachelor's
+98000;Woman;IC;16;12;16;Master's
+52000;Man;IC;19;14;5;Bachelor's
+94500;Man;IC;10;18;5;Bachelor's
+130000;Woman;IC;4;33;3;Master's
+70000;Man;IC;4;18;2;Master's
+115000;Man;IC;19;10;10;Master's
+200000;Man;Manager;16;16;8;Bachelor's
+125000;Man;IC;36;17;30;Less than bachelor's
+90000;Man;IC;4;16;2;Master's
+165000;Man;IC;10;18;7;Less than bachelor's
+128000;Man;IC;35;12;26;Less than bachelor's
+145000;Man;IC;37;8;22;Bachelor's
+121500;Woman;IC;20;10;3;Master's
+320000;Man;IC;22;8;18;Bachelor's
+76876;Man;IC;6;16;3;Bachelor's
+166000;Man;Manager;20;15;17;Master's
+150000;Man;IC;20;6;6;Bachelor's
+138000;Man;Manager;27;5;15;Bachelor's
+200000;Man;Manager;36;12;25;Bachelor's
+130000;Man;IC;6;12;5;Bachelor's
+136500;Man;IC;10;12;9;Master's
+150000;Woman;IC;21;14;21;Bachelor's
+115000;Man;IC;7;18;4;Bachelor's
+45000;Man;IC;10;13;1;Bachelor's
+75000;Man;IC;5;27;4;Master's
+85000;Man;IC;3;34;3;Master's
+60000;Man;IC;6;10;5;Less than bachelor's
+90000;Woman;IC;7;14;3;Less than bachelor's
+100000;Man;IC;30;15;25;Master's
+200000;Man;IC;35;13;30;Master's
+88000;Woman;IC;4;27;3;Bachelor's
+320000;Man;IC;23;25;20;Master's
+98000;Man;IC;10;7;10;Less than bachelor's
+80000;Man;IC;25;20;15;Bachelor's
+150000;Man;Manager;19;14;9;Master's
+126000;Man;IC;24;12;18;Less than bachelor's
+137800;Woman;IC;5;19;4;Bachelor's
+44000;Man;IC;30;8;6;Less than bachelor's
+130000;Man;IC;4;20;1;Bachelor's
+125000;Man;IC;30;12;20;Bachelor's
+32500;Man;IC;12;10;Less than 1 year;Less than bachelor's
+115000;Man;IC;19;17;15;Bachelor's
+75000;Man;IC;7;17;3;Bachelor's
+100000;Man;IC;10;12;2;Master's
+140000;Man;IC;4;10;4;Less than bachelor's
+83200;Man;IC;12;16;9;Bachelor's
+145000;Man;IC;20;13;15;Bachelor's
+86000;Man;IC;6;16;4;Bachelor's
+101923;Man;IC;11;12;3;Bachelor's
+105000;Man;IC;25;12;23;Bachelor's
+85000;Woman;IC;20;11;3;PhD
+63000;Man;IC;6;12;4;Less than bachelor's
+78000;Man;IC;8;16;4;Bachelor's
+69000;Man;IC;7;18;4;Bachelor's
+80000;Woman;IC;1;26;Less than 1 year;Bachelor's
+40000;Woman;IC;8;18;4;Master's
+26000;Man;IC;Less than 1 year;8;Less than 1 year;Less than bachelor's
+90000;Man;IC;3;25;2;Less than bachelor's
+89000;Man;IC;28;8;23;Bachelor's
+67450;Man;IC;10;14;4;Bachelor's
+31000;Man;IC;15;11;Less than 1 year;Less than bachelor's
+70000;Man;IC;19;25;16;Bachelor's
+150000;Man;IC;10;18;5;Master's
+89000;Man;IC;5;20;4;Bachelor's
+41800;Man;IC;3;19;Less than 1 year;Bachelor's
+125000;Man;IC;8;15;4;Bachelor's
+100000;Man;IC;24;17;21;Bachelor's
+135000;Woman;IC;11;14;4;Bachelor's
+250000;Man;IC;18;10;15;Less than bachelor's
+160000;Man;IC;23;15;17;Less than bachelor's
+100000;Man;IC;6;15;1;Bachelor's
+108000;Man;IC;14;16;8;PhD
+140000;Man;IC;39;19;37;Master's
+205000;Man;IC;15;8;8;Bachelor's
+65000;Man;IC;6;23;2;Less than bachelor's
+300000;Woman;Manager;25;9;18;Master's
+59000;Man;IC;2;17;Less than 1 year;Bachelor's
+116000;Man;IC;18;17;14;Master's
+125000;Man;IC;5;15;4;Bachelor's
+102000;Man;IC;14;8;8;Master's
+111000;Man;IC;11;16;3;Bachelor's
+100000;Man;IC;10;12;10;Bachelor's
+230000;Man;Manager;23;19;23;Professional
+94000;Man;IC;6;38;6;Professional
+135000;Man;IC;15;13;8;Bachelor's
+150000;Man;Manager;14;18;12;PhD
+65000;Man;IC;5;18;1;Bachelor's
+160000;Man;IC;37;10;24;Bachelor's
+52500;Man;IC;5;19;3;Bachelor's
+97000;Man;IC;38;17;29;Bachelor's
+109980;Man;IC;9;17;7;Bachelor's
+85000;Man;IC;6;15;4;Less than bachelor's
+94500;Man;IC;8;18;4;Bachelor's
+100300;Man;IC;18;12;13;Bachelor's
+67000;Man;IC;5;17;2;Bachelor's
+40000;Man;IC;5;19;3;Less than bachelor's
+54000;Woman;IC;9;15;2;Bachelor's
+52421;Man;IC;10;16;5;Bachelor's
+136000;Man;IC;32;16;23;Bachelor's
+125000;Man;IC;30;14;27;Bachelor's
+140000;Man;IC;10;14;10;Less than bachelor's
+140230;Woman;IC;18;16;13;Bachelor's
+185000;Man;IC;16;9;12;Bachelor's
+105000;Man;IC;16;21;15;Master's
+103000;Man;IC;22;8;8;Less than bachelor's
+141000;Man;IC;28;7;19;Less than bachelor's
+300000;Man;IC;15;14;12;Bachelor's
+150000;Man;Manager;8;18;10;PhD
+260000;Man;IC;18;16;15;Master's
+125000;Man;IC;19;8;9;Master's
+120000;Man;IC;8;15;5;Bachelor's
+78000;Man;IC;17;13;5;Bachelor's
+130000;Man;IC;10;Younger than 5 years;7;Less than bachelor's
+81000;Man;IC;9;16;1;Bachelor's
+62000;Man;IC;3;21;Less than 1 year;Bachelor's
+97000;Man;IC;12;23;10;Master's
+40100;Man;IC;5;17;Less than 1 year;Bachelor's
+114000;Man;IC;20;25;20;Less than bachelor's
+72000;Man;IC;16;10;3;Master's
+180000;Man;Manager;25;8;13;Bachelor's
+87000;Man;IC;4;12;4;Bachelor's
+75075;Man;IC;4;20;2;Bachelor's
+125000;Man;Manager;26;12;15;Bachelor's
+113000;Man;IC;4;7;1;Master's
+220000;Man;IC;19;13;11;Bachelor's
+103832;Man;IC;5;22;2;Bachelor's
+80000;Man;IC;15;14;6;Bachelor's
+170000;Man;IC;15;13;10;PhD
+104000;Man;IC;14;14;6;Bachelor's
+65000;Man;IC;9;19;5;Bachelor's
+68250;Man;IC;14;12;6;Bachelor's
+74500;Man;IC;6;19;4;Bachelor's
+122000;Man;IC;21;40;21;Less than bachelor's
+62000;Man;IC;5;15;2;Bachelor's
+130000;Man;IC;15;15;7;NA
+75000;Woman;IC;2;14;1;Bachelor's
+135000;Man;IC;7;16;2;Bachelor's
+212000;Man;Manager;7;21;5;Bachelor's
+86000;Man;IC;14;18;8;Bachelor's
+73000;Man;IC;5;13;3;Less than bachelor's
+220000;Man;Manager;23;13;10;NA
+55000;Woman;IC;31;8;9;Master's
+100000;Man;IC;9;19;7;Bachelor's
+105000;Woman;IC;3;15;1;Bachelor's
+86000;Man;IC;3;34;3;Bachelor's
+57985;Man;IC;5;18;1;Bachelor's
+130000;Man;IC;10;20;9;Bachelor's
+80000;Man;IC;46;16;41;Master's
+102000;Man;IC;20;14;14;Bachelor's
+103000;Man;IC;5;8;3;Bachelor's
+93000;Man;IC;5;18;5;Less than bachelor's
+107000;Woman;Manager;40;12;22;Less than bachelor's
+72000;Man;IC;4;13;Less than 1 year;Bachelor's
+90000;Man;IC;8;19;6;Master's
+200000;Man;IC;20;10;11;Master's
+120000;Man;IC;6;14;5;Master's
+82000;Man;IC;6;21;3;Bachelor's
+68000;Man;IC;4;20;2;Bachelor's
+80000;Man;IC;10;10;1;Bachelor's
+135000;Man;IC;17;19;14;Master's
+180000;Man;IC;16;12;14;Bachelor's
+150000;Woman;IC;18;16;10;PhD
+75000;Woman;IC;4;19;1;Bachelor's
+150000;Man;IC;31;10;12;Bachelor's
+120000;Man;IC;30;10;27;Bachelor's
+105000;Man;IC;7;20;3;Bachelor's
+200000;Man;IC;10;10;1;Master's
+138000;Woman;IC;2;8;2;PhD
+109533;Man;IC;21;17;18;Bachelor's
+110000;Man;IC;7;17;5;Bachelor's
+150000;Man;IC;20;10;18;Bachelor's
+150000;Woman;IC;7;10;6;Bachelor's
+160000;Man;IC;45;19;41;PhD
+105000;Man;IC;12;16;10;Master's
+70000;Woman;IC;11;26;11;Bachelor's
+120000;Man;IC;6;20;4;Bachelor's
+118000;Man;IC;18;12;Less than 1 year;Bachelor's
+125000;Man;Manager;25;10;19;Less than bachelor's
+55000;Man;IC;7;16;1;Less than bachelor's
+180000;Man;Manager;18;17;18;Bachelor's
+130000;Man;IC;30;8;18;Bachelor's
+140000;Man;IC;19;12;10;Bachelor's
+256000;Woman;IC;10;13;5;Bachelor's
+98000;Man;IC;13;13;8;Bachelor's
+170000;Man;Manager;23;15;19;Master's
+100000;Man;IC;18;12;10;Bachelor's
+180000;Man;IC;20;20;10;PhD
+135000;Man;IC;25;Younger than 5 years;12;Bachelor's
+65000;Man;IC;2;16;Less than 1 year;Less than bachelor's
+67500;Man;IC;7;22;6;Bachelor's
+400000;Man;IC;27;15;22;PhD
+98800;Man;IC;12;15;6;Bachelor's
+87500;Man;IC;19;12;6;Less than bachelor's
+204000;Man;IC;NA;NA;NA;Master's
+150000;Woman;IC;15;28;10;PhD
+130000;Man;IC;14;10;3;Bachelor's
+71000;Man;IC;3;19;Less than 1 year;Bachelor's
+85000;Man;IC;3;16;1;Bachelor's
+60000;Man;IC;Less than 1 year;30;Less than 1 year;Master's
+115000;Woman;IC;7;19;6;Bachelor's
+110000;Man;IC;20;11;9;Bachelor's
+500000;Man;IC;12;13;8;Bachelor's
+168000;Man;Manager;Less than 1 year;20;14;Bachelor's
+950000;Man;IC;10;14;4;Bachelor's
+95000;Man;IC;25;10;20;PhD
+231200;Man;IC;42;15;40;Bachelor's
+130000;Woman;IC;15;13;4;Bachelor's
+130000;Man;IC;11;18;3;Master's
+120000;Man;IC;22;8;10;Bachelor's
+65000;Man;IC;5;20;5;Master's
+160000;Man;IC;24;9;12;Bachelor's
+120000;Woman;IC;9;10;3;Bachelor's
+108000;Man;IC;7;15;10;Master's
+125000;Man;IC;20;12;18;Less than bachelor's
+149378;Man;IC;9;18;6;Bachelor's
+200000;Man;IC;20;10;15;Less than bachelor's
+100000;Man;IC;10;20;6;Master's
+160000;Man;IC;15;15;8;Bachelor's
+50000;Woman;IC;1;23;Less than 1 year;Bachelor's
+78000;Man;IC;10;14;6;Bachelor's
+92000;Man;IC;16;14;10;Bachelor's
+102300;Man;IC;9;19;6;Bachelor's
+70000;Man;IC;20;10;12;Master's
+116000;Man;IC;9;19;6;Bachelor's
+72000;Man;IC;5;18;3;Bachelor's
+107000;Man;IC;26;13;12;Bachelor's
+114000;Man;IC;20;13;15;Bachelor's
+139120;Man;IC;13;13;11;Bachelor's
+120000;Man;IC;4;19;2;Bachelor's
+147700;Woman;IC;15;15;9;Master's
+125000;Man;Manager;9;15;7;Master's
+272000;Man;IC;10;7;6;Master's
+80000;Man;IC;5;20;2;Bachelor's
+170000;Man;IC;11;18;7;Bachelor's
+135000;Man;Manager;37;17;32;Master's
+120000;Man;IC;10;15;3;Less than bachelor's
+137280;Man;IC;6;25;5;Bachelor's
+106000;Woman;IC;9;14;5;Master's
+100000;Man;IC;17;27;15;NA
+260000;Man;IC;18;14;13;Bachelor's
+70000;Man;IC;5;14;4;Bachelor's
+78000;Man;IC;4;13;4;Less than bachelor's
+150000;Man;Manager;12;13;10;Bachelor's
+90000;Man;IC;5;18;3;Master's
+82000;Man;IC;4;18;1;Bachelor's
+66000;Woman;IC;4;26;4;Less than bachelor's
+230000;Man;Manager;35;7;25;Less than bachelor's
+124000;Man;IC;36;12;23;Bachelor's
+330000;Man;Manager;38;12;34;Less than bachelor's
+140000;Man;IC;30;32;20;PhD
+120000;Man;IC;18;13;8;Bachelor's
+53795;Man;IC;3;21;1;Bachelor's
+140000;Man;IC;14;12;10;Bachelor's
+120000;Man;IC;20;19;19;Less than bachelor's
+78000;Man;IC;3;29;2;Master's
+120000;Man;IC;35;13;28;Master's
+92000;Woman;IC;8;18;4;Bachelor's
+160000;Man;IC;6;25;4;Bachelor's
+61000;Man;IC;6;12;2;Bachelor's
+138000;Man;IC;15;8;10;Bachelor's
+90000;Man;IC;12;14;7;Bachelor's
+70000;Man;IC;5;16;1;Bachelor's
+250000;Man;IC;7;9;5;PhD
+175000;Man;IC;35;20;38;Bachelor's
+50000;Woman;IC;5;21;5;Less than bachelor's
+240000;Man;IC;35;11;25;Bachelor's
+107000;Man;IC;11;18;11;Less than bachelor's
+85000;Man;IC;7;14;6;Bachelor's
+90000;Man;IC;10;15;8;Bachelor's
+87000;Man;IC;7;14;4;Bachelor's
+67000;Man;IC;8;13;5;Bachelor's
+90000;Man;IC;5;17;2;Bachelor's
+145000;Man;Manager;14;14;7;Bachelor's
+57000;Man;IC;5;10;5;Master's
+90000;Man;IC;9;NA;4;Bachelor's
+90000;Man;IC;4;19;1;Bachelor's
+160000;Woman;IC;10;14;6;Master's
+155000;Man;IC;12;14;12;Master's
+118000;Man;Manager;18;14;16;Bachelor's
+196000;Man;IC;11;14;8;Bachelor's
+95000;Woman;IC;5;20;5;Less than bachelor's
+93000;Man;IC;4;20;2;Bachelor's
+68836;Woman;IC;3;18;2;Bachelor's
+162000;Man;Manager;24;12;14;Less than bachelor's
+60000;Man;IC;5;14;3;Less than bachelor's
+130000;Man;IC;16;22;16;Bachelor's
+83000;Man;Manager;2;22;2;Bachelor's
+160000;Man;IC;7;16;1;Bachelor's
+110000;Man;IC;22;10;13;Bachelor's
+105000;Man;IC;30;19;25;Bachelor's
+45000;Man;IC;5;25;Less than 1 year;Less than bachelor's
+66000;Man;IC;6;20;2;Bachelor's
+70000;Man;IC;10;10;2;Bachelor's
+60000;Man;IC;5;11;2;Bachelor's
+120000;Man;IC;35;13;30;Bachelor's
+78000;Man;IC;30;12;20;Less than bachelor's
+88000;Man;IC;15;13;7;Master's
+63000;Man;IC;9;18;2;Bachelor's
+155000;Man;Manager;26;9;13;Less than bachelor's
+105000;Man;IC;5;11;5;Less than bachelor's
+170000;Man;IC;30;12;25;Master's
+65000;Man;IC;3;11;2;Bachelor's
+160000;Man;IC;8;18;4;Bachelor's
+125000;Man;IC;15;10;6;Bachelor's
+73000;Man;IC;12;18;10;Bachelor's
+116000;Man;IC;8;19;6;PhD
+85000;Man;Manager;36;9;20;PhD
+165000;Man;IC;10;23;9;Less than bachelor's
+120000;Woman;Manager;13;14;10;Bachelor's
+96000;Man;IC;9;13;5;Bachelor's
+116000;Man;IC;24;12;20;Less than bachelor's
+215000;Woman;IC;9;12;4;Bachelor's
+89000;Man;IC;9;17;4;Bachelor's
+63200;Man;IC;7;18;4;Bachelor's
+110000;Man;IC;24;17;20;Less than bachelor's
+77000;Man;IC;6;19;2;Bachelor's
+180000;Man;IC;25;11;20;Bachelor's
+110000;Man;IC;6;17;3;Bachelor's
+108000;Man;IC;20;11;12;Bachelor's
+110000;Man;Manager;19;15;8;Bachelor's
+87000;Woman;IC;6;19;5;Bachelor's
+114000;Man;IC;18;26;18;Bachelor's
+120000;Man;IC;14;19;7;Bachelor's
+120000;Man;IC;6;17;6;Bachelor's
+190000;Man;IC;31;10;25;Bachelor's
+68000;Man;IC;8;14;3;Bachelor's
+75000;Man;IC;7;19;3;Bachelor's
+96000;Woman;IC;4;18;1;Bachelor's
+104000;Man;IC;10;9;10;Less than bachelor's
+82000;Man;IC;8;21;6;Bachelor's
+107000;Man;IC;16;11;5;PhD
+95000;Man;IC;5;25;4;Master's
+88000;Man;IC;11;15;8;Bachelor's
+65000;Man;IC;8;20;3;Less than bachelor's
+67000;Man;IC;22;16;6;Bachelor's
+110000;Man;IC;10;13;7;Less than bachelor's
+108000;Man;IC;4;17;3;Master's
+65000;Man;IC;8;10;3;Bachelor's
+64000;Woman;IC;4;20;Less than 1 year;Bachelor's
+80000;Man;IC;8;19;2;Less than bachelor's
+82000;Woman;IC;3;34;Less than 1 year;Less than bachelor's
+100000;Man;IC;7;10;5;Bachelor's
+36400;Man;IC;10;11;3;Less than bachelor's
+68000;Man;IC;8;16;8;Bachelor's
+84000;Man;IC;8;19;7;Less than bachelor's
+72000;Woman;IC;10;12;8;Master's
+110000;Man;IC;30;12;20;Less than bachelor's
+180000;Man;IC;12;14;7;Master's
+90000;Man;IC;10;14;5;Bachelor's
+200000;Man;IC;23;Younger than 5 years;20;Less than bachelor's
+67500;Man;IC;3;32;2;Master's
+70000;Man;IC;10;13;2;Bachelor's
+74000;Man;IC;14;24;9;Less than bachelor's
+92000;Man;IC;13;14;7;Master's
+80000;Man;Manager;20;11;8;Master's
+180000;Man;IC;25;15;20;Master's
+230000;Man;IC;42;17;35;NA
+240000;Man;Manager;29;13;26;Bachelor's
+135000;Man;IC;18;15;11;Bachelor's
+173000;Man;Manager;36;12;30;Less than bachelor's
+154000;Man;IC;24;13;18;Master's
+140000;Man;IC;6;20;3;Less than bachelor's
+130000;Man;IC;7;13;4;Bachelor's
+130000;Man;IC;43;18;42;Bachelor's
+107000;Man;IC;40;13;14;Master's
+95000;Man;IC;15;14;9;Master's
+110000;Man;IC;25;12;25;Master's
+165000;Man;IC;17;15;11;Bachelor's
+120000;Man;IC;23;11;14;Bachelor's
+135000;Man;IC;42;12;37;Less than bachelor's
+175000;Man;IC;33;18;29;Master's
+140600;Man;IC;8;16;4;Bachelor's
+150000;Man;IC;11;16;4;Master's
+55000;Man;IC;4;19;Less than 1 year;Bachelor's
+120000;Man;IC;12;14;6;Master's
+103000;Man;IC;6;18;3;Bachelor's
+230000;Man;IC;38;12;36;PhD
+156000;Man;IC;24;11;19;Bachelor's
+80000;Man;IC;30;16;23;Bachelor's
+123000;Man;IC;15;18;15;Bachelor's
+135000;Man;IC;16;15;14;Master's
+70000;Man;IC;15;13;7;Bachelor's
+105000;Man;IC;5;14;2;Less than bachelor's
+160000;Man;Manager;20;9;12;PhD
+96000;Man;IC;16;10;12;Bachelor's
+121080;Man;IC;11;11;9;Bachelor's
+75000;Woman;IC;5;27;Less than 1 year;Bachelor's
+81000;Man;IC;7;18;2;Master's
+115000;Man;IC;26;24;26;Bachelor's
+137500;Man;IC;7;22;7;Bachelor's
+90000;Man;IC;12;13;2;Bachelor's
+238000;Man;Manager;20;6;18;Bachelor's
+121397;Man;IC;5;29;5;Bachelor's
+115000;Man;IC;40;12;35;Less than bachelor's
+150000;Man;Manager;9;16;5;Bachelor's
+87620;Man;IC;6;22;6;Less than bachelor's
+120000;Man;IC;13;13;3;Less than bachelor's
+110000;Man;IC;15;15;15;Bachelor's
+90000;Woman;IC;23;12;3;Bachelor's
+120000;Man;IC;20;15;20;Less than bachelor's
+115000;Man;IC;15;25;15;Bachelor's
+155000;Man;IC;7;24;6;Master's
+140213;Man;Manager;16;9;12;Bachelor's
+65000;Man;IC;5;13;Less than 1 year;Bachelor's
+180000;Man;IC;8;31;7;Bachelor's
+88000;Man;IC;14;16;4;Bachelor's
+190000;Man;IC;18;18;14;Bachelor's
+150000;Man;IC;12;12;8;Master's
+350000;Man;IC;24;6;18;Master's
+135000;Man;IC;10;16;5;Bachelor's
+140000;Man;IC;42;20;38;Master's
+210000;Man;Manager;35;10;25;Master's
+90000;Man;IC;3;25;2;Bachelor's
+159500;Man;IC;24;6;21;Master's
+150000;Man;IC;20;9;14;NA
+90000;Woman;IC;6;18;2;Master's
+155000;Man;IC;8;16;4;Bachelor's
+72000;Man;IC;19;15;15;Bachelor's
+65000;Man;IC;11;19;10;Bachelor's
+150000;Man;IC;11;15;6;Less than bachelor's
+115000;Man;IC;15;17;11;Bachelor's
+75000;Man;Manager;25;10;11;Bachelor's
+350000;Man;IC;19;13;12;Bachelor's
+103000;Man;IC;24;8;20;Bachelor's
+89000;Woman;IC;21;15;13;Bachelor's
+128000;Man;IC;9;11;8;Less than bachelor's
+135000;Man;IC;20;5;6;Professional
+160000;Man;Manager;18;8;12;Less than bachelor's
+143000;Man;IC;8;7;2;Bachelor's
+60000;Man;IC;6;10;2;Bachelor's
+41600;Woman;IC;4;10;2;Less than bachelor's
+136000;Man;IC;43;19;43;Bachelor's
+170000;Man;Manager;32;18;27;PhD
+110000;Man;IC;35;15;29;Bachelor's
+190000;Man;IC;20;10;9;Bachelor's
+153000;Man;IC;3;13;3;Bachelor's
+54000;Man;IC;4;14;2;Bachelor's
+125000;Man;IC;37;15;30;Master's
+80000;Man;IC;8;13;3;Bachelor's
+100000;Man;IC;3;19;3;Less than bachelor's
+122000;Man;IC;24;16;20;Bachelor's
+140000;Man;IC;10;16;5;Bachelor's
+201000;Man;IC;36;10;28;Less than bachelor's
+85000;Man;IC;12;10;8;Bachelor's
+90000;Man;IC;20;14;12;Bachelor's
+82000;Man;IC;20;25;13;Bachelor's
+147000;Man;IC;30;11;20;Bachelor's
+70000;Man;IC;15;18;5;Less than bachelor's
+165000;Man;Manager;24;16;12;Bachelor's
+63000;Man;IC;6;12;1;Bachelor's
+100000;Woman;IC;7;18;4;Bachelor's
+120000;Man;IC;37;15;30;Bachelor's
+315000;Man;IC;19;16;12;Master's
+110000;Man;IC;8;17;5;Master's
+101000;Woman;IC;7;15;7;Bachelor's
+88000;Man;IC;9;15;5;Bachelor's
+106000;Man;IC;7;14;7;Bachelor's
+150000;Woman;IC;6;15;2;Bachelor's
+61000;Man;IC;23;8;17;Bachelor's
+79000;Man;IC;5;18;1;Bachelor's
+131200;Woman;IC;12;10;7;Bachelor's
+100000;Man;IC;16;12;8;Bachelor's
+12500;Man;IC;12;21;12;Bachelor's
+47000;Man;IC;8;13;2;Less than bachelor's
+90000;Woman;IC;8;19;8;Master's
+88000;Woman;IC;40;5;30;PhD
+70000;Man;IC;10;10;7;Less than bachelor's
+115900;Man;IC;7;11;4;Bachelor's
+109000;Man;IC;30;11;6;Master's
+75000;Man;IC;10;14;3;Bachelor's
+140000;Woman;IC;4;13;2;Bachelor's
+80000;Man;IC;22;15;12;Bachelor's
+120000;Man;IC;14;12;8;Bachelor's
+150000;Man;IC;20;14;15;Bachelor's
+180000;Man;IC;8;12;8;Master's
+115000;Man;IC;6;10;4;Less than bachelor's
+70000;Man;IC;13;13;6;Master's
+106000;Man;IC;15;6;13;Less than bachelor's
+450000;Man;IC;15;10;9;Less than bachelor's
+140000;Man;IC;17;13;14;Less than bachelor's
+100000;Man;Manager;8;20;7;Less than bachelor's
+105000;Man;IC;20;13;4;Bachelor's
+200000;Man;IC;13;14;9;Bachelor's
+190000;Man;IC;11;14;6;Bachelor's
+200000;Man;Manager;21;6;14;Bachelor's
+184678;Man;IC;17;13;13;Master's
+140000;Man;IC;18;12;16;Bachelor's
+125000;Man;IC;3;11;2;Bachelor's
+115000;Man;IC;30;15;30;PhD
+120000;Man;IC;19;12;12;Bachelor's
+90000;Woman;IC;12;12;6;Less than bachelor's
+152000;Man;IC;40;16;36;Master's
+75000;Man;IC;15;11;7;Bachelor's
+85000;Man;IC;8;8;3;Less than bachelor's
+140000;Man;Manager;9;10;7;Bachelor's
+80000;Man;IC;4;16;3;Bachelor's
+110000;Man;IC;4;14;1;Bachelor's
+155000;Man;IC;20;15;15;Less than bachelor's
+115000;Man;IC;25;10;20;Less than bachelor's
+90000;Man;IC;8;17;3;Bachelor's
+160000;Man;Manager;13;15;8;Bachelor's
+154000;Man;IC;21;15;15;Master's
+170000;Man;IC;40;17;34;Bachelor's
+100000;Man;IC;25;25;25;Bachelor's
+100000;Man;IC;2;14;Less than 1 year;Master's
+115000;Woman;IC;20;20;16;Master's
+39229;Man;IC;4;14;3;Bachelor's
+126500;Man;IC;15;10;14;Master's
+55800;Man;IC;11;8;Less than 1 year;Bachelor's
+77000;Man;IC;5;21;4;Bachelor's
+300000;Man;IC;23;13;12;Bachelor's
+117500;Woman;IC;10;13;8;Bachelor's
+170000;Man;IC;22;13;15;Master's
+60000;Man;IC;3;15;2;Master's
+59569;Man;IC;19;12;9;Bachelor's
+89000;Man;IC;25;19;25;Bachelor's
+93000;Man;IC;15;14;11;Bachelor's
+100000;Man;IC;28;11;12;Less than bachelor's
+270000;Man;IC;8;12;4;Bachelor's
+65000;Man;IC;13;10;1;Bachelor's
+125000;Man;IC;12;15;5;Bachelor's
+90000;Man;IC;6;16;5;Bachelor's
+90000;Man;IC;8;19;4;Bachelor's
+135000;Man;Manager;20;16;13;Bachelor's
+88000;Man;IC;2;22;Less than 1 year;Master's
+135000;Man;Manager;15;9;10;Bachelor's
+140000;Man;IC;4;20;1;Bachelor's
+90000;Man;IC;13;15;10;Bachelor's
+70000;Man;IC;10;13;Less than 1 year;Bachelor's
+72238;Man;IC;5;30;2;Less than bachelor's
+119000;Man;IC;22;7;20;Bachelor's
+190000;Man;IC;33;7;19;Bachelor's
+70000;Woman;IC;1;24;Less than 1 year;Bachelor's
+80000;Man;Manager;4;22;4;Bachelor's
+78000;Man;IC;12;14;3;Bachelor's
+80000;Woman;IC;9;16;4;Bachelor's
+73000;Man;IC;7;21;7;Master's
+65000;Man;IC;9;12;4;Less than bachelor's
+125000;Man;IC;42;16;40;Bachelor's
+102000;Man;IC;13;16;8;Bachelor's
+210000;Man;IC;15;16;10;Master's
+80000;Man;IC;6;17;1;Bachelor's
+114000;Man;IC;18;15;14;Bachelor's
+68000;Man;IC;10;15;2;Bachelor's
+60000;Man;Manager;9;17;7;Bachelor's
+130000;Man;IC;5;17;5;Less than bachelor's
+140000;Man;IC;18;13;14;Bachelor's
+100000;Man;IC;20;21;16;Bachelor's
+78000;Man;Manager;18;12;7;Bachelor's
+126000;Man;IC;35;17;35;Bachelor's
+170000;Man;IC;22;15;16;Bachelor's
+85000;Man;Manager;6;16;2;Bachelor's
+150000;Man;IC;20;9;12;Bachelor's
+125000;Man;IC;19;14;7;Bachelor's
+130000;Man;IC;21;13;11;Bachelor's
+220000;Man;IC;35;12;25;Bachelor's
+93000;Man;IC;15;15;9;Bachelor's
+200000;Man;Manager;23;13;14;Bachelor's
+145000;Man;Manager;17;14;15;Bachelor's
+55000;Man;IC;14;11;4;Less than bachelor's
+145000;Man;IC;32;13;23;Bachelor's
+200000;Man;IC;18;9;18;PhD
+140000;Man;IC;10;15;7;Bachelor's
+86500;Man;IC;9;18;5;Bachelor's
+80000;Man;IC;12;16;7;Bachelor's
+200000;Man;Manager;25;10;15;Less than bachelor's
+112000;Man;IC;15;16;10;Master's
+72000;Man;IC;5;16;3;Less than bachelor's
+70000;Man;IC;3;25;Less than 1 year;Bachelor's
+105000;Man;IC;10;15;5;Bachelor's
+100000;Man;IC;7;13;2;Bachelor's
+130000;Man;Manager;16;12;7;Bachelor's
+61000;Man;IC;9;15;1;Master's
+71500;Man;IC;10;19;5;Bachelor's
+126729;Man;IC;23;9;21;NA
+190000;Man;IC;20;10;6;PhD
+192000;Man;IC;25;14;20;Bachelor's
+180000;Man;Manager;37;12;30;PhD
+102000;Man;Manager;7;18;3;Bachelor's
+120000;Man;IC;11;27;11;Bachelor's
+70000;Man;IC;2;11;2;PhD
+147400;Woman;IC;20;10;9;PhD
+90000;Man;IC;10;15;5;Master's
+150000;Man;IC;40;20;35;PhD
+107000;Man;IC;5;24;5;Bachelor's
+120000;Man;Manager;30;8;20;Master's
+140000;Woman;IC;8;20;6;Bachelor's
+160000;Man;IC;40;15;34;Master's
+65000;Man;IC;7;14;6;Bachelor's
+140000;Man;IC;5;13;2;Bachelor's
+71000;Man;IC;5;13;Less than 1 year;Bachelor's
+110000;Man;IC;6;21;5;Master's
+90000;Man;IC;8;18;4;Bachelor's
+180000;Man;Manager;23;19;18;Bachelor's
+118000;Man;IC;20;Younger than 5 years;13;Bachelor's
+42000;Man;IC;6;13;3;Less than bachelor's
+70000;Man;Manager;8;20;8;Less than bachelor's
+120000;Man;IC;20;14;11;PhD
+475000;Man;IC;13;11;4;Bachelor's
+90000;Man;Manager;15;10;12;Bachelor's
+82000;Man;IC;10;14;2;Bachelor's
+62000;Man;IC;16;17;11;PhD
+77000;Man;IC;9;19;6;Bachelor's
+115000;Woman;IC;16;10;12;Bachelor's
+72500;Man;IC;5;28;Less than 1 year;Bachelor's
+90000;Man;IC;10;20;5;Bachelor's
+155000;Man;IC;10;8;10;Master's
+250000;Man;IC;30;9;20;Bachelor's
+70000;Man;IC;4;16;2;Bachelor's
+55000;Man;IC;10;14;8;Less than bachelor's
+168000;Man;Manager;18;8;18;Less than bachelor's
+100000;Man;IC;15;13;5;Less than bachelor's
+90000;Man;IC;7;18;3;Bachelor's
+170000;Man;IC;20;12;16;Bachelor's
+150000;Man;IC;28;12;23;Bachelor's
+145000;Man;IC;38;30;35;Less than bachelor's
+115000;Man;IC;28;9;15;Bachelor's
+138000;Man;IC;15;11;5;Bachelor's
+135000;Man;IC;20;8;18;Bachelor's
+332000;Man;IC;6;22;6;Bachelor's
+100000;Man;IC;18;16;15;Bachelor's
+143000;Man;IC;21;15;20;Less than bachelor's
+117000;Man;IC;43;16;22;Bachelor's
+70000;Man;IC;32;6;19;Bachelor's
+94000;Man;IC;6;16;3;Bachelor's
+175000;Man;IC;22;8;21;Less than bachelor's
+100000;Man;IC;6;16;2;Bachelor's
+123500;Man;IC;14;14;5;Bachelor's
+120000;Man;IC;10;15;4;Bachelor's
+225000;Man;Manager;24;18;20;Bachelor's
+104000;Man;IC;16;10;6;Bachelor's
+80000;Man;Manager;5;18;Less than 1 year;Bachelor's
+71500;Man;IC;16;11;5;Master's
+105560;Man;IC;7;12;3;Master's
+148000;Man;Manager;14;11;10;Professional
+72000;Man;IC;2;34;Less than 1 year;NA
+220000;Man;IC;12;12;3;Bachelor's
+76000;Man;IC;7;12;1;Professional
+80000;Man;IC;6;18;2;Bachelor's
+98000;Man;Manager;6;17;3;Bachelor's
+52000;Woman;IC;10;20;5;Bachelor's
+65000;Man;IC;18;8;5;Professional
+100000;Man;Manager;7;19;6;Bachelor's
+200000;Woman;IC;14;19;7;PhD
+260000;Man;IC;25;6;15;Bachelor's
+120000;Woman;IC;3;23;3;Master's
+90000;Woman;IC;4;10;2;Bachelor's
+75000;Man;Manager;13;13;4;Bachelor's
+67000;Man;IC;8;11;5;Bachelor's
+102000;Man;IC;40;16;NA;Master's
+67800;Woman;IC;6;20;5;Bachelor's
+100000;Man;Manager;6;16;2;Bachelor's
+70000;Man;IC;2;29;1;Bachelor's
+63000;Woman;IC;4;19;3;Master's
+95000;Man;IC;30;7;16;Less than bachelor's
+58000;Man;IC;5;24;3;Less than bachelor's
+130000;Man;IC;10;8;7;Master's
+105000;Man;IC;11;26;11;Less than bachelor's
+155000;Man;Manager;33;16;30;Bachelor's
+123000;Man;IC;35;12;25;Less than bachelor's
+70000;Woman;IC;6;14;4;Less than bachelor's
+425000;Man;IC;20;14;15;Less than bachelor's
+185000;Man;IC;18;10;15;Master's
+90000;Man;IC;5;14;2;Bachelor's
+158000;Man;Manager;38;10;27;Master's
+120000;Man;IC;15;12;7;Bachelor's
+95000;Man;IC;40;16;36;Less than bachelor's
+150000;Man;IC;32;17;32;Bachelor's
+60000;Man;IC;10;14;2;Bachelor's
+220000;Man;Manager;28;9;22;Less than bachelor's
+75000;Man;IC;28;10;16;Master's
+100000;Man;IC;17;31;10;Bachelor's
+168750;Man;IC;30;10;20;Bachelor's
+65000;Man;IC;6;11;3;Master's
+150000;Man;IC;6;18;3;Bachelor's
+148000;Woman;IC;15;20;11;Master's
+102000;Woman;IC;10;23;10;Bachelor's
+120000;Man;IC;30;16;26;Bachelor's
+124000;Man;IC;20;16;13;Less than bachelor's
+80000;Man;IC;8;18;5;Bachelor's
+127400;Man;IC;27;10;15;Master's
+250000;Man;IC;30;12;24;Bachelor's
+400000;Man;Manager;25;10;6;PhD
+127000;Man;IC;8;17;3;Bachelor's
+160000;Man;Manager;9;16;5;Bachelor's
+117000;Man;IC;24;14;22;Bachelor's
+86000;Man;IC;40;9;10;Bachelor's
+90000;Woman;IC;8;17;3;Master's
+225000;Man;IC;9;18;6;Bachelor's
+154000;Woman;IC;9;13;7;Bachelor's
+50000;Man;IC;3;30;3;Less than bachelor's
+116000;Man;IC;21;12;15;Bachelor's
+130000;Man;IC;39;11;33;Less than bachelor's
+83000;Man;IC;5;15;3;Bachelor's
+50000;Woman;IC;1;23;1;Bachelor's
+60000;Man;IC;8;12;2;Bachelor's
+89000;Man;IC;15;10;5;Bachelor's
+77000;Woman;IC;19;12;4;Master's
+94000;Woman;IC;3;23;3;Bachelor's
+145000;Man;IC;45;16;41;Bachelor's
+70000;Man;Manager;18;16;10;Bachelor's
+95000;Woman;IC;8;11;4;Bachelor's
+100000;Man;IC;15;12;8;Bachelor's
+65000;Man;IC;10;14;2;Bachelor's
+75000;Man;IC;12;10;3;Bachelor's
+85000;Man;IC;5;12;4;Master's
+65000;Man;IC;5;10;3;Bachelor's
+110000;Man;IC;5;26;4;Bachelor's
+103000;Man;IC;9;24;5;Bachelor's
+35000;Man;IC;15;8;6;Bachelor's
+175000;Woman;IC;43;19;39;Bachelor's
+106000;Man;IC;5;18;4;Bachelor's
+40000;Man;IC;6;15;Less than 1 year;Less than bachelor's
+78000;Man;IC;30;14;24;Bachelor's
+150000;Man;IC;11;12;Less than 1 year;Bachelor's
+140000;Man;IC;4;12;2;Bachelor's
+127800;Man;IC;12;18;7;Master's
+125000;Man;IC;10;14;5;Bachelor's
+75300;Man;IC;15;14;4;Bachelor's
+110000;Man;IC;18;22;20;Less than bachelor's
+85000;Woman;IC;19;5;9;Master's
+110000;Man;IC;40;9;35;Bachelor's
+110000;Man;Manager;36;13;27;Master's
+210000;Man;IC;5;11;5;Bachelor's
+74970;Man;IC;12;17;6;Bachelor's
+220000;Man;IC;32;7;18;Bachelor's
+66532;Man;IC;30;8;7;Bachelor's
+175000;Man;IC;25;11;20;Bachelor's
+80000;Man;IC;5;18;2;Bachelor's
+100010;Man;IC;11;18;7;Bachelor's
+170000;Man;IC;19;13;18;PhD
+60000;Man;IC;25;12;3;Master's
+175000;Man;IC;40;14;33;Master's
+120000;Man;IC;7;18;3;Bachelor's
+75000;Man;IC;3;21;2;Less than bachelor's
+77000;Man;IC;5;14;2;Less than bachelor's
+197000;Man;IC;22;15;16;Bachelor's
+190000;Man;IC;14;17;10;Bachelor's
+200000;Man;IC;23;10;10;Bachelor's
+92000;Man;IC;4;15;4;Bachelor's
+140000;Man;IC;15;12;3;Master's
+170000;Man;IC;11;16;4;Bachelor's
+121000;Man;IC;17;10;10;Bachelor's
+325000;Man;IC;8;14;4;Bachelor's
+140000;Woman;IC;8;19;4;Master's
+125000;Man;IC;7;15;3;Master's
+85000;Man;IC;7;21;6;Less than bachelor's
+60000;Man;IC;7;16;5;Bachelor's
+82500;Man;IC;6;14;2;Bachelor's
+91000;Man;IC;25;14;12;Bachelor's
+131000;Woman;IC;18;14;13;Bachelor's
+78000;Woman;Manager;4;15;4;Master's
+125000;Man;IC;38;19;15;Master's
+130000;Man;IC;9;14;7;Less than bachelor's
+120000;Man;IC;10;16;6;Bachelor's
+130000;Man;IC;35;9;20;Bachelor's
+120000;Man;IC;10;10;4;Bachelor's
+185000;Man;Manager;15;Younger than 5 years;15;Bachelor's
+1100000;Man;IC;20;11;11;Bachelor's
+126500;Man;IC;10;24;4;PhD
+85000;Man;IC;12;14;6;Bachelor's
+85000;Man;IC;15;13;11;Bachelor's
+153000;Man;IC;20;15;20;Less than bachelor's
+65000;Man;IC;7;18;3;Bachelor's
+100000;Man;IC;10;18;10;Bachelor's
+78000;Woman;IC;2;30;1;Bachelor's
+120000;Man;IC;13;17;11;Master's
+72000;Man;IC;8;17;5;Bachelor's
+118000;Man;IC;15;10;12;Bachelor's
+48850;Man;IC;12;14;7;Bachelor's
+100000;Man;IC;30;10;20;Less than bachelor's
+160000;Man;IC;13;15;6;Bachelor's
+103000;Man;Manager;17;17;14;Bachelor's
+130000;Man;IC;14;14;14;PhD
+62000;Man;IC;6;16;1;Bachelor's
+160000;Man;IC;5;18;2;Bachelor's
+115000;Man;IC;8;8;6;Master's
+98000;Man;IC;10;7;2;Bachelor's
+73000;Man;IC;4;19;1;Bachelor's
+80000;Man;IC;4;22;2;Less than bachelor's
+34496;Woman;IC;2;21;1;Less than bachelor's
+98000;Man;IC;16;10;13;Less than bachelor's
+110000;Man;IC;25;7;18;Master's
+76000;Woman;IC;3;18;Less than 1 year;Bachelor's
+71000;Man;IC;9;18;5;Bachelor's
+103000;Man;IC;43;19;21;Bachelor's
+150000;Woman;IC;5;10;3;Less than bachelor's
+36000;Man;IC;7;6;5;Master's
+80000;Man;IC;6;23;5;Less than bachelor's
+70000;Man;IC;20;10;10;Less than bachelor's
+41000;Man;IC;2;25;1;Bachelor's
+180000;Man;Manager;18;12;8;Master's
+440000;Man;IC;12;10;4;Bachelor's
+93000;Man;IC;10;14;3;Bachelor's
+130000;Man;IC;17;15;12;Master's
+102000;Man;IC;8;13;1;Master's
+79000;Man;IC;6;18;2;Bachelor's
+65000;Man;IC;8;13;Less than 1 year;Less than bachelor's
+200000;Man;IC;24;9;17;Bachelor's
+87000;Man;IC;13;14;5;Bachelor's
+116000;Man;IC;35;6;25;Bachelor's
+56000;Woman;IC;6;22;6;Master's
+108000;Woman;IC;5;17;2;Bachelor's
+57000;Man;IC;20;17;7;Bachelor's
+150000;Man;Manager;10;18;5;Bachelor's
+135000;Man;IC;7;23;5;Bachelor's
+105000;Man;IC;7;11;6;Less than bachelor's
+120000;Man;IC;15;23;13;Master's
+130000;Man;IC;25;12;15;Master's
+60000;Man;IC;3;24;2;Bachelor's
+109000;Man;IC;17;13;13;Bachelor's
+180000;Man;IC;33;14;26;Master's
+130000;Woman;IC;3;21;Less than 1 year;Bachelor's
+100000;Man;IC;14;14;12;Bachelor's
+135000;Man;Manager;30;10;16;Less than bachelor's
+95000;Man;IC;17;8;12;Less than bachelor's
+71000;Man;IC;3;28;2;Less than bachelor's
+126000;Man;IC;7;11;4;Bachelor's
+70000;Woman;IC;5;19;5;Bachelor's
+140000;Man;IC;18;12;10;Master's
+105000;Man;IC;21;8;17;Bachelor's
+290000;Man;IC;20;14;13;Bachelor's
+80000;Man;IC;12;16;2;PhD
+55000;Man;IC;15;8;10;Less than bachelor's
+60000;Man;IC;5;18;Less than 1 year;Bachelor's
+155000;Man;IC;8;17;4;Bachelor's
+150000;Man;IC;6;7;Less than 1 year;Master's
+160000;Man;IC;11;21;10;Bachelor's
+180000;Man;IC;24;9;20;Bachelor's
+120000;Man;IC;25;8;11;Bachelor's
+159000;Man;IC;37;16;35;Bachelor's
+87420;Man;Manager;10;12;6;Bachelor's
+72500;Man;IC;8;16;1;Bachelor's
+90000;Man;IC;19;14;15;Less than bachelor's
+155000;Man;Manager;18;14;17;Bachelor's
+80000;Man;IC;15;17;12;Bachelor's
+73000;Woman;IC;4;34;2;Master's
+70000;Man;IC;6;21;5;Master's
+240000;Man;IC;25;8;11;Bachelor's
+120000;Woman;IC;5;12;4;Master's
+135000;Man;IC;35;10;30;Less than bachelor's
+400000;Man;Manager;25;7;23;Less than bachelor's
+125000;Man;IC;33;18;31;Bachelor's
+65550;Woman;IC;16;21;13;Bachelor's
+102000;Man;IC;13;16;7;Bachelor's
+80400;Man;IC;10;14;3;Bachelor's
+55000;Man;IC;13;11;2;Master's
+150000;Man;Manager;23;15;12;Master's
+85000;Man;IC;14;15;6;Bachelor's
+100000;Man;IC;4;21;4;Bachelor's
+100000;Man;IC;25;7;11;Bachelor's
+110000;Man;IC;6;17;5;Bachelor's
+50000;Man;IC;5;18;3;Bachelor's
+145000;Woman;IC;6;24;6;Bachelor's
+90000;Woman;IC;4;8;3;Bachelor's
+150000;Man;IC;10;16;7;Bachelor's
+105000;Man;IC;30;16;30;Less than bachelor's
+120000;Man;IC;15;14;10;Bachelor's
+100000;Man;IC;13;12;5;Bachelor's
+76000;Man;IC;38;12;1;Bachelor's
+101000;Man;IC;5;8;5;Less than bachelor's
+33550;Woman;IC;20;14;12;Bachelor's
+90000;Man;IC;21;10;8;Bachelor's
+87000;Woman;IC;7;18;3;Bachelor's
+91000;Man;IC;9;8;3;Bachelor's
+90000;Man;IC;6;8;4;Master's
+51000;Man;IC;4;28;3;Less than bachelor's
+58000;Man;IC;NA;NA;NA;Bachelor's
+80000;Man;IC;7;14;4;Bachelor's
+135000;Man;IC;8;16;6;Less than bachelor's
+66000;Man;IC;4;18;2;Bachelor's
+190000;Man;IC;9;16;2;Bachelor's
+113000;Man;IC;25;8;16;Bachelor's
+90000;Man;IC;4;21;2;Master's
+85000;Man;IC;23;8;14;Bachelor's
+65000;Man;Manager;7;18;3;Less than bachelor's
+67000;Man;IC;6;12;3;Bachelor's
+90000;Man;IC;7;18;5;Bachelor's
+197000;Man;IC;24;6;20;Bachelor's
+55000;Man;IC;7;25;2;Master's
+100000;Man;IC;7;16;1;Bachelor's
+180000;Man;IC;8;15;5;Master's
+90000;Man;IC;20;16;12;Bachelor's
+100000;Man;IC;19;16;13;Bachelor's
+90000;Man;IC;11;17;7;Bachelor's
+78000;Man;IC;15;12;2;Bachelor's
+90000;Man;IC;20;9;12;Bachelor's
+127000;Man;Manager;15;10;10;Bachelor's
+95000;Man;IC;14;7;8;Bachelor's
+100000;Man;IC;14;15;8;Bachelor's
+120000;Man;Manager;25;8;18;Master's
+100000;Man;IC;5;21;3;Master's
+93000;Man;IC;3;22;3;Bachelor's
+67000;Man;IC;10;13;6;Less than bachelor's
+86320;Man;IC;13;8;2;Bachelor's
+118000;Man;IC;48;14;42;Master's
+60000;Man;IC;5;18;4;Less than bachelor's
+80000;Man;IC;39;11;25;Less than bachelor's
+170000;Man;Manager;30;12;25;Bachelor's
+50000;Man;IC;12;10;10;Less than bachelor's
+112200;Man;IC;12;14;2;Master's
+270000;Woman;IC;25;11;17;Master's
+63000;Man;IC;2;27;1;Master's
+70000;Woman;IC;22;8;9;Master's
+95000;Man;IC;14;19;10;Master's
+115000;Woman;IC;22;8;10;Bachelor's
+74500;Man;IC;3;18;2;Bachelor's
+69400;Man;IC;10;18;4;Bachelor's
+135000;Man;IC;22;12;13;Less than bachelor's
+125000;Man;IC;35;12;24;Bachelor's
+120000;Man;IC;30;15;22;Bachelor's
+110000;Man;IC;23;16;13;Bachelor's
+170000;Man;IC;35;7;30;Bachelor's
+95000;Man;IC;17;23;12;Bachelor's
+88000;Man;IC;5;13;4;Bachelor's
+50000;Woman;IC;6;39;1;Master's
+102000;Man;IC;16;22;12;Bachelor's
+112800;Man;IC;9;22;9;Bachelor's
+91000;Man;IC;16;18;10;Master's
+135000;Man;IC;36;10;21;Less than bachelor's
+70000;Man;IC;9;15;1;Bachelor's
+145000;Man;IC;21;7;6;Bachelor's
+90000;Man;IC;27;13;21;Bachelor's
+105000;Man;IC;7;30;6;Bachelor's
+132500;Man;IC;5;17;1;Bachelor's
+50000;Woman;IC;4;19;2;Bachelor's
+77500;Man;IC;5;20;4;Bachelor's
+200000;Man;IC;34;8;30;Master's
+94000;Man;Manager;19;15;13;Bachelor's
+120000;Man;IC;16;14;10;Master's
+93000;Man;IC;9;25;9;Less than bachelor's
+122000;Man;IC;21;15;14;Bachelor's
+210000;Man;IC;8;19;5;Bachelor's
+240000;Woman;IC;20;9;20;Master's
+70000;Man;IC;7;12;6;Bachelor's
+99000;Man;IC;18;20;12;Bachelor's
+140000;Man;IC;6;17;6;Bachelor's
+120000;Man;IC;15;13;10;Bachelor's
+180000;Man;IC;15;13;2;Bachelor's
+200000;Man;IC;18;15;13;Bachelor's
+91500;Man;IC;5;23;4;Bachelor's
+90000;Man;IC;14;14;8;Bachelor's
+72000;Man;IC;5;14;2;Less than bachelor's
+100000;Woman;IC;8;17;4;Bachelor's
+81000;Man;IC;8;15;5;Master's
+72000;Man;IC;9;14;6;Bachelor's
+300000;Man;IC;18;12;15;Bachelor's
+106000;Man;IC;13;9;8;Bachelor's
+170000;Man;Manager;5;21;35;Master's
+280000;Man;IC;15;12;11;Bachelor's
+105000;Man;IC;10;19;7;Bachelor's
+63000;Man;IC;6;18;2;Bachelor's
+75000;Man;IC;12;10;3;Bachelor's
+130000;Man;IC;30;Younger than 5 years;15;Bachelor's
+55000;Man;IC;15;10;11;Bachelor's
+155000;Woman;IC;3;21;2;Bachelor's
+90000;Woman;IC;10;11;6;Bachelor's
+88000;Man;Manager;36;11;27;Master's
+82500;Man;IC;7;19;4;Bachelor's
+119000;Man;IC;25;8;22;Master's
+112000;Man;IC;8;21;2;Bachelor's
+185000;Man;Manager;30;5;25;Master's
+61500;Woman;IC;4;19;2;Bachelor's
+135000;Man;IC;4;21;2;Bachelor's
+85000;Man;IC;16;8;10;Bachelor's
+88000;Man;IC;8;25;5;Bachelor's
+117000;Man;IC;7;16;4;Bachelor's
+110000;Man;IC;11;9;2;PhD
+53000;Man;IC;13;15;2;Less than bachelor's
+73000;Man;IC;7;15;2;Bachelor's
+98000;Man;IC;8;30;6;Master's
+185000;Man;IC;20;17;20;Bachelor's
+45000;Man;IC;11;15;Less than 1 year;Less than bachelor's
+100000;Man;IC;20;21;16;Bachelor's
+160000;Man;IC;22;10;22;Bachelor's
+205000;Man;Manager;25;10;22;Bachelor's
+90000;Man;IC;7;16;7;Bachelor's
+110000;Man;IC;10;16;7;Bachelor's
+120000;Man;IC;5;16;4;Bachelor's
+180000;Man;IC;24;12;24;Bachelor's
+170000;Woman;IC;20;15;15;Bachelor's
+108500;Man;IC;28;19;28;Bachelor's
+73000;Man;IC;6;14;3;Bachelor's
+90000;Man;IC;15;19;10;Bachelor's
+18500;Woman;IC;9;18;3;Bachelor's
+95000;Man;IC;14;8;13;Less than bachelor's
+61000;Man;IC;5;15;3;Less than bachelor's
+45000;Man;IC;6;13;3;Less than bachelor's
+105000;Man;IC;8;27;8;Master's
+140000;Man;IC;22;25;19;Master's
+83000;Woman;IC;27;15;7;Master's
+75000;Woman;IC;4;19;1;Bachelor's
+120000;Man;IC;15;16;11;Bachelor's
+80000;Man;IC;19;13;10;Bachelor's
+98000;Man;IC;15;12;9;Master's
+105000;Man;IC;5;20;4;Bachelor's
+120000;Man;IC;15;10;4;Bachelor's
+115000;Man;IC;15;16;10;Bachelor's
+70000;Man;IC;5;19;4;Less than bachelor's
+85000;Man;IC;12;15;5;Bachelor's
+190000;Man;IC;12;18;10;Bachelor's
+55000;Man;IC;4;20;2;Less than bachelor's
+113500;Man;IC;22;11;5;Less than bachelor's
+110000;Man;Manager;10;7;6;Bachelor's
+100000;Man;IC;25;8;23;Less than bachelor's
+128000;Man;IC;14;14;12;Bachelor's
+75000;Man;IC;22;10;8;Master's
+57500;Man;IC;9;15;5;Bachelor's
+118000;Man;IC;7;12;7;Bachelor's
+99500;Man;IC;15;14;9;Bachelor's
+300000;Man;IC;35;10;35;Master's
+80000;Man;IC;7;16;4;Less than bachelor's
+67000;Man;IC;20;16;15;Less than bachelor's
+88000;Man;IC;3;Younger than 5 years;2;Less than bachelor's
+92000;Man;IC;19;12;19;Bachelor's
+110000;Man;IC;4;19;4;Less than bachelor's
+145000;Man;IC;25;13;20;Less than bachelor's
+140000;Man;IC;9;22;9;Bachelor's
+600000;Man;IC;26;10;20;PhD
+60000;Woman;IC;2;14;2;Bachelor's
+88300;Man;IC;3;14;2;Less than bachelor's
+95000;Man;IC;12;10;12;Bachelor's
+94500;Man;IC;31;12;20;Bachelor's
+110000;Man;Manager;20;16;7;Bachelor's
+55000;Woman;IC;2;27;1;Bachelor's
+180000;Man;Manager;21;13;14;Less than bachelor's
+113000;Man;IC;3;23;2;Bachelor's
+105000;Man;IC;11;10;Less than 1 year;Bachelor's
+116000;Man;Manager;22;30;5;Bachelor's
+190000;Man;IC;29;15;27;Bachelor's
+250000;Man;IC;20;15;16;Less than bachelor's
+70000;Man;IC;7;15;4;Master's
+85000;Man;IC;9;17;8;Bachelor's
+200000;Man;IC;14;22;11;Master's
+140000;Man;IC;3;10;2;Master's
+194000;Man;IC;10;14;6;Bachelor's
+130000;Man;IC;20;10;8;Bachelor's
+155000;Man;IC;8;13;3;Bachelor's
+73290;Man;IC;11;12;2;Bachelor's
+160000;Man;Manager;32;12;20;PhD
+90000;Man;Manager;14;15;9;Bachelor's
+275000;Man;IC;25;15;25;Master's
+10500;Man;IC;10;15;6;Bachelor's
+120000;Man;IC;15;20;12;Bachelor's
+120000;Man;IC;6;20;5;Master's
+150000;Man;IC;25;8;20;Bachelor's
+85000;Man;IC;6;20;3;Bachelor's
+84000;Man;IC;12;15;10;Bachelor's
+233000;Man;IC;14;12;10;Bachelor's
+75000;Man;IC;10;14;4;Bachelor's
+60000;Man;IC;10;16;3;Master's
+100000;Woman;IC;19;13;17;Master's
+60000;Man;IC;26;12;8;Bachelor's
+140000;Man;IC;20;10;11;Bachelor's
+70000;Woman;Manager;2;14;2;Less than bachelor's
+980000;Man;IC;10;20;7;Bachelor's
+225000;Man;IC;40;14;35;PhD
+93000;Man;IC;27;19;23;Bachelor's
+135000;Woman;IC;17;22;13;Bachelor's
+75000;Man;IC;8;9;5;Bachelor's
+115000;Woman;IC;7;22;5;Bachelor's
+55000;Woman;IC;2;15;2;Bachelor's
+135000;Man;IC;37;16;35;Master's
+250000;Man;IC;10;17;9;Bachelor's
+96000;Man;IC;11;18;7;Bachelor's
+200000;Man;IC;6;15;2;Bachelor's
+62000;Man;IC;5;12;2;Master's
+91000;Man;IC;10;20;5;Bachelor's
+130000;Woman;IC;3;10;3;Bachelor's
+120000;Man;IC;33;12;14;Master's
+75000;Man;IC;6;17;5;Bachelor's
+193000;Man;IC;26;7;23;Less than bachelor's
+70000;Woman;IC;4;23;2;Bachelor's
+120000;Woman;IC;4;21;3;Bachelor's
+160000;Man;IC;4;18;1;Bachelor's
+80000;Man;IC;3;28;2;Bachelor's
+83000;Man;IC;9;17;5;Bachelor's
+235000;Man;IC;26;12;22;Master's
+90000;Man;IC;15;15;7;PhD
+63000;Man;IC;9;21;8;Master's
+120000;Man;IC;25;14;20;NA
+120000;Man;IC;18;17;6;Bachelor's
+135000;Man;IC;6;21;6;Bachelor's
+62000;Woman;IC;1;30;1;Less than bachelor's
+180000;Man;IC;35;10;15;Bachelor's
+86000;Man;IC;30;10;27;Less than bachelor's
+105000;Man;IC;14;14;5;Bachelor's
+130000;Woman;IC;10;15;4;Bachelor's
+115000;Man;IC;10;5;9;Bachelor's
+122000;Man;IC;39;12;20;Master's
+100000;Man;IC;18;15;16;Less than bachelor's
+94000;Man;IC;14;24;14;Less than bachelor's
+96000;Man;IC;42;14;38;Bachelor's
+110000;Man;IC;11;23;8;Bachelor's
+58000;Man;IC;7;19;3;Bachelor's
+170000;Man;IC;15;14;13;Less than bachelor's
+110000;Man;IC;17;13;6;Bachelor's
+82000;Man;IC;3;15;2;Bachelor's
+140000;Man;IC;13;22;7;Master's
+155000;Man;IC;30;10;23;Master's
+116000;Man;IC;12;15;7;Master's
+70000;Man;IC;5;24;2;Bachelor's
+50000;Man;IC;5;22;5;Less than bachelor's
+110000;Man;IC;26;13;26;Bachelor's
+285000;Man;IC;15;10;6;Bachelor's
+90000;Man;IC;12;20;1;Master's
+121000;Woman;IC;8;9;1;Bachelor's
+110000;Man;IC;12;15;3;Bachelor's
+150000;Man;IC;4;17;Less than 1 year;Bachelor's
+90000;Man;IC;10;10;8;Bachelor's
+100000;Man;IC;9;10;4;Bachelor's
+220000;Man;IC;22;12;10;Master's
+220000;Man;IC;12;12;10;Bachelor's
+80000;Man;IC;11;30;8;Less than bachelor's
+120000;Man;IC;9;20;7;Bachelor's
+72000;Man;IC;4;11;3;Less than bachelor's
+125000;Man;IC;20;14;13;Bachelor's
+160000;Man;IC;12;11;10;Bachelor's
+146000;Man;IC;28;10;4;Less than bachelor's
+90000;Man;IC;10;12;3;Bachelor's
+90000;Man;IC;16;16;10;Bachelor's
+120000;Man;Manager;12;15;12;Less than bachelor's
+32000;Woman;IC;10;20;8;Bachelor's
+61000;Woman;IC;9;18;7;Bachelor's
+101000;Man;IC;6;18;2;Bachelor's
+110000;Man;IC;9;13;4;Master's
+150000;Man;Manager;25;13;25;Master's
+65000;Man;IC;3;23;2;Less than bachelor's
+185000;Man;IC;7;14;3;Bachelor's
+133200;Man;Manager;25;9;18;PhD
+65800;Woman;IC;17;13;7;Bachelor's
+63000;Man;IC;40;Younger than 5 years;3;Less than bachelor's
+80000;Man;IC;15;14;15;Less than bachelor's
+68000;Man;IC;8;15;3;Bachelor's
+148806;Man;Manager;39;11;25;Master's
+11000;Man;IC;7;15;4;Bachelor's
+400000;Man;Manager;18;7;13;Master's
+115000;Man;IC;14;22;12;Bachelor's
+101000;Man;IC;20;19;16;Less than bachelor's
+70000;Man;IC;5;11;5;Bachelor's
+72000;Man;IC;3;16;1;Bachelor's
+150000;Man;IC;12;14;8;Master's
+76000;Man;IC;16;21;14;Bachelor's
+138000;Man;IC;20;13;12;Bachelor's
+115000;Man;Manager;15;22;15;Bachelor's
+97000;Man;IC;8;11;2;Bachelor's
+46000;Man;Manager;7;12;5;Bachelor's
+200000;Man;Manager;38;8;23;PhD
+67000;Woman;IC;15;10;10;Less than bachelor's
+300000;Man;IC;20;13;16;Bachelor's
+110000;Man;IC;14;15;9;Bachelor's
+65000;Man;IC;6;16;1;Bachelor's
+170000;Man;Manager;8;20;6;Bachelor's
+78000;Man;IC;16;14;6;Bachelor's
+180000;Man;IC;15;14;11;Bachelor's
+97000;Man;IC;19;10;1;Bachelor's
+110000;Man;IC;3;17;2;Bachelor's
+68000;Man;IC;11;13;6;Bachelor's
+95000;Man;IC;6;20;3;Bachelor's
+70000;Man;IC;7;18;4;Bachelor's
+72000;Man;IC;43;17;39;Bachelor's
+90000;Woman;IC;4;27;3;Bachelor's
+90000;Man;IC;13;16;11;Bachelor's
+147000;Man;IC;23;13;12;Master's
+90100;Man;IC;15;10;11;Less than bachelor's
+64000;Man;IC;5;15;5;Master's
+60000;Man;IC;5;19;Less than 1 year;Bachelor's
+120000;Man;IC;20;25;20;Less than bachelor's
+43000;Man;IC;4;13;4;Less than bachelor's
+80000;Man;IC;13;14;4;Bachelor's
+60000;Man;IC;20;12;5;Less than bachelor's
+91000;Man;IC;6;26;5;Bachelor's
+170000;Man;Manager;16;10;7;Less than bachelor's
+150000;Man;IC;10;14;8;Bachelor's
+50000;Man;IC;18;7;3;Bachelor's
+93000;Man;IC;12;20;8;Bachelor's
+124500;Man;IC;10;14;6;Bachelor's
+69000;Man;IC;14;18;5;PhD
+110000;Man;IC;5;13;2;Bachelor's
+160000;Man;Manager;17;13;12;Bachelor's
+96000;Man;IC;16;14;12;Bachelor's
+180000;Man;IC;20;12;15;Less than bachelor's
+270000;Man;Manager;40;14;32;Bachelor's
+91000;Man;IC;7;18;2;Master's
+70000;Woman;IC;3;14;1;Less than bachelor's
+68000;Man;IC;Less than 1 year;29;Less than 1 year;Bachelor's
+240000;Man;IC;30;14;25;Bachelor's
+125000;Man;IC;9;20;4;Bachelor's
+500000;Man;IC;37;6;15;Master's
+45000;Man;IC;21;13;13;Bachelor's
+130000;Man;IC;22;14;11;Master's
+109000;Man;Manager;18;21;18;Bachelor's
+60000;Woman;IC;1;23;Less than 1 year;Bachelor's
+140000;Woman;IC;40;12;29;Bachelor's
+64627;Man;IC;8;20;6;Bachelor's
+73500;Man;IC;1;12;1;Master's
+115000;Man;IC;35;15;23;Bachelor's
+88000;Man;IC;10;14;6;Bachelor's
+136000;Man;IC;11;20;3;PhD
+140000;Woman;IC;4;8;2;PhD
+130000;Man;IC;15;11;10;Less than bachelor's
+92500;Man;Manager;10;16;6;Bachelor's
+56000;Man;IC;14;14;5;Less than bachelor's
+300000;Man;IC;18;8;11;Bachelor's
+180000;Man;Manager;19;8;11;Bachelor's
+450000;Man;IC;30;13;25;Bachelor's
+105000;Man;IC;20;8;10;Bachelor's
+59000;Man;IC;15;13;10;Less than bachelor's
+120000;Man;IC;10;15;5;Bachelor's
+99000;Man;IC;12;23;12;PhD
+134400;Man;IC;14;10;14;Less than bachelor's
+80000;Man;IC;16;10;12;Bachelor's
+59000;Man;IC;5;18;Less than 1 year;Bachelor's
+100000;Man;IC;10;22;6;Bachelor's
+275000;Man;Manager;38;10;32;Less than bachelor's
+297000;Man;IC;12;13;12;PhD
+80700;Man;IC;2;18;Less than 1 year;Less than bachelor's
+88000;Man;IC;10;14;4;Bachelor's
+104000;Man;IC;20;19;17;Less than bachelor's
+150000;Man;IC;15;19;11;Master's
+79000;Man;IC;6;20;3;Bachelor's
+150000;Man;IC;24;8;20;Bachelor's
+90000;Man;IC;4;24;4;Bachelor's
+60000;Woman;IC;2;35;1;Less than bachelor's
+90000;Man;IC;11;15;4;Bachelor's
+53500;Man;IC;3;20;1;Bachelor's
+60000;Man;IC;10;13;3;Bachelor's
+60000;Man;IC;12;12;4;Less than bachelor's
+155000;Man;IC;10;19;6;Master's
+120000;Man;IC;24;14;15;Bachelor's
+78540;Man;IC;7;26;5;Less than bachelor's
+100000;Man;IC;10;16;6;Bachelor's
+200000;Man;Manager;35;13;22;Master's
+90000;Man;Manager;18;12;15;Bachelor's
+120000;Man;IC;24;18;21;Bachelor's
+80000;Woman;IC;5;18;1;Bachelor's
+250000;Man;IC;12;21;12;Bachelor's
+160000;Woman;Manager;20;10;20;Master's
+115000;Woman;IC;15;28;12;Bachelor's
+109000;Man;IC;7;15;3;Bachelor's
+150000;Man;IC;20;8;10;PhD
+145000;Man;IC;37;16;31;Bachelor's
+160000;Man;IC;22;12;22;Bachelor's
+66000;Man;IC;4;6;2;Bachelor's
+40000;Man;IC;9;19;5;Less than bachelor's
+135000;Man;IC;25;14;20;Bachelor's
+195000;Man;Manager;36;15;30;Bachelor's
+60000;Man;IC;4;19;3;Bachelor's
+45000;Man;IC;25;16;2;Bachelor's
+60000;Man;IC;11;15;5;Bachelor's
+105000;Man;IC;15;16;12;Less than bachelor's
+75000;Man;IC;7;15;2;Bachelor's
+105000;Man;IC;10;16;8;Bachelor's
+127000;Man;Manager;18;14;12;Bachelor's
+110000;Man;IC;30;13;21;Bachelor's
+240000;Man;Manager;33;12;25;Less than bachelor's
+235000;Man;Manager;25;Younger than 5 years;20;Bachelor's
+48000;Man;IC;1;29;Less than 1 year;Master's
+140000;Woman;IC;20;13;18;Bachelor's
+71000;Man;IC;10;16;6;Bachelor's
+77500;Man;IC;5;15;3;Bachelor's
+95000;Man;IC;12;13;5;Bachelor's
+280000;Man;IC;35;12;23;PhD
+143000;Man;Manager;9;19;6;Master's
+145000;Man;Manager;19;9;4;Less than bachelor's
+111000;Man;Manager;5;18;3;Master's
+72000;Man;IC;8;12;3;Bachelor's
+125667;Man;IC;22;14;2;Bachelor's
+83200;Man;IC;10;18;6;Bachelor's
+90000;Man;IC;10;12;4;Bachelor's
+180000;Man;IC;26;5;19;Less than bachelor's
+70000;Man;IC;3;21;2;Master's
+165000;Man;IC;10;12;5;Master's
+80000;Man;IC;6;24;4;Master's
+122000;Man;IC;5;11;1;Bachelor's
+214000;Man;IC;10;14;4;Bachelor's
+90000;Woman;IC;4;21;3;Bachelor's
+132000;Woman;Manager;15;16;11;Bachelor's
+190000;Man;IC;3;13;2;Less than bachelor's
+50000;Man;IC;2;25;Less than 1 year;Bachelor's
+95472;Man;IC;12;16;9;Master's
+200000;Man;IC;4;22;3;Less than bachelor's
+245000;Woman;IC;8;18;3;Bachelor's
+119000;Man;IC;17;20;12;Bachelor's
+105000;Man;IC;9;10;5;Master's
+180000;Woman;IC;30;15;25;Master's
+210000;Man;IC;12;22;11;Master's
+160000;Man;IC;6;17;3;Bachelor's
+90000;Man;IC;20;23;17;Less than bachelor's
+130000;Man;IC;20;8;15;Bachelor's
+57000;Man;IC;4;23;2;Bachelor's
+100000;Man;IC;13;16;8;Bachelor's
+218500;Man;Manager;26;13;23;Master's
+145000;Man;IC;10;13;7;Bachelor's
+45000;Man;IC;1;25;Less than 1 year;Less than bachelor's
+80000;Man;IC;NA;12;10;Bachelor's
+140000;Man;IC;17;15;14;Bachelor's
+230000;Man;IC;4;11;3;Less than bachelor's
+167750;Man;IC;22;7;21;Bachelor's
+130000;Man;IC;12;16;5;Bachelor's
+170000;Man;IC;19;5;10;Master's
+130000;Man;IC;40;18;35;Master's
+118000;Woman;IC;6;6;5;Master's
+65000;Man;IC;7;18;3;Bachelor's
+185000;Man;IC;23;13;11;Bachelor's
+80000;Man;IC;3;13;3;Master's
+160000;Man;IC;15;12;10;Bachelor's
+120000;Woman;IC;23;14;23;Bachelor's
+93500;Man;IC;3;21;2;Bachelor's
+95000;Man;IC;10;6;6;Less than bachelor's
+90000;Man;IC;7;17;Less than 1 year;Bachelor's
+155000;Man;Manager;25;16;20;Master's
+103787;Man;IC;5;26;6;Master's
+68500;Man;Manager;15;16;5;Bachelor's
+130000;Man;Manager;20;12;15;Bachelor's
+85000;Woman;IC;30;19;25;PhD
+205712;Man;IC;10;12;3;Bachelor's
+62000;Man;IC;6;14;2;Bachelor's
+51000;Woman;IC;24;8;5;Master's
+60000;Man;IC;7;16;5;Bachelor's
+105000;Man;IC;23;17;17;Master's
+80000;Woman;IC;14;25;13;Less than bachelor's
+120000;Man;IC;9;17;7;Bachelor's
+119000;Man;IC;13;14;11;Bachelor's
+180000;Man;IC;12;14;6;Bachelor's
+139000;Man;IC;12;18;10;Less than bachelor's
+170000;Man;IC;23;12;20;Bachelor's
+64000;Man;IC;6;17;3;Master's
+79000;Man;IC;8;15;3;Bachelor's
+110000;Man;IC;17;10;10;Master's
+60000;Man;IC;6;15;1;Bachelor's
+250000;Man;IC;23;7;17;PhD
+135000;Man;IC;10;11;5;Bachelor's
+95000;Woman;IC;9;17;4;Master's
+114000;Man;IC;9;12;7;Less than bachelor's
+82000;Man;IC;5;14;4;Bachelor's
+152000;Man;IC;14;16;7;Less than bachelor's
+140000;Woman;IC;3;28;3;Bachelor's
+92000;Man;IC;10;15;6;Bachelor's
+72000;Man;IC;2;22;1;Master's
+72500;Woman;IC;3;15;2;Bachelor's
+100000;Man;IC;12;14;8;Bachelor's
+86000;Man;IC;15;23;7;Bachelor's
+310000;Man;IC;23;13;7;Master's
+117000;Woman;IC;4;28;3;Bachelor's
+85000;Man;IC;38;11;35;Bachelor's
+122500;Man;Manager;36;13;28;Less than bachelor's
+125000;Man;IC;12;12;9;Less than bachelor's
+104000;Man;IC;6;16;1;Bachelor's
+50000;Man;IC;5;18;2;Bachelor's
+112750;Man;IC;30;13;19;Less than bachelor's
+145000;Man;IC;41;14;33;Bachelor's
+170000;Man;Manager;30;11;26;Bachelor's
+75000;Woman;IC;15;11;10;Bachelor's
+150000;Man;IC;20;16;15;Master's
+176000;Man;IC;13;11;8;Bachelor's
+78000;Man;IC;10;14;1;Bachelor's
+90000;Man;IC;13;12;6;Bachelor's
+91000;Man;IC;21;17;19;Less than bachelor's
+135000;Man;IC;19;14;12;Master's
+100000;Man;IC;25;10;20;Bachelor's
+154000;Man;IC;20;11;2;PhD
+35000;Woman;IC;7;14;5;Bachelor's
+69000;Man;IC;5;16;2;Bachelor's
+80000;Woman;IC;2;14;1;Master's
+65000;Man;IC;15;13;2;Bachelor's
+150000;Man;IC;7;14;2;Bachelor's
+100000;Man;IC;18;10;12;Bachelor's
+55000;Man;IC;20;17;15;Bachelor's
+225000;Man;Manager;25;17;22;Less than bachelor's
+51000;Man;IC;6;26;5;Less than bachelor's
+40000;Man;IC;6;16;3;Bachelor's
+68700;Man;IC;6;11;Less than 1 year;Bachelor's
+67000;Man;IC;6;18;3;Master's
+110000;Man;IC;12;16;7;Bachelor's
+120000;Man;IC;12;18;10;Bachelor's
+105000;Woman;IC;4;14;Less than 1 year;Bachelor's
+95000;Man;IC;14;12;3;Bachelor's
+200000;Man;IC;20;18;15;Bachelor's
+74000;Man;IC;10;13;7;Bachelor's
+225000;Man;Manager;40;16;39;Master's
+70000;Man;IC;2;9;Less than 1 year;Less than bachelor's
+200000;Man;Manager;28;9;19;PhD
+65000;Man;IC;1;30;Less than 1 year;Master's
+83000;Man;IC;9;13;5;Bachelor's
+115000;Man;Manager;15;10;13;Less than bachelor's
+77000;Man;IC;6;14;1;Bachelor's
+80000;Man;IC;8;30;5;PhD
+110000;Man;IC;5;22;4;Bachelor's
+72000;Man;IC;7;33;7;Less than bachelor's
+150000;Man;Manager;16;11;16;Less than bachelor's
+150000;Man;IC;32;12;NA;Bachelor's
+52000;Man;IC;9;9;3;Less than bachelor's
+105000;Man;IC;20;24;19;Less than bachelor's
+150000;Man;Manager;15;11;10;Less than bachelor's
+48000;Man;IC;5;29;1;Bachelor's
+205000;Man;Manager;37;17;35;Less than bachelor's
+150000;Man;IC;8;10;7;Bachelor's
+61000;Man;IC;4;28;3;Bachelor's
+153000;Man;Manager;12;16;6;Bachelor's
+97000;Man;IC;9;13;2;Master's
+120000;Man;Manager;28;10;23;Bachelor's
+180000;Man;IC;21;12;18;Master's
+131200;Man;Manager;20;17;19;Bachelor's
+138094;Man;IC;35;14;29;Master's
+88000;Man;IC;14;13;3;Bachelor's
+75000;Woman;IC;8;16;3;Bachelor's
+80000;Man;IC;6;16;3;Bachelor's
+77000;Man;IC;9;18;7;Bachelor's
+100000;Man;IC;11;18;6;Bachelor's
+140000;Man;IC;35;10;22;Bachelor's
+160000;Man;IC;39;12;22;Less than bachelor's
+65000;Man;IC;33;9;25;Bachelor's
+124000;Man;IC;18;12;18;Bachelor's
+70000;Woman;IC;7;17;3;Bachelor's
+150000;Man;IC;20;10;10;Less than bachelor's
+78000;Man;IC;5;26;4;Bachelor's
+82000;Man;IC;10;30;7;Bachelor's
+70000;Woman;IC;6;16;2;Bachelor's
+70000;Man;IC;8;14;4;Less than bachelor's
+190000;Man;Manager;23;11;10;Master's
+140000;Man;IC;4;18;4;Master's
+120000;Man;IC;7;16;3;Bachelor's
+110000;Man;IC;34;12;26;Bachelor's
+450000;Man;IC;15;15;6;Master's
+35000;Man;IC;15;11;10;Bachelor's
+300000;Man;IC;18;9;18;Master's
+130000;Man;IC;8;19;5;Bachelor's
+114000;Woman;IC;25;10;10;Bachelor's
+79000;Woman;IC;6;10;2;Bachelor's
+130000;Man;IC;22;10;20;PhD
+68000;Man;IC;2;10;Less than 1 year;Bachelor's
+117000;Man;IC;20;14;11;Bachelor's
+58000;Man;IC;2;32;1;Less than bachelor's
+72000;Woman;IC;20;6;12;Bachelor's
+300000;Man;IC;14;14;12;Master's
+95000;Man;IC;6;18;4;Bachelor's
+130000;Man;IC;30;8;10;Bachelor's
+140000;Man;IC;32;10;19;Bachelor's
+170000;Man;IC;7;12;5;Bachelor's
+135000;Man;IC;22;14;14;PhD
+115000;Man;IC;8;20;5;Bachelor's
+63500;Man;IC;15;15;6;Bachelor's
+145000;Man;Manager;20;12;13;Bachelor's
+79000;Man;IC;4;16;1;Bachelor's
+74500;Man;IC;12;16;9;Bachelor's
+160000;Man;Manager;17;15;9;Bachelor's
+180000;Man;Manager;16;22;10;Less than bachelor's
+100000;Man;IC;7;18;2;Bachelor's
+131000;Man;IC;20;10;13;PhD
+120000;Man;IC;20;10;10;Master's
+55000;Man;IC;10;18;5;PhD
+75500;Woman;IC;9;12;6;Bachelor's
+70000;Man;IC;30;13;10;Master's
+140000;Man;IC;45;20;40;PhD
+85000;Man;IC;20;16;13;Bachelor's
+102000;Man;IC;3;22;2;Bachelor's
+142000;Man;IC;34;16;33;Less than bachelor's
+120000;Man;IC;19;20;18;Bachelor's
+75000;Man;IC;37;13;28;Bachelor's
+70000;Man;IC;6;17;1;Bachelor's
+157500;Man;IC;6;16;1;Bachelor's
+135000;Man;IC;8;13;8;Less than bachelor's
+90000;Man;Manager;12;16;8;Bachelor's
+50000;Man;IC;3;23;2;Master's
+35000;Man;IC;2;24;1;Bachelor's
+160000;Man;IC;16;14;12;Bachelor's
+46000;Man;IC;13;13;3;Bachelor's
+92000;Man;IC;9;12;4;Bachelor's
+150000;Man;IC;40;Younger than 5 years;20;Bachelor's
+125000;Man;Manager;6;22;5;Master's
+139000;Man;IC;25;8;11;Master's
+42500;Woman;IC;3;23;Less than 1 year;Less than bachelor's
+120000;Man;IC;12;14;4;Bachelor's
+120000;Man;IC;41;11;29;Bachelor's
+115500;Man;IC;15;11;8;Bachelor's
+105000;Man;IC;11;16;8;Bachelor's
+50000;Man;IC;8;16;5;Bachelor's
+78000;Man;IC;14;16;12;Master's
+51000;Man;IC;7;21;4;Bachelor's
+310000;Man;IC;20;8;13;Master's
+75000;Woman;IC;3;17;1;Bachelor's
+120000;Man;IC;16;19;12;Bachelor's
+83000;Man;IC;12;13;3;Bachelor's
+100000;Man;IC;19;18;16;Bachelor's
+105000;Man;IC;28;10;16;Bachelor's
+96000;Man;IC;10;15;5;Bachelor's
+248000;Man;IC;42;20;28;Less than bachelor's
+62500;Man;Manager;4;7;NA;Less than bachelor's
+70000;Man;IC;3;16;1;Bachelor's
+92000;Man;IC;4;16;3;Less than bachelor's
+67000;Man;IC;33;15;10;Less than bachelor's
+125000;Man;IC;14;8;10;Less than bachelor's
+64000;Man;IC;6;14;2;Bachelor's
+110000;Woman;IC;7;15;Less than 1 year;Bachelor's
+144960;Woman;IC;10;21;10;Less than bachelor's
+65000;Man;IC;14;13;4;Less than bachelor's
+200000;Man;IC;23;15;17;Less than bachelor's
+120000;Man;IC;8;17;1;Bachelor's
+80000;Man;Manager;26;10;7;Bachelor's
+63000;Man;IC;5;15;Less than 1 year;Bachelor's
+135000;Man;IC;20;13;17;Bachelor's
+140000;Woman;IC;15;15;9;Bachelor's
+105000;Man;IC;9;19;7;Master's
+85000;Man;IC;13;24;8;Master's
+135000;Man;IC;10;15;6;Master's
+95000;Man;IC;20;14;14;Bachelor's
+75000;Man;IC;8;15;1;Bachelor's
+130000;Man;IC;6;18;1;Master's
+128000;Man;IC;30;8;24;Bachelor's
+46000;Man;IC;6;11;2;Bachelor's
+140000;Man;IC;14;13;8;Bachelor's
+95000;Man;IC;13;12;10;Less than bachelor's
+110000;Man;IC;16;16;6;Less than bachelor's
+110000;Man;IC;4;12;3;Bachelor's
+80000;Man;Manager;12;17;7;Less than bachelor's
+370000;Man;IC;34;10;25;Master's
+127500;Man;IC;38;19;38;Bachelor's
+115000;Man;Manager;13;14;8;Master's
+95000;Man;IC;12;12;8;Bachelor's
+106000;Man;IC;9;10;5;Bachelor's
+80000;Man;IC;8;19;6;Less than bachelor's
+217521;Man;IC;7;18;2;Bachelor's
+172000;Man;Manager;28;10;15;Master's
+100000;Man;IC;9;14;3;Bachelor's
+86000;Man;IC;5;20;3;Bachelor's
+156200;Man;IC;10;18;6;Bachelor's
+85000;Man;IC;7;21;6;Bachelor's
+90000;Man;IC;9;13;4;Bachelor's
+105000;Woman;IC;4;12;3;Bachelor's
+110000;Man;IC;25;13;18;Less than bachelor's
+80000;Woman;IC;9;17;1;Bachelor's
+70000;Man;IC;6;17;2;Bachelor's
+60000;Man;IC;6;9;4;Bachelor's
+100000;Man;Manager;30;12;22;Less than bachelor's
+72000;Man;IC;9;14;2;Bachelor's
+83000;Woman;IC;6;10;5;Bachelor's
+118000;Woman;Manager;2;16;1;Bachelor's
+93000;Man;IC;9;19;6;Bachelor's
+120000;Man;Manager;23;10;11;PhD
+69000;Man;IC;11;18;7;Bachelor's
+130000;Man;IC;12;12;8;Bachelor's
+155000;Man;IC;5;23;1;Bachelor's
+86000;Man;IC;30;22;15;Less than bachelor's
+135000;Woman;IC;6;9;6;Bachelor's
+90000;Man;IC;20;9;16;Less than bachelor's
+57500;Woman;IC;2;25;1;Master's
+60000;Man;IC;13;15;6;Less than bachelor's
+100000;Man;Manager;33;9;19;Less than bachelor's
+47300;Man;IC;5;10;3;Less than bachelor's
+130000;Man;IC;28;10;6;PhD
+45000;Man;IC;9;16;3;Master's
+66250;Man;IC;8;24;7;Master's
+60000;Man;IC;33;17;24;Master's
+147000;Man;IC;42;12;31;Master's
+146000;Man;IC;23;16;16;Bachelor's
+65000;Man;IC;9;14;3;Master's
+123000;Man;Manager;12;20;9;Master's
+140000;Man;IC;23;18;23;Bachelor's
+96000;Man;IC;20;20;18;Master's
+90000;Man;IC;15;15;10;Master's
+145000;Man;Manager;12;12;10;Bachelor's
+50400;Man;IC;14;12;4;Bachelor's
+110000;Man;IC;9;13;4;Bachelor's
+205000;Man;IC;9;22;5;Bachelor's
+123000;Man;IC;20;13;18;Master's
+116150;Woman;IC;4;26;3;Bachelor's
+65000;Man;IC;4;25;1;Bachelor's
+220000;Man;IC;10;11;6;Master's
+85000;Man;IC;9;15;8;Master's
+88000;Man;IC;5;26;4;Bachelor's
+95000;Man;IC;10;18;6;Bachelor's
+200000;Man;IC;5;14;5;Bachelor's
+78000;Woman;IC;5;22;3;Bachelor's
+106000;Man;IC;11;14;4;Bachelor's
+87500;Man;IC;5;10;5;Bachelor's
+155000;Man;IC;16;12;7;Bachelor's
+115000;Woman;IC;31;9;20;Bachelor's
+133000;Man;IC;18;10;16;Bachelor's
+90000;Man;IC;10;15;7;Bachelor's
+95000;Woman;Manager;15;14;9;Master's
+90000;Woman;IC;4;25;3;Less than bachelor's
+45000;Man;IC;6;15;2;Bachelor's
+48500;Man;IC;12;23;3;Bachelor's
+189000;Man;IC;7;17;1;Bachelor's
+135000;Woman;IC;28;5;12;NA
+48000;Man;IC;7;17;5;Bachelor's
+106000;Man;IC;7;15;3;Bachelor's
+150000;Man;IC;19;15;14;Master's
+55000;Man;IC;1;33;Less than 1 year;Less than bachelor's
+130000;Man;IC;38;16;33;Bachelor's
+165000;Man;IC;17;10;16;Less than bachelor's
+70000;Man;IC;7;10;3;Bachelor's
+85000;Man;IC;3;13;2;Bachelor's
+100000;Man;IC;11;16;11;Less than bachelor's
+130000;Man;IC;12;10;8;Less than bachelor's
+33000;Man;IC;11;9;5;Master's
+85000;Man;IC;6;18;6;Less than bachelor's
+140000;Man;IC;40;12;26;Bachelor's
+50000;Man;IC;16;14;10;PhD
+110000;Man;IC;23;7;18;Bachelor's
+95000;Man;IC;23;13;23;Less than bachelor's
+212000;Man;IC;10;17;5;Bachelor's
+136500;Man;IC;17;13;12;Bachelor's
+73500;Man;IC;5;15;3;Less than bachelor's
+120000;Man;IC;35;12;20;Master's
+150000;Man;IC;6;16;3;Less than bachelor's
+120000;Man;IC;20;16;11;Bachelor's
+140000;Man;IC;16;15;11;Bachelor's
+125000;Man;IC;8;12;2;Master's
+50000;Man;IC;4;21;1;Bachelor's
+97000;Man;IC;15;23;16;Less than bachelor's
+85000;Woman;IC;5;19;2;Bachelor's
+170000;Man;IC;18;16;12;Bachelor's
+155000;Man;IC;15;17;12;Less than bachelor's
+88500;Man;IC;12;18;9;Bachelor's
+50000;Woman;IC;5;15;Less than 1 year;Bachelor's
+110000;Man;IC;20;12;14;Master's
+100000;Man;IC;2;9;1;Master's
+77000;Man;IC;10;20;10;Bachelor's
+100000;Man;IC;6;13;1;Bachelor's
+135000;Man;IC;37;14;30;Master's
+131000;Man;Manager;27;5;21;Bachelor's
+150000;Man;IC;20;15;18;Bachelor's
+105000;Man;IC;20;10;4;Bachelor's
+70000;Man;IC;5;8;5;Less than bachelor's
+125000;Man;IC;6;20;2;Master's
+52000;Man;IC;6;16;2;Bachelor's
+80000;Man;IC;13;5;5;Less than bachelor's
+125000;Man;IC;6;16;3;Bachelor's
+126000;Man;IC;35;18;35;Less than bachelor's
+160000;Man;Manager;28;12;21;Bachelor's
+65000;Man;IC;1;29;1;Less than bachelor's
+190000;Man;IC;15;18;4;PhD
+115500;Man;IC;9;17;4;Bachelor's
+85000;Man;IC;21;16;21;Bachelor's
+52000;Man;IC;20;12;Less than 1 year;Bachelor's
+175000;Man;IC;30;5;15;Bachelor's
+144500;Man;IC;10;10;4;Bachelor's
+82500;Woman;IC;21;8;20;Bachelor's
+115000;Man;IC;12;12;10;Less than bachelor's
+160000;Man;Manager;25;12;25;Master's
+120000;Man;IC;12;15;4;Bachelor's
+51000;Man;IC;2;18;Less than 1 year;Bachelor's
+120000;Man;IC;13;18;9;Bachelor's
+180000;Man;Manager;22;11;18;Bachelor's
+135000;Man;IC;22;15;14;Bachelor's
+120000;Man;IC;20;8;18;Bachelor's
+275000;Man;IC;23;9;16;Master's
+98000;Man;IC;3;18;2;Bachelor's
+112500;Man;IC;10;12;9;Bachelor's
+220000;Man;IC;9;10;3;Bachelor's
+60000;Man;IC;10;17;10;Less than bachelor's
+70000;Man;IC;12;15;5;Bachelor's
+200000;Woman;IC;15;12;12;Bachelor's
+87000;Man;IC;10;18;3;Bachelor's
+135000;Man;IC;10;5;7;Less than bachelor's
+60000;Man;IC;2;17;Less than 1 year;Less than bachelor's
+116000;Woman;IC;5;23;2;Master's
+303000;Man;IC;6;27;6;Master's
+55000;Man;IC;12;16;6;Bachelor's
+69000;Man;Manager;38;17;33;Bachelor's
+103000;Man;IC;10;28;8;Less than bachelor's
+155000;Man;IC;36;9;29;Master's
+61079;Man;IC;Less than 1 year;32;Less than 1 year;Master's
+85000;Man;IC;15;14;7;Master's
+106000;Man;IC;6;27;5;Bachelor's
+80000;Man;IC;39;16;20;Bachelor's
+65500;Man;IC;2;11;2;Less than bachelor's
+180000;Woman;IC;6;9;4;Bachelor's
+63609;Man;IC;10;11;2;Bachelor's
+96000;Man;IC;24;14;11;Bachelor's
+250000;Man;IC;18;12;6;PhD
+72000;Woman;IC;4;19;2;Bachelor's
+135000;Man;Manager;18;10;9;Bachelor's
+132000;Man;Manager;20;17;16;Master's
+130000;Man;IC;20;15;16;Bachelor's
+131100;Woman;IC;7;19;3;Master's
+134000;Man;IC;13;13;4;Bachelor's
+97000;Woman;IC;6;17;2;Bachelor's
+110000;Man;IC;11;15;6;Bachelor's
+110000;Man;IC;30;10;30;Bachelor's
+135000;Man;IC;20;20;20;Bachelor's
+55000;Man;IC;3;19;Less than 1 year;Bachelor's
+72000;Man;IC;7;24;7;Master's
+140000;Man;IC;15;15;5;Bachelor's
+115000;Man;IC;22;16;17;Bachelor's
+54080;Man;IC;5;27;5;Master's
+288000;Man;IC;5;18;1;Bachelor's
+32000;Man;IC;22;8;8;Master's
+90000;Man;Manager;17;11;8;Master's
+50000;Man;IC;1;29;Less than 1 year;Less than bachelor's
+62400;Man;IC;19;13;13;Less than bachelor's
+64000;Man;IC;10;16;3;Bachelor's
+70000;Man;IC;12;15;7;Master's
+70000;Man;IC;5;17;2;Bachelor's
+68000;Man;Manager;4;15;3;Bachelor's
+100000;Man;IC;21;14;14;Bachelor's
+135000;Man;IC;8;17;5;Bachelor's
+57000;Woman;IC;8;18;8;Master's
+72000;Man;IC;3;16;2;Bachelor's
+70000;Man;IC;3;12;4;Master's
+89000;Woman;IC;7;12;5;Bachelor's
+200000;Man;Manager;30;8;13;Bachelor's
+120000;Man;IC;14;22;10;Bachelor's
+59000;Man;IC;5;12;3;Less than bachelor's
+80000;Man;IC;6;17;Less than 1 year;Master's
+145500;Man;Manager;27;12;17;Master's
+200000;Man;IC;8;14;7;Bachelor's
+85000;Man;IC;10;14;3;Bachelor's
+210000;Man;IC;23;12;18;Bachelor's
+96000;Man;IC;6;20;4;Bachelor's
+470000;Man;Manager;10;16;5;Bachelor's
+90000;Man;IC;12;15;7;Bachelor's
+109000;Man;IC;21;10;10;Bachelor's
+102000;Man;IC;13;12;10;Bachelor's
+128000;Woman;IC;9;18;5;Bachelor's
+65000;Man;IC;1;24;1;Bachelor's
+100000;Man;IC;19;20;10;Less than bachelor's
+72000;Woman;IC;15;18;4;Less than bachelor's
+384000;Man;IC;20;8;13;Master's
+200000;Man;Manager;10;12;7;Master's
+88000;Woman;IC;3;29;2;Professional
+118000;Woman;Manager;17;18;14;Master's
+57000;Man;Manager;6;13;3;Bachelor's
+305000;Man;IC;34;6;19;Master's
+135000;Man;IC;14;12;10;Bachelor's
+83200;Man;Manager;3;23;3;Bachelor's
+185000;Man;IC;28;13;23;Bachelor's
+85000;Man;IC;30;8;21;Less than bachelor's
+200000;Man;IC;10;14;8;Less than bachelor's
+125000;Man;IC;21;14;13;Bachelor's
+95000;Man;IC;10;21;7;Bachelor's
+80000;Woman;IC;10;13;10;Bachelor's
+70000;Man;IC;12;18;8;Bachelor's
+181708;Man;IC;24;18;20;Bachelor's
+105000;Man;IC;6;20;4;Bachelor's
+76000;Man;IC;4;25;3;Less than bachelor's
+122000;Man;IC;37;9;22;Less than bachelor's
+68500;Man;IC;9;25;7;Bachelor's
+15300;Man;IC;10;19;7;Bachelor's
+182769;Woman;IC;9;12;4;Master's
+180000;Man;IC;8;15;2;Bachelor's
+200000;Man;IC;10;15;7;Bachelor's
+110000;Man;IC;16;10;13;Less than bachelor's
+80000;Man;IC;8;15;Less than 1 year;Bachelor's
+61104;Man;IC;9;17;4;Less than bachelor's
+80000;Man;IC;11;12;2;Less than bachelor's
+210000;Man;Manager;18;12;15;Master's
+39700;Man;IC;2;12;2;Less than bachelor's
+40000;Woman;IC;20;10;3;Bachelor's
+95000;Man;IC;4;20;Less than 1 year;Bachelor's
+120000;Man;IC;9;16;7;Bachelor's
+115000;Woman;IC;11;15;8;Bachelor's
+379168;Woman;IC;10;17;7;Bachelor's
+240000;Woman;IC;19;12;10;Master's
+120000;Man;IC;36;5;23;NA
+95000;Man;IC;7;16;4;Bachelor's
+135000;Man;IC;8;15;4;Bachelor's
+78000;Man;IC;10;18;4;Bachelor's
+140000;Man;Manager;15;14;9;Bachelor's
+160000;Man;IC;28;12;21;PhD
+124000;Man;IC;10;13;5;Bachelor's
+96000;Woman;IC;10;22;8;Bachelor's
+195500;Man;IC;15;12;10;Bachelor's
+150000;Man;IC;37;17;32;Master's
+198000;Man;IC;27;10;21;Bachelor's
+52000;Man;IC;10;12;6;Bachelor's
+130000;Woman;IC;3;23;3;Bachelor's
+104000;Man;IC;18;13;11;Less than bachelor's
+72500;Man;IC;7;22;4;Less than bachelor's
+210000;Woman;IC;4;23;3;Bachelor's
+105000;Man;IC;25;13;14;PhD
+95000;Man;IC;18;17;12;Bachelor's
+130000;Man;IC;20;9;13;Bachelor's
+120000;Man;IC;5;13;2;Bachelor's
+85000;Woman;IC;7;17;6;Bachelor's
+80000;Man;IC;5;12;3;Bachelor's
+100000;Man;IC;23;14;23;Bachelor's
+96500;Woman;IC;25;8;15;Less than bachelor's
+77000;Man;IC;3;20;3;Less than bachelor's
+80000;Man;IC;6;20;3;Bachelor's
+60000;Man;IC;12;12;12;PhD
+195000;Man;IC;15;15;12;Bachelor's
+60000;Man;IC;3;8;2;Less than bachelor's
+54000;Man;IC;5;14;2;Bachelor's
+50000;Woman;Manager;7;20;7;Master's
+121000;Man;IC;5;19;Less than 1 year;Bachelor's
+110000;Man;IC;20;7;15;Bachelor's
+140000;Man;IC;20;18;12;Bachelor's
+165000;Man;IC;25;12;22;Bachelor's
+125000;Woman;IC;7;19;5;Bachelor's
+80000;Man;IC;11;14;3;Less than bachelor's
+37000;Man;IC;3;23;1;Bachelor's
+120000;Man;IC;12;21;11;PhD
+115000;Man;IC;22;14;12;Bachelor's
+120000;Man;IC;3;13;3;Bachelor's
+205000;Man;IC;22;17;15;Bachelor's
+160000;Man;Manager;18;11;10;Bachelor's
+40000;Man;IC;1;23;Less than 1 year;Bachelor's
+140000;Man;IC;10;18;6;Master's
+100000;Man;Manager;12;16;10;Less than bachelor's
+165000;Man;IC;35;6;24;Master's
+90000;Man;IC;12;13;5;Bachelor's
+97000;Woman;IC;15;16;8;Bachelor's
+180000;Man;IC;18;12;9;Bachelor's
+75000;Man;IC;10;20;6;Master's
+65000;Man;IC;8;15;5;Bachelor's
+60000;Man;IC;3;21;2;Less than bachelor's
+105000;Man;IC;6;18;2;Bachelor's
+145000;Man;IC;15;18;11;Master's
+130000;Man;IC;10;16;7;Bachelor's
+90000;Man;IC;10;17;4;Less than bachelor's
+73000;Man;IC;4;19;2;Bachelor's
+93000;Woman;IC;18;10;10;Bachelor's
+130000;Man;IC;10;16;6;Bachelor's
+130000;Man;IC;40;16;30;Bachelor's
+126000;Man;IC;14;14;7;Bachelor's
+115000;Man;IC;11;16;11;Bachelor's
+180000;Man;Manager;23;14;23;Master's
+155000;Man;IC;16;12;7;Bachelor's
+67000;Man;IC;18;13;8;Bachelor's
+110000;Man;IC;10;NA;7;Less than bachelor's
+140000;Man;IC;15;10;6;Less than bachelor's
+195000;Man;IC;25;19;25;Bachelor's
+90000;Man;IC;12;10;5;Less than bachelor's
+75000;Man;Manager;3;22;2;NA
+115000;Man;IC;21;9;11;Bachelor's
+72500;Man;IC;15;16;7;Bachelor's
+90000;Man;Manager;13;17;9;Master's
+79000;Man;IC;12;11;6;Bachelor's
+75000;Man;IC;18;14;18;Less than bachelor's
+72000;Man;IC;6;24;3;Bachelor's
+90000;Man;IC;2;8;1;Bachelor's
+97000;Man;IC;8;16;3;Bachelor's
+129000;Man;IC;12;12;2;Bachelor's
+87550;Man;IC;11;28;9;Less than bachelor's
+90000;Man;IC;5;12;3;Bachelor's
+200000;Man;IC;12;17;12;Bachelor's
+69000;Man;IC;28;12;10;Less than bachelor's
+115000;Man;IC;20;12;16;Bachelor's
+80000;Man;IC;5;11;2;Bachelor's
+64000;Man;Manager;17;13;9;Bachelor's
+350000;Man;IC;24;16;20;Bachelor's
+98000;Man;IC;10;18;6;Bachelor's
+70000;Man;IC;13;11;4;Less than bachelor's
+99806;Woman;IC;5;20;3;Master's
+60000;Man;IC;16;16;13;Bachelor's
+48000;Man;IC;7;18;2;Bachelor's
+80000;Woman;Manager;4;18;Less than 1 year;Bachelor's
+48000;Woman;IC;2;12;Less than 1 year;Bachelor's
+72000;Man;IC;6;17;3;Bachelor's
+105000;Man;IC;18;12;11;Bachelor's
+187000;Man;Manager;35;10;20;PhD
+65000;Man;IC;15;13;10;Less than bachelor's
+122000;Woman;IC;10;21;5;Less than bachelor's
+65000;Man;IC;32;9;13;Less than bachelor's
+140000;Man;IC;21;12;12;Bachelor's
+56000;Man;IC;5;31;4;Less than bachelor's
+74000;Man;IC;10;15;7;Bachelor's
+120000;Man;IC;20;20;20;Bachelor's
+67000;Man;IC;7;14;1;Bachelor's
+31201;Man;IC;12;9;3;Less than bachelor's
+74000;Man;IC;5;8;2;Bachelor's
+74000;Man;IC;3;18;2;Bachelor's
+145000;Man;IC;29;18;22;Bachelor's
+40000;Man;IC;10;14;9;Less than bachelor's
+184000;Man;IC;7;19;4;Bachelor's
+118000;Man;IC;4;19;Less than 1 year;Bachelor's
+120000;Man;IC;17;13;10;Bachelor's
+140000;Man;IC;8;17;6;Less than bachelor's
+136000;Man;IC;12;20;9;Bachelor's
+32500;Man;IC;5;17;3;Bachelor's
+160000;Man;Manager;21;16;18;Bachelor's
+104000;Woman;Manager;21;14;11;Bachelor's
+95000;Man;IC;4;12;2;Less than bachelor's
+112000;Man;IC;7;18;4;Bachelor's
+350000;Man;IC;25;10;16;Bachelor's
+40000;Man;IC;4;18;Less than 1 year;Bachelor's
+136000;Man;IC;14;16;4;Less than bachelor's
+120000;Man;Manager;13;33;7;Bachelor's
+87000;Man;IC;18;12;5;Bachelor's
+73000;Man;IC;11;18;7;Master's
+58000;Man;IC;14;12;Less than 1 year;Less than bachelor's
+113000;Man;IC;15;15;15;Master's
+92000;Man;IC;9;18;5;Bachelor's
+87000;Man;IC;10;15;8;Less than bachelor's
+131000;Man;IC;40;12;35;Less than bachelor's
+90000;Man;IC;17;16;11;Bachelor's
+140000;Man;IC;24;10;12;PhD
+120522;Man;IC;9;21;5;Master's
+112000;Man;IC;20;12;20;Less than bachelor's
+78412;Man;IC;6;16;3;Bachelor's
+160000;Man;IC;10;26;7;Less than bachelor's
+71000;Man;IC;2;12;1;Bachelor's
+80000;Man;IC;11;Younger than 5 years;5;Bachelor's
+350000;Woman;IC;18;14;12;PhD
+145000;Woman;IC;7;19;5;Bachelor's
+130000;Woman;IC;5;22;3;PhD
+75000;Woman;IC;1;25;Less than 1 year;Bachelor's
+200000;Man;IC;23;13;17;Bachelor's
+113000;Man;IC;12;18;7;Bachelor's
+80000;Man;IC;22;10;10;PhD
+136000;Woman;IC;20;19;15;Bachelor's
+107000;Man;IC;12;13;7;Bachelor's
+125000;Man;IC;6;16;6;Less than bachelor's
+105000;Man;IC;17;18;15;Bachelor's
+140500;Man;IC;10;14;6;Bachelor's
+78000;Man;IC;15;8;Less than 1 year;Bachelor's
+148000;Man;IC;20;12;20;Master's
+110000;Man;IC;20;15;12;Less than bachelor's
+93000;Man;IC;10;18;6;Bachelor's
+108000;Man;Manager;41;20;38;Bachelor's
+90000;Man;IC;3;15;2;Bachelor's
+130000;Woman;IC;16;11;4;Less than bachelor's
+175000;Man;IC;4;16;2;Bachelor's
+73000;Man;IC;7;18;4;Bachelor's
+75000;Man;IC;13;18;10;PhD
+85000;Man;IC;7;19;5;Bachelor's
+157000;Woman;IC;6;25;6;Master's
+127500;Man;IC;19;8;13;Bachelor's
+100000;Man;IC;19;13;11;Less than bachelor's
+147000;Man;IC;14;14;12;Less than bachelor's
+140000;Man;IC;10;13;3;Bachelor's
+63000;Man;IC;5;21;3;Bachelor's
+120000;Man;IC;17;7;16;Bachelor's
+185000;Man;Manager;20;18;16;Master's
+110000;Man;IC;7;9;4;Bachelor's
+115500;Man;IC;6;18;6;Master's
+98000;Woman;IC;12;15;5;Bachelor's
+65000;Woman;IC;7;15;5;Bachelor's
+101200;Man;IC;8;8;4;Bachelor's
+135000;Man;IC;10;14;6;Bachelor's
+57800;Man;IC;33;12;10;Less than bachelor's
+98500;Man;IC;23;12;23;Less than bachelor's
+190000;Man;IC;10;20;8;Master's
+160250;Man;IC;9;17;5;Master's
+115000;Man;IC;16;15;15;Less than bachelor's
+75000;Man;IC;6;19;Less than 1 year;Master's
+100000;Man;IC;8;10;6;Bachelor's
+220000;Man;IC;18;16;12;Bachelor's
+160000;Man;Manager;11;16;7;Bachelor's
+140000;Man;Manager;25;11;17;Bachelor's
+81000;Man;IC;10;18;8;Bachelor's
+85000;Man;IC;3;24;3;Bachelor's
+110000;Man;Manager;15;15;10;Master's
+230000;Man;IC;34;15;30;Bachelor's
+94500;Man;IC;15;14;7;Bachelor's
+135000;Man;IC;10;12;8;Less than bachelor's
+120000;Man;IC;17;11;7;Bachelor's
+60000;Man;IC;6;9;5;Less than bachelor's
+65000;Man;IC;20;16;4;Bachelor's
+220000;Man;IC;19;11;11;Bachelor's
+103000;Man;IC;17;14;11;Bachelor's
+140000;Man;IC;17;12;16;Master's
+80000;Man;IC;1;15;1;Bachelor's
+89000;Man;IC;13;8;7;Master's
+90000;Man;IC;6;NA;6;Bachelor's
+54000;Woman;IC;23;17;19;Bachelor's
+75000;Man;IC;10;12;7;Bachelor's
+55000;Man;IC;6;16;1;Bachelor's
+105000;Man;IC;7;15;2;Master's
+14000;Man;Manager;25;7;21;Bachelor's
+140000;Man;IC;18;20;14;Master's
+120000;Man;IC;40;14;33;Bachelor's
+110000;Man;Manager;25;8;9;Bachelor's
+72000;Man;IC;6;13;Less than 1 year;Bachelor's
+54000;Woman;IC;4;20;4;Less than bachelor's
+121000;Man;IC;20;14;15;PhD
+120000;Man;IC;16;11;12;Less than bachelor's
+115000;Man;IC;12;16;10;Bachelor's
+150000;Man;IC;22;12;20;Less than bachelor's
+64500;Man;IC;6;11;3;Bachelor's
+98000;Man;Manager;16;15;9;Master's
+147000;Man;IC;23;10;20;Less than bachelor's
+130000;Man;IC;24;27;24;Bachelor's
+133200;Woman;IC;1;20;Less than 1 year;Bachelor's
+165000;Man;IC;15;17;10;Bachelor's
+140000;Man;IC;20;6;10;Bachelor's
+124000;Woman;IC;3;18;2;Bachelor's
+57000;Man;IC;10;18;5;Less than bachelor's
+83000;Man;IC;10;15;7;Bachelor's
+165000;Man;IC;7;21;4;Bachelor's
+56000;Man;IC;2;33;1;Less than bachelor's
+150000;Man;Manager;10;12;8;Bachelor's
+160000;Man;IC;40;16;30;Master's
+170000;Man;IC;20;20;16;Bachelor's
+130000;Man;IC;18;15;5;Less than bachelor's
+94557;Man;IC;12;15;7;Master's
+155000;Man;IC;34;16;21;Less than bachelor's
+60000;Woman;IC;5;13;Less than 1 year;Bachelor's
+51000;Man;IC;6;10;1;Bachelor's
+104000;Man;IC;20;21;20;Less than bachelor's
+200000;Man;IC;26;13;21;Master's
+165000;Man;IC;14;17;10;Master's
+165000;Man;IC;11;12;8;Bachelor's
+88000;Man;IC;10;16;6;Bachelor's
+120000;Woman;IC;12;16;7;Bachelor's
+100000;Man;IC;12;10;6;Less than bachelor's
+97000;Man;IC;10;21;10;Bachelor's
+125000;Man;IC;49;14;40;Less than bachelor's
+90000;Woman;IC;7;23;7;Master's
+110000;Man;IC;8;15;4;Bachelor's
+50000;Man;IC;6;12;6;Less than bachelor's
+91000;Man;IC;7;11;3;Bachelor's
+152000;Woman;IC;15;12;7;Master's
+70500;Man;IC;4;11;2;Bachelor's
+135000;Man;Manager;16;16;12;Master's
+75000;Man;IC;17;12;10;Bachelor's
+142000;Man;IC;15;15;13;Bachelor's
+97750;Woman;IC;3;27;2;Bachelor's
+150000;Man;IC;11;12;11;Less than bachelor's
+110000;Man;Manager;9;19;6;Bachelor's
+100000;Man;IC;5;20;4;Bachelor's
+103000;Man;IC;6;12;4;Bachelor's
+55000;Woman;IC;2;32;2;Less than bachelor's
+104000;Man;IC;32;15;29;Bachelor's
+105000;Woman;IC;4;28;3;Bachelor's
+120000;Man;IC;25;22;23;Bachelor's
+250000;Man;IC;15;17;10;Bachelor's
+100000;Man;IC;4;16;3;Bachelor's
+118000;Man;Manager;10;15;4;Master's
+145000;Man;IC;10;16;8;PhD
+75000;Man;IC;25;11;6;Bachelor's
+150000;Man;IC;14;12;8;Bachelor's
+92000;Man;IC;26;16;23;Bachelor's
+108000;Woman;IC;4;21;3;Bachelor's
+74000;Man;IC;9;13;8;Bachelor's
+123050;Man;IC;17;15;7;Bachelor's
+150000;Man;IC;22;7;15;Master's
+171500;Woman;IC;10;23;8;Master's
+60000;Man;IC;1;22;1;Bachelor's
+71000;Man;IC;4;14;1;Bachelor's
+80000;Woman;IC;4;20;2;Master's
+130000;Woman;Manager;22;10;3;Less than bachelor's
+220000;Man;IC;22;8;8;Master's
+60000;Man;IC;10;8;Less than 1 year;Master's
+120000;Man;IC;7;13;4;Less than bachelor's
+80000;Man;IC;38;19;35;Bachelor's
+85000;Woman;IC;3;21;1;Master's
+110000;Man;IC;5;20;5;Bachelor's
+160000;Man;Manager;22;15;16;Bachelor's
+150000;Man;IC;30;15;25;Master's
+125000;Man;IC;40;8;24;Less than bachelor's
+105000;Man;IC;20;10;19;Bachelor's
+120000;Man;IC;25;9;20;Master's
+170000;Man;IC;8;12;6;Bachelor's
+75000;Man;IC;3;16;2;Bachelor's
+210000;Man;IC;9;15;5;Bachelor's
+244000;Man;IC;12;21;11;PhD
+145000;Man;IC;20;11;10;Bachelor's
+53000;Woman;IC;9;15;3;Bachelor's
+85000;Woman;IC;20;19;16;Bachelor's
+103000;Woman;IC;35;17;27;Less than bachelor's
+85000;Woman;IC;1;17;Less than 1 year;Bachelor's
+400000;Man;Manager;10;9;4;Bachelor's
+209000;Man;IC;22;12;19;Bachelor's
+72000;Man;IC;12;15;7;Bachelor's
+148000;Man;IC;11;12;6;Bachelor's
+130000;Man;IC;40;16;36;Master's
+81000;Man;IC;3;26;2;Bachelor's
+380000;Man;IC;20;12;10;Master's
+76000;Woman;IC;20;8;15;Bachelor's
+85000;Man;IC;3;21;2;Bachelor's
+91000;Man;IC;12;12;3;PhD
+60000;Man;IC;14;13;7;Bachelor's
+108000;Man;IC;7;11;Less than 1 year;Bachelor's
+78000;Woman;IC;3;20;3;Bachelor's
+79000;Man;IC;6;7;4;Master's
+49000;Man;IC;5;17;2;Bachelor's
+42300;Man;IC;8;13;NA;Bachelor's
+70000;Man;IC;8;16;4;Bachelor's
+83000;Man;IC;12;15;5;Bachelor's
+115000;Man;IC;10;16;3;Less than bachelor's
+110000;Man;IC;12;14;8;Bachelor's
+175000;Man;IC;8;15;7;Bachelor's
+75000;Man;IC;22;17;7;Master's
+77500;Woman;IC;4;10;4;Less than bachelor's
+120000;Man;IC;15;9;5;Master's
+145000;Man;IC;12;9;8;Bachelor's
+75000;Man;IC;8;12;4;Bachelor's
+140000;Man;IC;14;18;10;Bachelor's
+105000;Man;IC;13;19;10;Master's
+180000;Man;IC;27;12;20;Bachelor's
+70000;Man;IC;7;21;1;Bachelor's
+125000;Man;Manager;10;14;9;Less than bachelor's
+75000;Man;IC;6;13;3;Bachelor's
+121000;Man;IC;30;10;19;Bachelor's
+56000;Woman;IC;21;14;15;Bachelor's
+95000;Man;IC;5;16;4;Bachelor's
+160000;Man;IC;3;16;2;Bachelor's
+150000;Man;IC;37;15;35;Less than bachelor's
+80000;Man;IC;3;11;2;Less than bachelor's
+58000;Man;IC;6;22;5;Less than bachelor's
+340000;Man;Manager;12;10;6;Master's
+180000;Man;IC;15;14;8;Master's
+125000;Man;IC;15;10;14;Master's
+48000;Man;IC;3;35;2;Less than bachelor's
+40000;Man;IC;3;8;2;Less than bachelor's
+200000;Man;IC;6;18;3;Master's
+110000;Man;Manager;18;6;15;Professional
+94500;Man;IC;14;11;9;Bachelor's
+95000;Man;Manager;12;19;12;PhD
+70500;Man;IC;6;15;Less than 1 year;Bachelor's
+145000;Man;IC;19;8;19;Bachelor's
+76000;Man;IC;8;22;5;Bachelor's
+125000;Man;IC;33;15;28;Master's
+110000;Woman;IC;19;13;9;NA
+128000;Woman;IC;6;18;2;Less than bachelor's
+210000;Man;IC;13;16;10;Bachelor's
+145000;Man;IC;6;18;5;Bachelor's
+187000;Man;IC;35;16;33;Less than bachelor's
+83000;Woman;IC;6;20;3;Bachelor's
+67500;Man;IC;5;17;1;Bachelor's
+86000;Woman;IC;11;13;4;Bachelor's
+127000;Man;IC;6;18;4;Bachelor's
+97000;Man;IC;9;16;3;Bachelor's
+154000;Man;IC;36;17;30;Master's
+135000;Man;IC;18;14;18;Master's
+68000;Man;Manager;18;12;5;Bachelor's
+105000;Man;IC;15;13;11;Bachelor's
+215000;Man;IC;20;25;16;Master's
+65000;Man;IC;6;15;5;Bachelor's
+125000;Man;IC;16;10;12;Less than bachelor's
+125000;Man;IC;20;12;11;Bachelor's
+97759;Woman;IC;7;8;5;Bachelor's
+60000;Man;IC;10;13;1;Bachelor's
+95000;Man;IC;12;10;4;Master's
+73000;Man;IC;5;14;2;Bachelor's
+50000;Man;IC;3;13;2;Bachelor's
+120000;Man;IC;5;20;4;Master's
+97000;Man;IC;7;18;Less than 1 year;Master's
+155000;Man;IC;22;10;14;Bachelor's
+125000;Man;IC;3;30;2;Less than bachelor's
+95000;Man;IC;4;15;2;Master's
+95000;Man;IC;30;12;23;Less than bachelor's
+104000;Man;IC;12;16;8;Bachelor's
+130000;Man;IC;10;14;8;Less than bachelor's
+105000;Man;Manager;3;30;2;Bachelor's
+97000;Man;IC;4;17;3;Bachelor's
+85000;Man;IC;30;8;10;Less than bachelor's
+55000;Man;IC;8;17;1;Bachelor's
+83000;Man;IC;15;17;12;Bachelor's
+84000;Man;IC;10;14;6;Bachelor's
+45000;Man;IC;5;19;1;Bachelor's
+110000;Man;IC;NA;25;17;Master's
+60000;Man;IC;22;8;6;Bachelor's
+150000;Man;Manager;7;18;3;Bachelor's
+115000;Man;IC;7;22;6;Bachelor's
+180000;Man;IC;6;11;3;Bachelor's
+200000;Man;IC;16;16;9;Master's
+180000;Man;Manager;18;14;15;Bachelor's
+115000;Man;IC;12;16;8;Bachelor's
+92900;Woman;IC;8;18;4;Bachelor's
+135000;Man;IC;8;18;6;Less than bachelor's
+145000;Man;IC;17;12;6;Bachelor's
+115000;Man;IC;4;12;3;Bachelor's
+48932;Man;IC;15;13;4;Bachelor's
+90000;Man;IC;6;35;3;Less than bachelor's
+69000;Man;IC;7;18;5;Master's
+145000;Man;IC;9;15;4;Bachelor's
+100000;Man;IC;13;11;6;Bachelor's
+108000;Man;IC;11;16;2;PhD
+52000;Man;IC;7;17;3;Bachelor's
+92000;Man;IC;25;13;20;Less than bachelor's
+160000;Man;IC;15;12;12;Less than bachelor's
+120000;Man;IC;20;10;20;Less than bachelor's
+157000;Man;IC;39;15;35;Bachelor's
+60000;Woman;IC;3;27;1;Less than bachelor's
+85000;Man;IC;9;16;8;Bachelor's
+140000;Man;IC;16;22;15;Bachelor's
+180000;Man;Manager;31;14;26;Bachelor's
+120000;Man;IC;35;12;20;Bachelor's
+95000;Man;IC;5;19;1;Bachelor's
+102000;Man;IC;22;10;18;Less than bachelor's
+140000;Man;IC;16;11;13;Less than bachelor's
+165000;Man;IC;5;7;4;Bachelor's
+150000;Man;IC;10;10;8;Bachelor's
+116000;Man;IC;44;16;41;Bachelor's
+130000;Man;IC;14;16;12;Bachelor's
+130000;Man;IC;12;14;8;Bachelor's
+110000;Man;IC;10;18;7;Master's
+80000;Man;IC;4;21;4;Bachelor's
+96025;Man;IC;13;14;5;Bachelor's
+180000;Man;IC;20;18;15;Bachelor's
+150000;Man;IC;16;22;10;Bachelor's
+1200000;Woman;IC;5;24;4;Master's
+187000;Man;IC;20;12;8;Bachelor's
+65000;Man;IC;7;14;Less than 1 year;Bachelor's
+185000;Man;IC;14;14;7;Master's
+137000;Man;IC;30;12;21;Bachelor's
+188000;Man;Manager;15;19;10;Master's
+99000;Man;IC;12;12;7;Master's
+350000;Man;Manager;46;12;5;Master's
+120000;Man;IC;10;13;7;Master's
+70000;Man;IC;13;17;10;Bachelor's
+130000;Man;IC;13;15;8;Master's
+115000;Man;IC;12;12;11;Bachelor's
+95000;Man;IC;4;17;3;Bachelor's
+150000;Man;IC;17;18;15;Master's
+64500;Woman;IC;6;16;4;Bachelor's
+260000;Man;IC;18;10;11;Less than bachelor's
+105317;Woman;IC;14;10;7;Bachelor's
+80000;Man;IC;9;17;4;Bachelor's
+50000;Man;IC;5;20;3;Bachelor's
+60000;Man;IC;15;15;12;Less than bachelor's
+139000;Man;IC;32;12;21;Bachelor's
+120000;Man;Manager;20;9;NA;Less than bachelor's
+87500;Man;IC;30;8;4;Less than bachelor's
+60000;Man;IC;13;12;4;Bachelor's
+88000;Man;Manager;5;13;5;Bachelor's
+120000;Man;IC;12;13;11;Bachelor's
+250000;Man;IC;35;10;5;Bachelor's
+111000;Man;IC;14;15;6;Bachelor's
+150000;Man;IC;11;11;5;Bachelor's
+60000;Man;IC;5;19;4;Bachelor's
+85000;Man;IC;15;15;6;Bachelor's
+80000;Man;IC;22;Younger than 5 years;14;Less than bachelor's
+100000;Man;IC;20;13;8;Bachelor's
+225000;Man;Manager;22;14;19;Master's
+90000;Woman;IC;35;16;30;Bachelor's
+110000;Man;IC;23;10;10;Master's
+150000;Man;IC;20;12;10;Master's
+105000;Man;IC;8;28;7;Professional
+185000;Man;Manager;15;13;12;Less than bachelor's
+125000;Man;IC;8;17;5;Master's
+110000;Woman;IC;8;28;3;Bachelor's
+130000;Man;IC;17;10;6;Bachelor's
+100000;Man;IC;23;13;19;Master's
+70000;Man;IC;11;9;7;Bachelor's
+140000;Man;IC;20;14;3;Bachelor's
+84000;Man;IC;9;12;4;Less than bachelor's
+68000;Man;IC;8;15;8;Bachelor's
+145000;Man;IC;33;13;23;Master's
+132500;Man;IC;35;7;20;Professional
+82000;Man;IC;15;12;10;Bachelor's
+160000;Man;IC;19;12;13;Bachelor's
+105000;Man;IC;10;15;8;Bachelor's
+180000;Man;IC;20;17;12;Master's
+100000;Man;Manager;33;13;20;PhD
+99000;Man;IC;5;18;3;Bachelor's
+130000;Man;IC;17;18;14;Bachelor's
+140000;Man;Manager;20;13;8;Master's
+64000;Man;IC;20;5;10;Less than bachelor's
+155000;Man;IC;40;15;32;Bachelor's
+85000;Man;IC;3;22;3;Bachelor's
+70000;Man;IC;5;27;5;Less than bachelor's
+70000;Man;Manager;4;20;3;Master's
+113300;Man;IC;14;21;8;Master's
+70000;Man;IC;10;10;4;Bachelor's
+70200;Man;IC;19;15;10;Bachelor's
+75000;Man;IC;6;15;6;Bachelor's
+63000;Man;IC;36;7;23;Less than bachelor's
+100000;Man;IC;8;18;6;Bachelor's
+120000;Man;IC;13;16;7;Bachelor's
+90000;Woman;IC;7;16;1;Bachelor's
+68000;Man;IC;10;9;5;Bachelor's
+98000;Man;IC;16;18;11;Master's
+190000;Man;IC;10;10;7;Master's
+170000;Man;Manager;40;17;35;PhD
+91000;Man;IC;18;13;10;Less than bachelor's
+135000;Man;IC;21;35;21;Bachelor's
+100000;Man;IC;12;12;9;Less than bachelor's
+100000;Man;IC;15;14;9;Bachelor's
+113000;Man;IC;7;19;5;Bachelor's
+155000;Man;IC;12;7;3;Bachelor's
+48000;Woman;IC;5;17;4;Bachelor's
+88000;Man;IC;12;16;6;Bachelor's
+50000;Man;IC;5;12;3;Less than bachelor's
+125000;Man;IC;25;15;20;Bachelor's
+62000;Woman;IC;5;9;2;Less than bachelor's
+95000;Man;IC;15;21;15;Bachelor's
+70000;Man;IC;12;15;2;Bachelor's
+100000;Woman;IC;10;15;5;Bachelor's
+140000;Man;IC;20;16;17;Bachelor's
+141000;Man;IC;16;10;15;Less than bachelor's
+162000;Man;IC;15;12;13;Bachelor's
+130000;Man;IC;30;10;19;Less than bachelor's
+140000;Man;IC;8;11;3;Bachelor's
+50000;Man;IC;20;15;16;Master's
+40000;Man;IC;13;17;9;Bachelor's
+150000;Man;Manager;20;12;12;Bachelor's
+65000;Man;IC;1;25;1;Bachelor's
+65000;Man;IC;7;16;3;Bachelor's
+140000;Man;IC;25;10;17;Bachelor's
+190000;Man;IC;34;8;19;Bachelor's
+95000;Man;IC;5;18;5;Less than bachelor's
+84000;Man;IC;7;27;5;Bachelor's
+106000;Man;IC;16;15;8;Bachelor's
+89000;Man;IC;25;13;18;NA
+135000;Man;IC;22;12;13;Bachelor's
+105000;Man;Manager;20;10;13;Bachelor's
+94500;Man;IC;7;15;1;Master's
+80000;Man;IC;6;16;3;Bachelor's
+117000;Man;IC;12;9;5;Bachelor's
+41000;Man;IC;7;17;7;Less than bachelor's
+143000;Man;IC;5;16;4;Bachelor's
+73500;Man;IC;9;16;5;Bachelor's
+163000;Man;IC;13;15;9;Master's
+125000;Woman;IC;36;8;22;Master's
+69875;Woman;IC;6;18;4;Bachelor's
+140000;Woman;IC;12;12;2;Bachelor's
+115000;Man;IC;11;15;9;Bachelor's
+150000;Man;Manager;27;23;27;Bachelor's
+400000;Man;IC;38;18;38;Bachelor's
+112000;Man;IC;12;18;8;Bachelor's
+75000;Man;IC;20;8;3;Less than bachelor's
+75000;Man;IC;4;21;4;Bachelor's
+95000;Man;Manager;23;10;18;Less than bachelor's
+85000;Man;IC;9;15;2;Master's
+155000;Man;IC;14;15;11;Bachelor's
+140000;Man;IC;17;30;15;Bachelor's
+120000;Man;IC;20;13;20;Less than bachelor's
+72000;Man;IC;11;12;3;Bachelor's
+114500;Woman;IC;10;22;14;Bachelor's
+120000;Man;IC;7;12;3;Bachelor's
+85000;Man;IC;5;17;1;Bachelor's
+55000;Man;IC;4;19;3;Less than bachelor's
+95000;Woman;IC;3;20;2;Master's
+120000;Woman;Manager;5;18;4;Less than bachelor's
+130000;Woman;IC;9;17;7;Bachelor's
+55000;Woman;IC;10;13;5;Bachelor's
+70000;Man;Manager;6;15;3;Bachelor's
+19000;Man;Manager;19;16;16;Bachelor's
+68800;Man;IC;7;19;4;Bachelor's
+85000;Man;Manager;12;7;8;PhD
+74250;Man;Manager;10;13;4;Bachelor's
+154000;Man;IC;27;10;16;Less than bachelor's
+90000;Man;IC;2;24;2;Master's
+200000;Man;IC;28;14;20;Master's
+205000;Man;IC;37;12;26;Bachelor's
+70000;Man;IC;5;16;1;Bachelor's
+99000;Man;IC;23;15;6;Less than bachelor's
+100000;Man;IC;12;15;6;Bachelor's
+74000;Man;IC;6;16;2;Bachelor's
+75000;Man;IC;5;11;4;Bachelor's
+85000;Woman;IC;23;15;23;Bachelor's
+66000;Man;IC;5;14;5;Master's
+145000;Woman;IC;10;12;5;Bachelor's
+120000;Man;IC;2;26;Less than 1 year;Master's
+65000;Man;IC;9;15;4;Bachelor's
+95000;Woman;IC;3;24;3;Less than bachelor's
+62100;Man;IC;6;NA;1;Bachelor's
+135000;Man;IC;10;15;3;Bachelor's
+82000;Man;IC;4;30;Less than 1 year;Less than bachelor's
+175000;Man;IC;8;12;6;Master's
+154950;Man;IC;6;12;4;Bachelor's
+80000;Man;IC;33;22;32;Less than bachelor's
+125000;Man;IC;10;12;8;Bachelor's
+110000;Woman;IC;9;9;7;Master's
+70000;Man;IC;15;9;5;Bachelor's
+90000;Man;IC;15;9;6;Bachelor's
+74000;Woman;IC;12;16;8;Bachelor's
+250000;Man;IC;25;8;12;Bachelor's
+78000;Man;IC;7;15;4;Master's
+94000;Man;IC;8;33;3;PhD
+80000;Man;IC;5;23;4;Bachelor's
+155000;Man;Manager;20;8;15;Bachelor's
+135000;Man;IC;17;15;10;Bachelor's
+72000;Man;IC;9;15;9;Bachelor's
+151875;Man;IC;26;9;10;Bachelor's
+90000;Man;Manager;15;12;7;Bachelor's
+140000;Man;IC;19;12;15;Bachelor's
+192128;Man;Manager;30;8;20;Master's
+92000;Man;IC;22;16;NA;Bachelor's
+75000;Man;IC;4;18;2;Bachelor's
+103000;Man;IC;8;13;3;PhD
+75000;Man;IC;30;13;25;Less than bachelor's
+120000;Man;IC;15;17;10;Less than bachelor's
+164000;Man;IC;30;28;25;Less than bachelor's
+145000;Man;Manager;28;8;15;Bachelor's
+65000;Man;IC;10;18;5;Master's
+172000;Man;IC;32;15;22;Bachelor's
+75000;Man;IC;12;12;2;Bachelor's
+52000;Man;IC;21;10;Less than 1 year;Bachelor's
+70000;Man;IC;3;20;1;Master's
+104000;Man;Manager;30;9;20;Less than bachelor's
+140000;Man;Manager;20;10;20;Bachelor's
+115000;Man;IC;38;9;28;Bachelor's
+115000;Man;IC;4;17;2;Bachelor's
+150000;Man;IC;35;7;20;Less than bachelor's
+180000;Man;IC;45;18;38;Bachelor's
+120000;Woman;IC;14;10;10;Master's
+80000;Woman;IC;16;14;3;Bachelor's
+400000;Man;IC;17;15;7;Master's
+110000;Man;IC;22;6;17;Bachelor's
+269000;Man;IC;15;10;5;Bachelor's
+125000;Man;IC;8;25;4;Master's
+200000;Man;IC;11;10;4;Bachelor's
+130000;Man;IC;6;16;4;Bachelor's
+165000;Man;IC;11;12;10;Bachelor's
+45000;Woman;Manager;5;12;2;Bachelor's
+61000;Man;IC;14;7;9;Bachelor's
+300000;Man;IC;36;8;19;Master's
+100000;Man;IC;5;8;3;Less than bachelor's
+121000;Man;IC;29;12;27;Bachelor's
+106509;Man;IC;15;17;8;Bachelor's
+100000;Man;IC;14;16;10;PhD
+123800;Man;IC;10;19;7;Less than bachelor's
+135000;Woman;IC;20;10;18;Bachelor's
+145000;Man;IC;18;12;12;Bachelor's
+100000;Man;IC;37;16;33;Bachelor's
+120000;Man;IC;20;12;10;Less than bachelor's
+150000;Man;IC;35;14;30;PhD
+115000;Man;IC;25;12;15;Master's
+35000;Man;IC;4;14;3;Less than bachelor's
+55000;Woman;IC;8;33;8;Bachelor's
+120000;Woman;IC;10;8;Less than 1 year;Bachelor's
+135000;Man;IC;22;11;20;Bachelor's
+41000;Man;IC;10;12;4;Bachelor's
+300000;Man;IC;22;15;22;Less than bachelor's
+110000;Man;IC;7;18;3;Bachelor's
+135000;Man;IC;6;18;2;Bachelor's
+130000;Man;Manager;19;15;11;Bachelor's
+87500;Man;IC;16;13;15;Bachelor's
+75000;Man;IC;3;11;2;Bachelor's
+102000;Woman;IC;5;9;4;Bachelor's
+135000;Man;IC;12;14;6;Master's
+74750;Man;Manager;16;11;9;Bachelor's
+218000;Man;IC;28;10;13;Bachelor's
+150000;Man;Manager;30;6;18;PhD
+150000;Man;IC;13;9;1;Master's
+75000;Man;IC;11;16;5;Bachelor's
+40000;Man;IC;2;16;Less than 1 year;Less than bachelor's
+110000;Man;IC;9;13;6;Bachelor's
+100000;Man;IC;10;7;7;Bachelor's
+106000;Man;IC;18;16;11;Bachelor's
+115000;Man;IC;8;15;4;Bachelor's
+190000;Man;Manager;35;11;26;Master's
+275000;Man;IC;13;13;5;Bachelor's
+82000;Man;IC;15;14;11;Bachelor's
+160000;Man;IC;17;19;14;Bachelor's
+72400;Man;IC;19;11;7;Bachelor's
+230000;Man;IC;32;12;28;Bachelor's
+91390;Man;IC;24;15;20;Bachelor's
+264000;Man;Manager;22;8;22;Bachelor's
+70000;Man;IC;3;25;1;Bachelor's
+90000;Man;IC;12;16;6;Bachelor's
+180000;Man;IC;13;13;8;Bachelor's
+140000;Man;IC;20;7;13;Bachelor's
+163219;Man;IC;10;11;2;Bachelor's
+115000;Man;IC;10;12;NA;Bachelor's
+210000;Man;IC;12;14;5;Bachelor's
+110000;Man;IC;9;16;6;Bachelor's
+72250;Woman;IC;4;20;2;Bachelor's
+41600;Man;IC;2;11;1;Less than bachelor's
+55000;Man;IC;4;19;3;NA
+43000;Man;IC;8;14;5;Less than bachelor's
+72000;Man;IC;3;12;3;Professional
+130000;Man;IC;9;17;8;Bachelor's
+160000;Man;IC;4;16;3;Master's
+120000;Man;IC;16;11;5;Bachelor's
+58000;Man;IC;5;12;2;Bachelor's
+140000;Man;IC;13;13;3;Bachelor's
+78000;Man;IC;23;27;23;Bachelor's
+100000;Man;IC;7;18;3;Bachelor's
+105000;Man;IC;6;16;2;Bachelor's
+275000;Man;IC;24;16;23;Bachelor's
+98000;Man;IC;6;20;5;Bachelor's
+72000;Man;IC;15;13;5;Master's
+93000;Man;IC;5;17;4;Bachelor's
+100000;Man;IC;17;15;11;Bachelor's
+117000;Man;IC;19;13;14;Bachelor's
+130000;Man;Manager;22;14;15;Less than bachelor's
+123600;Man;Manager;14;17;10;Master's
+40000;Man;IC;10;13;3;Less than bachelor's
+66000;Woman;IC;4;19;2;Bachelor's
+138000;Woman;IC;5;18;2;Bachelor's
+45000;Man;IC;12;13;Less than 1 year;Less than bachelor's
+120000;Man;IC;9;16;4;Bachelor's
+160000;Woman;IC;6;18;Less than 1 year;Master's
+120000;Man;IC;10;15;5;Bachelor's
+70000;Man;IC;1;24;1;Bachelor's
+200000;Man;Manager;10;18;6;Master's
+100000;Man;IC;7;14;6;Master's
+200000;Man;Manager;20;18;15;Professional
+158000;Man;IC;36;12;27;Bachelor's
+140000;Man;IC;39;8;31;Less than bachelor's
+100000;Woman;IC;27;13;23;Bachelor's
+65000;Man;IC;17;18;5;Less than bachelor's
+100000;Man;IC;44;25;40;Master's
+120000;Man;Manager;30;13;12;Bachelor's
+120000;Man;IC;6;21;2;Bachelor's
+60000;Man;IC;4;17;3;Less than bachelor's
+149000;Man;Manager;13;18;13;Bachelor's
+125000;Man;IC;2;8;Less than 1 year;Bachelor's
+70000;Woman;IC;2;18;2;Less than bachelor's
+70000;Man;IC;12;10;2;Bachelor's
+136500;Man;IC;20;28;16;Less than bachelor's
+135000;Man;IC;34;24;29;Less than bachelor's
+111000;Man;IC;3;8;2;Master's
+77000;Man;IC;19;13;17;Bachelor's
+76000;Man;IC;4;21;1;Bachelor's
+100000;Man;Manager;13;8;10;Less than bachelor's
+72800;Man;Manager;5;14;5;Bachelor's
+100000;Man;IC;3;15;2;Master's
+140000;Man;Manager;15;16;10;Master's
+135000;Woman;IC;7;24;4;Less than bachelor's
+75000;Man;IC;5;19;5;Less than bachelor's
+80000;Man;IC;3;20;1;Bachelor's
+110000;Man;Manager;12;18;8;Less than bachelor's
+120000;Man;IC;33;Younger than 5 years;18;Master's
+70000;Man;IC;9;7;5;Bachelor's
+125000;Man;IC;6;16;5;Less than bachelor's
+150000;Man;IC;45;12;36;Bachelor's
+110000;Woman;IC;4;20;3;Bachelor's
+100000;Man;Manager;40;18;37;Bachelor's
+67500;Man;IC;6;10;6;Bachelor's
+230000;Woman;IC;9;15;3;Master's
+155000;Man;IC;32;10;21;Bachelor's
+150000;Man;IC;20;17;14;Bachelor's
+97000;Man;IC;16;13;2;Master's
+95000;Man;IC;26;16;22;Bachelor's
+53000;Man;IC;20;15;2;Less than bachelor's
+45000;Man;IC;17;10;6;Bachelor's
+100300;Man;IC;5;21;4;PhD
+121885;Man;IC;35;6;13;Master's
+100000;Man;IC;25;16;21;Bachelor's
+200000;Man;IC;8;18;3;Master's
+125000;Man;IC;12;15;8;Bachelor's
+120000;Man;IC;14;15;10;Bachelor's
+71000;Woman;IC;7;16;4;Master's
+145000;Man;IC;5;14;2;Bachelor's
+120000;Man;Manager;22;12;20;Bachelor's
+115000;Woman;IC;10;15;5;Bachelor's
+105000;Man;IC;20;15;13;Bachelor's
+60000;Man;IC;6;16;6;PhD
+70000;Man;IC;4;18;2;Bachelor's
+117000;Man;IC;10;16;4;Bachelor's
+145000;Man;IC;14;8;6;Master's
+49000;Man;IC;21;12;3;Bachelor's
+123000;Man;IC;22;18;18;Bachelor's
+95000;Man;IC;6;19;2;Bachelor's
+90000;Man;IC;8;18;5;Bachelor's
+75000;Man;IC;16;12;13;Less than bachelor's
+80000;Man;IC;25;18;20;Less than bachelor's
+60000;Man;IC;15;12;9;Bachelor's
+150000;Man;IC;28;14;25;Bachelor's
+75000;Man;IC;10;12;5;Bachelor's
+300000;Man;Manager;30;Younger than 5 years;12;Master's
+180000;Man;IC;37;6;23;Less than bachelor's
+160000;Man;IC;14;12;6;Bachelor's
+85000;Man;IC;18;11;8;Bachelor's
+58500;Man;IC;6;15;3;Master's
+65000;Man;IC;10;16;5;Master's
+91000;Man;IC;31;10;24;Bachelor's
+215000;Man;IC;20;14;12;Master's
+120000;Man;IC;11;20;11;Less than bachelor's
+90000;Man;IC;6;43;5;Less than bachelor's
+117000;Man;IC;25;13;5;PhD
+127500;Man;Manager;11;9;8;Bachelor's
+150000;Man;IC;7;13;5;Bachelor's
+90000;Man;IC;3;35;3;Less than bachelor's
+175000;Man;IC;38;19;38;Master's
+128000;Man;Manager;28;8;18;Bachelor's
+174000;Man;IC;21;16;18;Bachelor's
+60000;Man;IC;7;17;4;Less than bachelor's
+50000;Man;IC;15;13;5;Bachelor's
+145000;Man;IC;19;9;5;Less than bachelor's
+77000;Man;IC;7;14;3;Bachelor's
+110000;Man;IC;14;13;12;Bachelor's
+187000;Man;IC;24;9;22;Bachelor's
+245000;Man;IC;8;18;5;Bachelor's
+95000;Man;IC;12;13;10;Bachelor's
+88500;Man;IC;4;23;4;Less than bachelor's
+98000;Man;IC;23;14;18;Bachelor's
+125000;Man;Manager;10;19;4;NA
+80000;Man;IC;10;Younger than 5 years;4;Bachelor's
+200000;Man;IC;20;9;8;Bachelor's
+83000;Man;IC;8;12;3;Bachelor's
+100000;Man;IC;12;18;6;Bachelor's
+42000;Man;IC;2;14;1;Less than bachelor's
+127000;Man;IC;5;19;3;Bachelor's
+81500;Man;IC;6;15;6;Master's
+77000;Man;IC;10;14;3;Bachelor's
+55000;Man;IC;6;17;2;Bachelor's
+140000;Man;IC;26;12;16;Bachelor's
+140000;Man;IC;20;11;15;Less than bachelor's
+104000;Man;IC;6;33;5;Bachelor's
+63000;Man;IC;30;18;6;Professional
+93000;Man;IC;12;17;7;Bachelor's
+140000;Man;IC;5;33;3;PhD
+250000;Man;IC;12;10;2;Bachelor's
+150000;Man;IC;9;13;4;Bachelor's
+120000;Man;IC;15;15;5;PhD
+122000;Man;IC;11;19;9;Master's
+150000;Man;IC;25;10;14;Bachelor's
+140000;Man;Manager;23;10;23;Bachelor's
+70000;Man;IC;30;9;4;Master's
+96000;Man;IC;7;21;3;Master's
+310000;Man;IC;14;15;10;Bachelor's
+150000;Man;Manager;11;12;10;Bachelor's
+71000;Man;IC;8;14;6;Bachelor's
+65000;Man;IC;3;16;3;Master's
+148000;Man;IC;14;18;8;Bachelor's
+220000;Man;Manager;20;8;17;Less than bachelor's
+138550;Man;IC;12;17;6;Bachelor's
+75000;Man;IC;6;13;3;Bachelor's
+165000;Man;IC;25;11;20;Bachelor's
+210000;Man;Manager;14;13;12;Bachelor's
+150000;Man;IC;29;12;6;Master's
+120000;Man;IC;35;13;NA;Less than bachelor's
+105000;Man;IC;8;24;5;Bachelor's
+515537;Man;Manager;23;13;19;Bachelor's
+100000;Man;IC;14;13;8;Less than bachelor's
+98000;Man;IC;15;12;9;Bachelor's
+105000;Man;IC;20;10;20;Bachelor's
+160000;Man;IC;23;12;12;Bachelor's
+120000;Man;Manager;17;16;12;Bachelor's
+89000;Man;IC;29;14;23;Bachelor's
+110000;Man;IC;9;18;5;Bachelor's
+65000;Man;IC;5;13;3;Less than bachelor's
+71500;Man;IC;7;14;4;Bachelor's
+104000;Woman;IC;2;NA;Less than 1 year;Bachelor's
+160000;Man;Manager;6;24;2;Master's
+180000;Man;IC;8;18;3;Master's
+95000;Man;IC;8;24;7;Bachelor's
+126000;Woman;IC;40;15;10;Master's
+105000;Man;IC;10;10;5;Bachelor's
+163000;Man;IC;34;10;23;Less than bachelor's
+170000;Man;IC;15;16;11;Bachelor's
+160000;Man;IC;20;12;5;Less than bachelor's
+138000;Man;IC;8;15;6;Master's
+310000;Man;Manager;23;11;22;Bachelor's
+110000;Man;IC;6;16;3;Master's
+75000;Woman;IC;2;16;1;Less than bachelor's
+170000;Woman;IC;10;5;6;Bachelor's
+63000;Man;IC;6;14;2;Less than bachelor's
+150000;Man;IC;10;18;7;Master's
+60000;Man;IC;2;25;Less than 1 year;Less than bachelor's
+40000;Man;IC;5;7;5;Less than bachelor's
+104000;Man;IC;17;23;15;Bachelor's
+82000;Man;IC;16;15;9;Bachelor's
+64000;Man;IC;5;14;3;Bachelor's
+90000;Man;Manager;18;12;8;Less than bachelor's
+140000;Man;IC;20;13;16;Bachelor's
